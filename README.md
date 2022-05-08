@@ -1,6 +1,18 @@
 # ios_news
 Software and development
 
+### Episode 1
+- [Core Image Tutorial: Getting Started](https://www.raywenderlich.com/30195423-core-image-tutorial-getting-started)
+- [Send Events from SwiftUI to UIKit and Vice Versa](https://www.swiftjectivec.com/events-from-swiftui-to-uikit-and-vice-versa/)
+- [SwiftUI Supporting External Screens](https://useyourloaf.com/blog/swiftui-supporting-external-screens/)
+- [Clarifying criteria & new timing extension for App Store ](https://developer.apple.com/news/?id=gi6npkmf)
+- [Linking a Swift package only in debug builds](https://augmentedcode.io/2022/05/02/linking-a-swift-package-only-in-debug-builds/)
+- [Practical Core Data](https://practicalcoredata.com)
+- [Open Sourcing URLRouting and VaporRouting](https://www.pointfree.co/blog/posts/75-open-sourcing-urlrouting-and-vaporrouting)
+- [Mobile Systems Design](https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc)
+- [The Golden Rules of `weak self`](https://chrisdownie.net/software/2022/04/10/the-golden-rules-of-weak-self/)
+- [APP ICON BOOK](https://www.appiconbook.com/)
+
 
 ### Episode 0
 - [AttributedString’s Codable format and what it has to do with Unicode](https://oleb.net/2022/attributedstring-codable/)
