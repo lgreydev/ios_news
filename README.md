@@ -1,6 +1,13 @@
 # ios_news
 Software and development
 
+- [**2022**](#2022)
+    - [Episode 0](#episode-0)
+    - [Episode 1](#episode-1)
+    - [Episode 2](#episode-2)
+
+
+## 2022
 
 ### Episode 0
 - [AttributedString’s Codable format and what it has to do with Unicode](https://oleb.net/2022/attributedstring-codable/)
@@ -28,14 +35,14 @@ Software and development
 - [APP ICON BOOK](https://www.appiconbook.com/)
 
 
-### Episode 3
-- []()
-- []()
-- [](https://useyourloaf.com/blog/swiftui-supporting-external-screens/)
-- [](https://developer.apple.com/news/?id=gi6npkmf)
-- [](https://augmentedcode.io/2022/05/02/linking-a-swift-package-only-in-debug-builds/)
-- [](https://practicalcoredata.com)
-- [](https://www.pointfree.co/blog/posts/75-open-sourcing-urlrouting-and-vaporrouting)
-- [](https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc)
-- [](https://chrisdownie.net/software/2022/04/10/the-golden-rules-of-weak-self/)
-- [](https://www.appiconbook.com/)
+### Episode 2
+- [WWDC22 special event submissions open](https://developer.apple.com/news/?id=8u158nnp)
+- [Memory leaks prevention using an autoreleasepool in unit tests](https://www.avanderlee.com/swift/memory-leaks-unit-tests/)
+- [In-Out Parameters In Swift Functions](https://serialcoder.dev/text-tutorials/swift-tutorials/in-out-parameters-in-swift-functions/)
+- [Monospace Digits](https://useyourloaf.com/blog/monospace-digits/)
+- [Measuring app performance in Swift](https://swiftwithmajid.com/2022/05/04/measuring-app-performance-in-swift/)
+- [How @MainActor works](https://oleb.net/2022/how-mainactor-works/)
+- [Acing the iOS Interview](https://www.raywenderlich.com/25254417-acing-the-ios-interview)
+- [How to Start iOS Development Career - The 5 Steps Plan](https://holyswift.app/how-to-start-ios-development-career-the-5-steps-plan)
+- [Using new Swift Async Algorithms package to close the gap on Combine](https://johnoreilly.dev/posts/swift-async-algorithms-combine/)
+- [iOS Accessibility in SwiftUI: Create Accessible Charts using Audio Graphs](https://www.raywenderlich.com/31561694-ios-accessibility-in-swiftui-create-accessible-charts-using-audio-graphs)
