@@ -1,4 +1,4 @@
-# ios_news
+# iOS News
 Software and development
 
 - [**2022**](#2022)
