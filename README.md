@@ -5,6 +5,7 @@ Software and development
     - [Episode 0](#episode-0)
     - [Episode 1](#episode-1)
     - [Episode 2](#episode-2)
+    - [Episode 3](#episode-3)
 
 
 ## 2022
@@ -46,3 +47,13 @@ Software and development
 - [How to Start iOS Development Career - The 5 Steps Plan](https://holyswift.app/how-to-start-ios-development-career-the-5-steps-plan)
 - [Using new Swift Async Algorithms package to close the gap on Combine](https://johnoreilly.dev/posts/swift-async-algorithms-combine/)
 - [iOS Accessibility in SwiftUI: Create Accessible Charts using Audio Graphs](https://www.raywenderlich.com/31561694-ios-accessibility-in-swiftui-create-accessible-charts-using-audio-graphs)
+
+
+### Episode 3
+- [Apple Developer Academy](https://www.createwithswift.com/call-for-application-apple-developer-academy-2022/)
+- [The SwiftUI Series](https://www.swiftuiseries.com/)
+- [Calling Private APIs in iOS](https://www.swiftjectivec.com/calling-private-ios-apis-using-nsinvocation/)
+- [Swift package manager](https://theswiftdev.com/beginners-guide-to-swift-package-manager-command-plugins/)
+- [Piecemeal adoption of Swift 6](https://forums.swift.org/t/piecemeal-adoption-of-swift-6-improvements-in-swift-5-x/57184)
+- [Creating a property wrapper to persist Codable types](https://danielsaidi.com/blog/2022/05/13/creating-a-property-wrapper-to-persist-codable-types)
+- [When to remove your iOS app from the App Store](https://benoitpasquier.com/remove-ios-app-from-app-store/)
