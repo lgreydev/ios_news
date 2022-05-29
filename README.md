@@ -6,6 +6,7 @@ Software and development
     - [Episode 1](#episode-1)
     - [Episode 2](#episode-2)
     - [Episode 3](#episode-3)
+    - [Episode 4](#episode-4)
 
 
 ## 2022
@@ -57,3 +58,21 @@ Software and development
 - [Piecemeal adoption of Swift 6](https://forums.swift.org/t/piecemeal-adoption-of-swift-6-improvements-in-swift-5-x/57184)
 - [Creating a property wrapper to persist Codable types](https://danielsaidi.com/blog/2022/05/13/creating-a-property-wrapper-to-persist-codable-types)
 - [When to remove your iOS app from the App Store](https://benoitpasquier.com/remove-ios-app-from-app-store/)
+
+
+### Episode 4
+- [116: “The evolution of SwiftUI” with special guest Chris Eidhof](https://www.swiftbysundell.com/podcast/116/)
+- [SwiftUI Series - Speedrun](https://youtu.be/TE8n1CsQQ2g)
+- [Creating your own file template in Xcode](https://arturgruchala.com/creating-your-own-file/)
+- [AttributedString Attribute Scopes](https://nilcoalescing.com/blog/AttributedStringAttributeScopes/)
+- [Mastering TimelineView in SwiftUI](https://swiftwithmajid.com/2022/05/18/mastering-timelineview-in-swiftui/)
+- [What's A Best-in-Class macOS App Look Like?](https://www.swiftjectivec.com/what-does-a-best-in-class-macos-app-look-like/)
+
+
+
+
+
+
+
+
+
