@@ -7,6 +7,7 @@ Software and development
     - [Episode 2](#episode-2)
     - [Episode 3](#episode-3)
     - [Episode 4](#episode-4)
+    - [Episode 5](#episode-5)
 
 
 ## 2022
@@ -67,6 +68,17 @@ Software and development
 - [AttributedString Attribute Scopes](https://nilcoalescing.com/blog/AttributedStringAttributeScopes/)
 - [Mastering TimelineView in SwiftUI](https://swiftwithmajid.com/2022/05/18/mastering-timelineview-in-swiftui/)
 - [What's A Best-in-Class macOS App Look Like?](https://www.swiftjectivec.com/what-does-a-best-in-class-macos-app-look-like/)
+
+
+### Episode 5
+- [How to Start iOS Development Career](https://holyswift.app/how-to-start-ios-development-career-part-4-common-ios-programming-features)
+- [OpenHaystack framework](https://github.com/seemoo-lab/openhaystack)
+- [Catalyst by Tutorials](https://www.raywenderlich.com/books/catalyst-by-tutorials)
+- [Saving Data in iOS](https://www.raywenderlich.com/28868069-saving-data-in-ios)
+- [How to Make a Game Like Wordle in SwiftUI](https://www.raywenderlich.com/31881532-how-to-make-a-game-like-wordle-in-swiftui-part-two)
+- [NSDateFormatter](https://nsdateformatter.com/#examples)
+- [Swiftcord](https://github.com/SwiftcordApp/Swiftcord)
+
 
 
 
