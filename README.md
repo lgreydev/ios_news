@@ -82,13 +82,13 @@ Software and development
 
 
 ### Episode 6
--[Apple Design Awards](https://developer.apple.com/videos/play/wwdc2022/103/)
--[Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2022/102/)
--[Hello Swift Charts](https://developer.apple.com/videos/play/wwdc2022/10136/)
--[Bring your driver to iPad with DriverKit](https://developer.apple.com/videos/play/wwdc2022/110373/)
--[Meet Swift Regex](https://developer.apple.com/videos/play/wwdc2022/110357/)
--[What's new in SF Symbols 4](https://developer.apple.com/videos/play/wwdc2022/10157/)
--[Meet Apple Maps Server APIs](https://developer.apple.com/videos/play/wwdc2022/10006/)
+- [Apple Design Awards](https://developer.apple.com/videos/play/wwdc2022/103/)
+- [Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2022/102/)
+- [Hello Swift Charts](https://developer.apple.com/videos/play/wwdc2022/10136/)
+- [Bring your driver to iPad with DriverKit](https://developer.apple.com/videos/play/wwdc2022/110373/)
+- [Meet Swift Regex](https://developer.apple.com/videos/play/wwdc2022/110357/)
+- [What's new in SF Symbols 4](https://developer.apple.com/videos/play/wwdc2022/10157/)
+- [Meet Apple Maps Server APIs](https://developer.apple.com/videos/play/wwdc2022/10006/)
 
 
 
