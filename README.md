@@ -9,6 +9,7 @@ Software and development
     - [Episode 4](#episode-4)
     - [Episode 5](#episode-5)
     - [Episode 6](#episode-6)
+    - [Episode 7](#episode-7)
 
 
 ## 2022
@@ -90,7 +91,14 @@ Software and development
 - [What's new in SF Symbols 4](https://developer.apple.com/videos/play/wwdc2022/10157/)
 - [Meet Apple Maps Server APIs](https://developer.apple.com/videos/play/wwdc2022/10006/)
 
-
+### Episode 7
+- [The SwiftUI cookbook for navigation](https://developer.apple.com/videos/play/wwdc2022/10054/)
+- [What's new in managing Apple devices](https://developer.apple.com/videos/play/wwdc2022/10045/)
+- [Implement App Shortcuts with App Intents](https://developer.apple.com/videos/play/wwdc2022/10170/)
+- [Get timely alerts from Bluetooth devices on watchOS](https://developer.apple.com/videos/play/wwdc2022/10135/)
+- [Program Metal in C++ with metal-cpp](https://developer.apple.com/videos/play/wwdc2022/10160/)
+- [Visualize and optimize Swift concurrency](https://developer.apple.com/videos/play/wwdc2022/110350/)
+- [Complications and widgets: Reloaded](https://developer.apple.com/videos/play/wwdc2022/10050/)
 
 
 
