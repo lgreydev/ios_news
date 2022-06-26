@@ -10,6 +10,7 @@ Software and development
     - [Episode 5](#episode-5)
     - [Episode 6](#episode-6)
     - [Episode 7](#episode-7)
+    - [Episode 8](#episode-8)
 
 
 ## 2022
@@ -100,7 +101,14 @@ Software and development
 - [Visualize and optimize Swift concurrency](https://developer.apple.com/videos/play/wwdc2022/110350/)
 - [Complications and widgets: Reloaded](https://developer.apple.com/videos/play/wwdc2022/10050/)
 
-
+### Episode 8
+- [Meet Focus filters](https://developer.apple.com/videos/play/wwdc2022/10121/)
+- [Explore more content with MusicKit](https://developer.apple.com/videos/play/wwdc2022/110347/)
+- [What's new in Swift](https://developer.apple.com/videos/play/wwdc2022/110354/)
+- [Build your first app in Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2022/110348/)
+- [Enhance voice communication with Push to Talk](https://developer.apple.com/videos/play/wwdc2022/10117/)
+- [Get more mileage out of your app with CarPlay](https://developer.apple.com/videos/play/wwdc2022/10016/)
+- [What's new in UIKit](https://developer.apple.com/videos/play/wwdc2022/10068/)
 
 
 
