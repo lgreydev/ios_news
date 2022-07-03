@@ -11,6 +11,7 @@ Software and development
     - [Episode 6](#episode-6)
     - [Episode 7](#episode-7)
     - [Episode 8](#episode-8)
+    - [Episode 9](#episode-9)
 
 
 ## 2022
@@ -110,6 +111,12 @@ Software and development
 - [Get more mileage out of your app with CarPlay](https://developer.apple.com/videos/play/wwdc2022/10016/)
 - [What's new in UIKit](https://developer.apple.com/videos/play/wwdc2022/10068/)
 
-
-
+### Episode 9
+-[What's new in SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10052/)
+-[Meet Web Push for Safari](https://developer.apple.com/videos/play/wwdc2022/10098/)
+-[Adopt desktop-class editing interactions](https://developer.apple.com/videos/play/wwdc2022/10071/)
+-[What's new in Xcode](https://developer.apple.com/videos/play/wwdc2022/110427/)
+-[Discover Metal 3](https://developer.apple.com/videos/play/wwdc2022/10066/)
+-[Get the most out of Xcode Cloud](https://developer.apple.com/videos/play/wwdc2022/110374/)
+-[What's new in SharePlay](https://developer.apple.com/videos/play/wwdc2022/10140/)
 
