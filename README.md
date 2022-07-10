@@ -12,6 +12,7 @@ Software and development
     - [Episode 7](#episode-7)
     - [Episode 8](#episode-8)
     - [Episode 9](#episode-9)
+    - [Episode 10](#episode-10)
 
 
 ## 2022
@@ -120,3 +121,11 @@ Software and development
 - [Get the most out of Xcode Cloud](https://developer.apple.com/videos/play/wwdc2022/110374/)
 - [What's new in SharePlay](https://developer.apple.com/videos/play/wwdc2022/10140/)
 
+### Episode 10
+- [Bring your world into augmented reality](https://developer.apple.com/videos/play/wwdc2022/10128/)
+- [Meet WeatherKit](https://developer.apple.com/videos/play/wwdc2022/10003/)
+- [Get to know Create ML Components](https://developer.apple.com/videos/play/wwdc2022/10019/)
+- [Meet Swift Async Algorithms](https://developer.apple.com/videos/play/wwdc2022/110355/)
+- [Bring Continuity Camera to your macOS app](https://developer.apple.com/videos/play/wwdc2022/10018/)
+- [Capture machine-readable codes and text with VisionKit](https://developer.apple.com/videos/play/wwdc2022/10025/)
+- [Qualities of great AR experiences](https://developer.apple.com/videos/play/wwdc2022/10131/)
