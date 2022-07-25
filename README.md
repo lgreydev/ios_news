@@ -14,6 +14,7 @@ Software and development
     - [Episode 9](#episode-9)
     - [Episode 10](#episode-10)
     - [Episode 11](#episode-11)
+    - [Episode 12](#episode-12)
 
 
 ## 2022
@@ -139,3 +140,13 @@ Software and development
 - [What's new in Nearby Interaction](https://developer.apple.com/videos/play/wwdc2022/10008/)
 - [Dive into App Intents](https://developer.apple.com/videos/play/wwdc2022/10032/)
 - [Add accessibility to your Unity games](https://developer.apple.com/videos/play/wwdc2022/10151/)
+
+### Episode 12
+- [What's new with in-app purchase](https://developer.apple.com/videos/play/wwdc2022/10007/)
+- [Create macOS or Linux virtual machines](https://developer.apple.com/videos/play/wwdc2022/10002/)
+- [Meet passkeys](https://developer.apple.com/videos/play/wwdc2022/10092/)
+- [Meet desktop-class iPad](https://developer.apple.com/videos/play/wwdc2022/10069/)
+- [What’s new in notarization for Mac apps](https://developer.apple.com/videos/play/wwdc2022/10109/)
+- [What's new in App Clips](https://developer.apple.com/videos/play/wwdc2022/10097/)
+- [Deliver reliable streams with HLS Content Steering](https://developer.apple.com/videos/play/wwdc2022/10144/)
+
