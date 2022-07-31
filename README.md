@@ -15,6 +15,7 @@ Software and development
     - [Episode 10](#episode-10)
     - [Episode 11](#episode-11)
     - [Episode 12](#episode-12)
+    - [Episode 13](#episode-13)
 
 
 ## 2022
@@ -149,4 +150,13 @@ Software and development
 - [What’s new in notarization for Mac apps](https://developer.apple.com/videos/play/wwdc2022/10109/)
 - [What's new in App Clips](https://developer.apple.com/videos/play/wwdc2022/10097/)
 - [Deliver reliable streams with HLS Content Steering](https://developer.apple.com/videos/play/wwdc2022/10144/)
+
+### Episode 13
+- [Load resources faster with Metal 3](https://developer.apple.com/videos/play/wwdc2022/10104/)
+- [Plug-in and play: Add Apple frameworks to your Unity game projects](https://developer.apple.com/videos/play/wwdc2022/10065/)
+- [What's new in Safari and WebKit](https://developer.apple.com/videos/play/wwdc2022/10048/)
+- [Create parametric 3D room scans with RoomPlan](https://developer.apple.com/videos/play/wwdc2022/10127/)
+- [Adopt Variable Color in SF Symbols](https://developer.apple.com/videos/play/wwdc2022/10158/)
+- [Enhance collaboration experiences with Messages](https://developer.apple.com/videos/play/wwdc2022/10095/)
+- [Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)
 
