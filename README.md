@@ -16,6 +16,7 @@ Software and development
     - [Episode 11](#episode-11)
     - [Episode 12](#episode-12)
     - [Episode 13](#episode-13)
+    - [Episode 14](#episode-14)
 
 
 ## 2022
@@ -159,4 +160,13 @@ Software and development
 - [Adopt Variable Color in SF Symbols](https://developer.apple.com/videos/play/wwdc2022/10158/)
 - [Enhance collaboration experiences with Messages](https://developer.apple.com/videos/play/wwdc2022/10095/)
 - [Add Live Text interaction to your app](https://developer.apple.com/videos/play/wwdc2022/10026/)
+
+### Episode 14
+- [Optimize your Core ML usage](https://developer.apple.com/videos/play/wwdc2022/10027/)
+- [Meet distributed actors in Swift](https://developer.apple.com/videos/play/wwdc2022/110356/)
+- [What's new in Swift-DocC](https://developer.apple.com/videos/play/wwdc2022/110368/)
+- [Explore in-app purchase integration and migration](https://developer.apple.com/videos/play/wwdc2022/10040/)
+- [Design App Shortcuts](https://developer.apple.com/videos/play/wwdc2022/10169/)
+- [Meet Background Assets](https://developer.apple.com/videos/play/wwdc2022/110403/)
+- [Explore EDR on iOS](https://developer.apple.com/videos/play/wwdc2022/10113/)
 
