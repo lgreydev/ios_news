@@ -17,6 +17,7 @@ Software and development
     - [Episode 12](#episode-12)
     - [Episode 13](#episode-13)
     - [Episode 14](#episode-14)
+    - [Episode 15](#episode-15)
 
 
 ## 2022
@@ -169,4 +170,13 @@ Software and development
 - [Design App Shortcuts](https://developer.apple.com/videos/play/wwdc2022/10169/)
 - [Meet Background Assets](https://developer.apple.com/videos/play/wwdc2022/110403/)
 - [Explore EDR on iOS](https://developer.apple.com/videos/play/wwdc2022/10113/)
+
+### Episode 15
+- [What’s new in privacy](https://developer.apple.com/videos/play/wwdc2022/10096/)
+- [Take ScreenCaptureKit to the next level](https://developer.apple.com/videos/play/wwdc2022/10155/)
+- [Swift Regex: Beyond the basics](https://developer.apple.com/videos/play/wwdc2022/110358/)
+- [What’s new in CloudKit Console](https://developer.apple.com/videos/play/wwdc2022/10115/)
+- [Boost performance with MetalFX Upscaling](https://developer.apple.com/videos/play/wwdc2022/10103/)
+- [Design app experiences with charts](https://developer.apple.com/videos/play/wwdc2022/110342/)
+- [Optimize your use of Core Data and CloudKit](https://developer.apple.com/videos/play/wwdc2022/10119/)
 
