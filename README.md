@@ -18,6 +18,9 @@ Software and development
     - [Episode 13](#episode-13)
     - [Episode 14](#episode-14)
     - [Episode 15](#episode-15)
+    
+    
+    let 2022 = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16)]
 
 
 ## 2022
@@ -179,4 +182,16 @@ Software and development
 - [Boost performance with MetalFX Upscaling](https://developer.apple.com/videos/play/wwdc2022/10103/)
 - [Design app experiences with charts](https://developer.apple.com/videos/play/wwdc2022/110342/)
 - [Optimize your use of Core Data and CloudKit](https://developer.apple.com/videos/play/wwdc2022/10119/)
+
+
+### Episode 16
+- [Target and optimize GPU binaries with Metal 3](https://developer.apple.com/videos/play/wwdc2022/10102/)
+- [Eliminate data races using Swift Concurrency](https://developer.apple.com/videos/play/wwdc2022/110351/)
+- [Integrate your custom collaboration app with Messages](https://developer.apple.com/videos/play/wwdc2022/10093/)
+- [Meet the expanded San Francisco font family](https://developer.apple.com/videos/play/wwdc2022/110381/)
+- [Compose custom layouts with SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10056/)
+- [Build global apps: Localization by example](https://developer.apple.com/videos/play/wwdc2022/10110/)
+- [Meet Transferable](https://developer.apple.com/videos/play/wwdc2022/10062/)
+
+
 
