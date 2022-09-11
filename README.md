@@ -1,10 +1,21 @@
 # iOS News
 Software and development
  
-[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18)]
+[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19)]
 
 
 ## 2022
+
+
+### Episode 19
+- [Build a desktop-class iPad app](https://developer.apple.com/videos/play/wwdc2022/10070/)
+- [What’s new in AVQT](https://developer.apple.com/videos/play/wwdc2022/10149/)
+- [Use Xcode to develop a multiplatform app](https://developer.apple.com/videos/play/wwdc2022/110371/)
+- [Create engaging content for Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2022/110349/)
+- [Display ads and interstitials in SharePlay](https://developer.apple.com/videos/play/wwdc2022/110380/)
+- [Bring your iOS app to the Mac](https://developer.apple.com/videos/play/wwdc2022/10076/)
+- [What's new with SKAdNetwork](https://developer.apple.com/videos/play/wwdc2022/10038/)
+
 
 ### Episode 18
 - [Meet ScreenCaptureKit](https://developer.apple.com/videos/play/wwdc2022/10156/)
