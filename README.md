@@ -1,10 +1,19 @@
 # iOS News
 Software and development
  
-[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19)]
+[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20)]
 
 
 ## 2022
+
+### Episode 20
+- [Link fast: Improve build and launch times](https://developer.apple.com/videos/play/wwdc2022/110362/)
+- [What’s new in Safari Web Extensions](https://developer.apple.com/videos/play/wwdc2022/10099/)
+- [Explore USD tools and rendering](https://developer.apple.com/videos/play/wwdc2022/10141/)
+- [Adopt declarative device management](https://developer.apple.com/videos/play/wwdc2022/10046/)
+- [Design an effective chart](https://developer.apple.com/videos/play/wwdc2022/110340/)
+- [Add Shared with You to your app](https://developer.apple.com/videos/play/wwdc2022/10094/)
+- [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/)
 
 
 ### Episode 19
