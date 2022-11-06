@@ -6,14 +6,14 @@ Software and development
 
 ## 2022
 
-### Episode 26
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+### Episode 27
+- [Simplify C++ templates with concepts](https://developer.apple.com/videos/play/wwdc2022/110367/)
+- [What's new in App Store Connect](https://developer.apple.com/videos/play/wwdc2022/10043/)
+- [Evolve your Core Data schema](https://developer.apple.com/videos/play/wwdc2022/10120/)
+- [Discover ARKit 6](https://developer.apple.com/videos/play/wwdc2022/10126/)
+- [Design protocol interfaces in Swift](https://developer.apple.com/videos/play/wwdc2022/110353/)
+- [Author fast and reliable tests for Xcode Cloud](https://developer.apple.com/videos/play/wwdc2022/110361/)
+- [Implement proactive in-app purchase restore](https://developer.apple.com/videos/play/wwdc2022/110404/)
 
 
 ### Episode 26
