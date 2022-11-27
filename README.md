@@ -1,10 +1,20 @@
 # iOS News
 Software and development
  
-[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20), [Episode 21](#episode-21), [Episode 22](#episode-22), [Episode 23](#episode-23), [Episode 24](#episode-24), [Episode 25](#episode-25), [Episode 26](#episode-26), [Episode 27](#episode-27), [Episode 28](#episode-28), [Episode 29](#episode-29)]
+[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20), [Episode 21](#episode-21), [Episode 22](#episode-22), [Episode 23](#episode-23), [Episode 24](#episode-24), [Episode 25](#episode-25), [Episode 26](#episode-26), [Episode 27](#episode-27), [Episode 28](#episode-28), [Episode 29](#episode-29), [Episode 30](#episode-30)]
 
 
 ## 2022
+
+### Episode 30
+- [Create Swift Package plugins](https://developer.apple.com/videos/play/wwdc2022/110401/)
+- [Improve DNS security for apps and servers](https://developer.apple.com/videos/play/wwdc2022/10079/)
+- [Explore media metadata publishing and playback interactions](https://developer.apple.com/videos/play/wwdc2022/110338/)
+- [What's new in PDFKit](https://developer.apple.com/videos/play/wwdc2022/10089/)
+- [Create accessible Single App Mode experiences](https://developer.apple.com/videos/play/wwdc2022/10152/)
+- [Accelerate machine learning with Metal](https://developer.apple.com/videos/play/wwdc2022/10063/)
+- [Scale compute workloads across Apple GPUs](https://developer.apple.com/videos/play/wwdc2022/10159/)
+
 
 ### Episode 29
 - [Explore the machine learning development experience](https://developer.apple.com/videos/play/wwdc2022/10017/)
