@@ -1,10 +1,20 @@
 # iOS News
 Software and development
  
-[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20), [Episode 21](#episode-21), [Episode 22](#episode-22), [Episode 23](#episode-23), [Episode 24](#episode-24), [Episode 25](#episode-25), [Episode 26](#episode-26), [Episode 27](#episode-27), [Episode 28](#episode-28), [Episode 29](#episode-29), [Episode 30](#episode-30), [Episode 31](#episode-31)]
+[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20), [Episode 21](#episode-21), [Episode 22](#episode-22), [Episode 23](#episode-23), [Episode 24](#episode-24), [Episode 25](#episode-25), [Episode 26](#episode-26), [Episode 27](#episode-27), [Episode 28](#episode-28), [Episode 29](#episode-29), [Episode 30](#episode-30), [Episode 31](#episode-31), [Episode 32](#episode-32)]
 
 
 ## 2022
+
+### Episode 32
+- [@dynamicCallable in Swift](https://www.avanderlee.com/swift/dynamiccallable/)
+- [Test Your Command-Line Tool In Xcode](https://blog.eidinger.info/test-your-command-line-tool-in-xcode)
+- [Using complex gestures in a SwiftUI ScrollView](https://danielsaidi.com/blog/2022/11/16/using-complex-gestures-in-a-scroll-view)
+- [Better SwiftUI navigation APIs](https://www.pointfree.co/blog/posts/84-better-swiftui-navigation-apis)
+- [How to Use some Generics?](https://async.techconnection.io/talks/frenchkit-2022/antoine-van-der-lee-any-idea-how-to-use-some-generics/)
+- [Allow XCTest to simulate location](https://testableapple.com/note-35/)
+- [FormatStyle and TextField in SwiftUI](https://www.avanderlee.com/swiftui/formatstyle-formatter-restrict-textfield-input/)
+
 
 ### Episode 31
 - [What's new in Screen Time API](https://developer.apple.com/videos/play/wwdc2022/110336/)
