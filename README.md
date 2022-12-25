@@ -1,10 +1,21 @@
 # iOS News
 Software and development
  
-[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20), [Episode 21](#episode-21), [Episode 22](#episode-22), [Episode 23](#episode-23), [Episode 24](#episode-24), [Episode 25](#episode-25), [Episode 26](#episode-26), [Episode 27](#episode-27), [Episode 28](#episode-28), [Episode 29](#episode-29), [Episode 30](#episode-30), [Episode 31](#episode-31), [Episode 32](#episode-32), [Episode 33](#episode-33)]
+[let 2022](#2022) = [[Episode 0](#episode-0), [Episode 1](#episode-1), [Episode 2](#episode-2), [Episode 3](#episode-3), [Episode 4](#episode-4), [Episode 5](#episode-5), [Episode 6](#episode-6), [Episode 7](#episode-7), [Episode 8](#episode-8), [Episode 9](#episode-9), [Episode 10](#episode-10), [Episode 11](#episode-11), [Episode 12](#episode-12), [Episode 13](#episode-13), [Episode 14](#episode-14), [Episode 15](#episode-15), [Episode 16](#episode-16), [Episode 17](#episode-17), [Episode 18](#episode-18), [Episode 19](#episode-19), [Episode 20](#episode-20), [Episode 21](#episode-21), [Episode 22](#episode-22), [Episode 23](#episode-23), [Episode 24](#episode-24), [Episode 25](#episode-25), [Episode 26](#episode-26), [Episode 27](#episode-27), [Episode 28](#episode-28), [Episode 29](#episode-29), [Episode 30](#episode-30), [Episode 31](#episode-31), [Episode 32](#episode-32), [Episode 33](#episode-33, [Episode 34](#episode-34))]
 
 
 ## 2022
+
+
+### Episode 34
+- [SwiftLee 2022: A Year in Review](https://www.avanderlee.com/general/swiftlee-2022-a-year-in-review/)
+- [Subscription Tutorial with StoreKit 2 and Swift](https://www.revenuecat.com/blog/engineering/ios-in-app-subscription-tutorial-with-storekit-2-and-swift/)
+- [Swift Stride Quick Guide](https://useyourloaf.com/blog/swift-stride-quick-guide/)
+- [Secret Measurement Feature in the New iPhone](https://holyswift.app/the-nice-secret-feature-in-the-new-iphone/)
+- [Testing Apps with an iPhone and the CarPlay Simulator](https://www.createwithswift.com/testing-apps-with-an-iphone-and-the-carplay-simulator/)
+- [So Long, Old Friend](https://www.swiftjectivec.com/so-long-old-friend-spend-stack-retired-from-app-store/)
+- [The Future of Foundation](https://www.swift.org/blog/future-of-foundation/)
+
 
 ### Episode 33
 - [How to manage build](https://www.danijelavrzan.com/posts/2022/11/xcode-configuration/)
