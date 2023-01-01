@@ -6,10 +6,10 @@
 - [Large number separators](https://www.swiftwithvincent.com/tips/large-number-separators)
 - [Configuring UI tests with launch arguments](https://www.polpiella.dev/configuring-ui-tests-with-launch-arguments)
 - [Building custom layout in SwiftUI](https://swiftwithmajid.com/2022/12/14/building-custom-layout-in-swiftui-layoutvaluekey/)
-- []()
-- []()
-- []()
-- []()
+- [Using ChatGPT to reply to App Store Reviews](https://twitter.com/jordibruin/status/1602613434658525185)
+- [AppCode 2022.3 Release and End of Sales and Support](https://blog.jetbrains.com/appcode/2022/12/appcode-2022-3-release-and-end-of-sales-and-support/)
+- [Receiving UI designs as a developer](https://swiftindepth.com/articles/receiving-designs/)
+- [Enum explained in-depth with code examples in Swift](https://www.avanderlee.com/swift/enumerations/)
  
  
 <details>
