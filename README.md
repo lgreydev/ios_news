@@ -2,7 +2,28 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 35
+ ### Episode 36
+- [Tour through Swift Attributes](https://watch.softinio.com/w/d6jiJFm5hEFrzmKw9kdgXC)
+- [Formatting dates in SwiftUI](https://twitter.com/moorvladimir/status/1604764214497005568)
+- [Previewing Stateful SwiftUI Views](https://peterfriese.dev/posts/swiftui-previews-interactive/)
+- [The importance of an app’s feel](https://twitter.com/createwithplay/status/1605632128762290178)
+- [Testing challenges in a mobile environment](https://swiftindepth.com/articles/mobile_testing_challenges/)
+- [Faster Apple Builds with the lld Linker](https://eisel.me/lld)
+
+ 
+<details>
+<summary>2023</summary>
+
+ ### Episode 36
+- [Tour through Swift Attributes](https://watch.softinio.com/w/d6jiJFm5hEFrzmKw9kdgXC)
+- [Formatting dates in SwiftUI](https://twitter.com/moorvladimir/status/1604764214497005568)
+- [Previewing Stateful SwiftUI Views](https://peterfriese.dev/posts/swiftui-previews-interactive/)
+- [The importance of an app’s feel](https://twitter.com/createwithplay/status/1605632128762290178)
+- [Testing challenges in a mobile environment](https://swiftindepth.com/articles/mobile_testing_challenges/)
+- [Faster Apple Builds with the lld Linker](https://eisel.me/lld)
+
+
+### Episode 35
 - [Large number separators](https://www.swiftwithvincent.com/tips/large-number-separators)
 - [Configuring UI tests with launch arguments](https://www.polpiella.dev/configuring-ui-tests-with-launch-arguments)
 - [Building custom layout in SwiftUI](https://swiftwithmajid.com/2022/12/14/building-custom-layout-in-swiftui-layoutvaluekey/)
@@ -10,18 +31,8 @@
 - [AppCode 2022.3 Release and End of Sales and Support](https://blog.jetbrains.com/appcode/2022/12/appcode-2022-3-release-and-end-of-sales-and-support/)
 - [Receiving UI designs as a developer](https://swiftindepth.com/articles/receiving-designs/)
 - [Enum explained in-depth with code examples in Swift](https://www.avanderlee.com/swift/enumerations/)
- 
- 
-<details>
-<summary>2023</summary>
- 
-
-### Episode 35
-- [SwiftLee 2022: A Year in Review](https://www.avanderlee.com/general/swiftlee-2022-a-year-in-review/)
-- []()
 
 </details>
-
 
 
 <details>
