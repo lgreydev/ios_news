@@ -14,15 +14,6 @@
 <details>
 <summary>2023</summary>
 
- ### Episode 36
-- [Tour through Swift Attributes](https://watch.softinio.com/w/d6jiJFm5hEFrzmKw9kdgXC)
-- [Formatting dates in SwiftUI](https://twitter.com/moorvladimir/status/1604764214497005568)
-- [Previewing Stateful SwiftUI Views](https://peterfriese.dev/posts/swiftui-previews-interactive/)
-- [The importance of an app’s feel](https://twitter.com/createwithplay/status/1605632128762290178)
-- [Testing challenges in a mobile environment](https://swiftindepth.com/articles/mobile_testing_challenges/)
-- [Faster Apple Builds with the lld Linker](https://eisel.me/lld)
-
-
 ### Episode 35
 - [Large number separators](https://www.swiftwithvincent.com/tips/large-number-separators)
 - [Configuring UI tests with launch arguments](https://www.polpiella.dev/configuring-ui-tests-with-launch-arguments)
