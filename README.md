@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 37
+- [How to become a more successful developer](https://www.avanderlee.com/optimization/engineering-goals-become-successful-developer/)
+- [A minimal implementation of State and Binding with Swift](https://whackylabs.com/architecture/combine/swift/ios/2022/12/27/minimal-state-binding/)
+- [iOS development trends in review](https://swiftwithmajid.com/2022/12/27/ios-development-trends-in-review/)
+- [Limit Swift Concurrency's cooperative pool](https://alejandromp.com/blog/limit-swift-concurrency-cooperative-pool/)
+- [Starting with Swift 5.8](https://twitter.com/yaapete/status/1605494021920415745)
+- [SwiftUI Tip: Always correct corner radius for subviews](https://nemecek.be/blog/183/swiftui-tip-always-correct-corner-radius-for-subviews)
+- [Preparing for a technical iOS job interview with questions and answers](https://tanaschita.com/20230102-ios-interview-questions-and-answers-book-preview/)
+
+ 
+<details>
+<summary>2023</summary>
+
  ### Episode 36
 - [Tour through Swift Attributes](https://watch.softinio.com/w/d6jiJFm5hEFrzmKw9kdgXC)
 - [Formatting dates in SwiftUI](https://twitter.com/moorvladimir/status/1604764214497005568)
@@ -9,10 +22,6 @@
 - [The importance of an app’s feel](https://twitter.com/createwithplay/status/1605632128762290178)
 - [Testing challenges in a mobile environment](https://swiftindepth.com/articles/mobile_testing_challenges/)
 - [Faster Apple Builds with the lld Linker](https://eisel.me/lld)
-
- 
-<details>
-<summary>2023</summary>
 
 ### Episode 35
 - [Large number separators](https://www.swiftwithvincent.com/tips/large-number-separators)
