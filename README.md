@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 37
+ ### Episode 38
+- [RocketSim 9.0: Enhance your iOS Simulator](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
+- [A new library to control dependencies](https://www.pointfree.co/blog/posts/92-a-new-library-to-control-dependencies-and-avoid-letting-them-control-you)
+- [Prevent copy & paste into other iOS apps](https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps)
+- [Xcode Cloud scripts: Fastlane and Cocoapods](https://www.polpiella.dev/xcode-cloud-scripts-fastlane-and-cocoapods/)
+- [The dumbest thing about imageLiteral](https://samwize.com/2023/01/09/the-dumbest-thing-about-imageliteral/)
+- [Stress testing on iOS with xcmonkey](https://testableapple.com/note-36/)
+- [Hacking with Swift Newsletter: January 2023](https://twostraws.gumroad.com/p/hacking-with-swift-newsletter-january-2023)
+ 
+ 
+<details>
+<summary>2023</summary>
+
+### Episode 37
 - [How to become a more successful developer](https://www.avanderlee.com/optimization/engineering-goals-become-successful-developer/)
 - [A minimal implementation of State and Binding with Swift](https://whackylabs.com/architecture/combine/swift/ios/2022/12/27/minimal-state-binding/)
 - [iOS development trends in review](https://swiftwithmajid.com/2022/12/27/ios-development-trends-in-review/)
@@ -11,9 +24,6 @@
 - [SwiftUI Tip: Always correct corner radius for subviews](https://nemecek.be/blog/183/swiftui-tip-always-correct-corner-radius-for-subviews)
 - [Preparing for a technical iOS job interview with questions and answers](https://tanaschita.com/20230102-ios-interview-questions-and-answers-book-preview/)
 
- 
-<details>
-<summary>2023</summary>
 
  ### Episode 36
 - [Tour through Swift Attributes](https://watch.softinio.com/w/d6jiJFm5hEFrzmKw9kdgXC)
