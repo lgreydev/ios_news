@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 38
+ ### Episode 39
+- [Do iOS Panel](https://youtu.be/JBGf0Pegs5E)
+- [Task Groups in Swift explained with code examples](https://www.avanderlee.com/concurrency/task-groups-in-swift/)
+- [Debouncing with Swift concurrency](https://sideeffect.io/posts/2023-01-11-regulate/)
+- [Make your app's files user-visible on the iPhone](https://blog.eidinger.info/make-your-apps-files-user-visible-on-the-iphone)
+- [Text modifiers in SwiftUI](https://nilcoalescing.com/blog/TextModifiersInSwiftUI/)
+- [SwiftUI Toolbar Title Menus](https://useyourloaf.com/blog/swiftui-toolbar-title-menus/)
+- [Mastering charts in SwiftUI](https://swiftwithmajid.com/2023/01/10/mastering-charts-in-swiftui-basics/)
+ 
+<details>
+<summary>2023</summary>
+
+### Episode 38
 - [RocketSim 9.0: Enhance your iOS Simulator](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
 - [A new library to control dependencies](https://www.pointfree.co/blog/posts/92-a-new-library-to-control-dependencies-and-avoid-letting-them-control-you)
 - [Prevent copy & paste into other iOS apps](https://blog.eidinger.info/prevent-copy-paste-into-other-ios-apps)
@@ -10,10 +22,7 @@
 - [The dumbest thing about imageLiteral](https://samwize.com/2023/01/09/the-dumbest-thing-about-imageliteral/)
 - [Stress testing on iOS with xcmonkey](https://testableapple.com/note-36/)
 - [Hacking with Swift Newsletter: January 2023](https://twostraws.gumroad.com/p/hacking-with-swift-newsletter-january-2023)
- 
- 
-<details>
-<summary>2023</summary>
+
 
 ### Episode 37
 - [How to become a more successful developer](https://www.avanderlee.com/optimization/engineering-goals-become-successful-developer/)
