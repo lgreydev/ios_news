@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 39
+ ### Episode 40
+- [Just a Little Nicer](https://www.swiftjectivec.com/Making-iOS-apps-just-a-little-nicer/)
+- [A Swiftly Year in Review with Antoine van der Lee](https://brightdigit.com/episodes/140-a-swiftly-year-in-review-with-antoine-van-der-lee/)
+- [Business of Apps Videos](https://www.businessofapps.com/video/)
+- [Testing push notifications on the iOS simulator](https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/)
+- [Disconnect your app from unit testing](https://samwize.com/2023/01/18/disconnect-your-app-from-unit-testing/)
+- [Container Pattern in SwiftUI](https://azamsharp.com/2023/01/24/introduction-to-container-pattern.html)
+- [Prevent your app's files from being included in iCloud Backup](https://blog.eidinger.info/prevent-your-apps-files-from-being-included-in-icloud-backup)
+
+
+<details>
+<summary>2023</summary>
+
+### Episode 39
 - [Do iOS Panel](https://youtu.be/JBGf0Pegs5E)
 - [Task Groups in Swift explained with code examples](https://www.avanderlee.com/concurrency/task-groups-in-swift/)
 - [Debouncing with Swift concurrency](https://sideeffect.io/posts/2023-01-11-regulate/)
@@ -11,8 +24,6 @@
 - [SwiftUI Toolbar Title Menus](https://useyourloaf.com/blog/swiftui-toolbar-title-menus/)
 - [Mastering charts in SwiftUI](https://swiftwithmajid.com/2023/01/10/mastering-charts-in-swiftui-basics/)
  
-<details>
-<summary>2023</summary>
 
 ### Episode 38
 - [RocketSim 9.0: Enhance your iOS Simulator](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
