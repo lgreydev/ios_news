@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 40
+ ### Episode 41
+- [VSCode Swift v1.0.0](https://forums.swift.org/t/vscode-swift-v1-0-0/62668)
+- [Search with filters and scopes](https://kean.blog/post/pulse-search)
+- [RocketSim in Review (French)](https://youtu.be/T43a9KQXCOw)
+- [Xcode Simulator Directories Exploration](https://www.avanderlee.com/xcode/simulator-directories-access/)
+- [TikTok meets SwiftUI](https://www.tiktok.com/@clarkocares)
+- [Detached Tasks in Swift explained with code examples](https://www.avanderlee.com/concurrency/detached-tasks/)
+- [Swift Senpai RocketSim Giveaway](https://www.avanderlee.com/concurrency/detached-tasks/)
+
+<details>
+<summary>2023</summary>
+
+### Episode 40
 - [Just a Little Nicer](https://www.swiftjectivec.com/Making-iOS-apps-just-a-little-nicer/)
 - [A Swiftly Year in Review with Antoine van der Lee](https://brightdigit.com/episodes/140-a-swiftly-year-in-review-with-antoine-van-der-lee/)
 - [Business of Apps Videos](https://www.businessofapps.com/video/)
@@ -11,9 +23,6 @@
 - [Container Pattern in SwiftUI](https://azamsharp.com/2023/01/24/introduction-to-container-pattern.html)
 - [Prevent your app's files from being included in iCloud Backup](https://blog.eidinger.info/prevent-your-apps-files-from-being-included-in-icloud-backup)
 
-
-<details>
-<summary>2023</summary>
 
 ### Episode 39
 - [Do iOS Panel](https://youtu.be/JBGf0Pegs5E)
