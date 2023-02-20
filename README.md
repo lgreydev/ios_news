@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 42
+- [Different ways of writing extensions in Swift](https://twitter.com/v_pradeilles/status/1620760987497537537)
+- [iOS Jailbreak Detection in 2023](https://blog.eidinger.info/ios-jailbreak-detection-in-2023)
+- [Tracking hover location in SwiftUI](https://nilcoalescing.com/blog/TrackingHoverLocationInSwiftUI/)
+- [Adding a stretchable header to a SwiftUI ScrollView](https://danielsaidi.com/blog/2023/02/06/adding-a-stretchable-header-to-a-swiftui-scroll-view)
+- [The evolution of Facebook’s iOS app architecture](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
+- [A guide for making apps accessible](https://twitter.com/janjaapdegroot/status/1620351937425338368)
+- [Code Replay for Xcode](https://digitalbunker.dev/code-repaly/)
+
+
+<details>
+<summary>2023</summary>
+ 
  ### Episode 41
 - [VSCode Swift v1.0.0](https://forums.swift.org/t/vscode-swift-v1-0-0/62668)
 - [Search with filters and scopes](https://kean.blog/post/pulse-search)
@@ -11,8 +24,6 @@
 - [Detached Tasks in Swift explained with code examples](https://www.avanderlee.com/concurrency/detached-tasks/)
 - [Swift Senpai RocketSim Giveaway](https://www.avanderlee.com/concurrency/detached-tasks/)
 
-<details>
-<summary>2023</summary>
 
 ### Episode 40
 - [Just a Little Nicer](https://www.swiftjectivec.com/Making-iOS-apps-just-a-little-nicer/)
