@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 43
+- [Using User Defaults to store preferences in Swift](https://www.avanderlee.com/swift/user-defaults-preferences/)
+- [UI Tests, but easier](https://swiftindepth.com/articles/uitests-easier/)
+- [Using ASC API to trigger Xcode Cloud workflows](https://www.polpiella.dev/using-app-store-connect-api-to-trigger-xcode-cloud-workflows/)
+- [SwiftUI Multi data-type chart](https://paulpeelen.com/MultiTypeChart)
+- [The Power of SF Symbols](https://twitter.com/paliwalsparsh/status/1623030942993420298)
+- [Semantic Colors and Styles](https://chris.eidhof.nl/post/semantic-colors/)
+- [Cheating the System](https://www.basbroek.nl/cheating-the-system-for-fun-and-profit)
+
+
+<details>
+<summary>2023</summary>
+
  ### Episode 42
 - [Different ways of writing extensions in Swift](https://twitter.com/v_pradeilles/status/1620760987497537537)
 - [iOS Jailbreak Detection in 2023](https://blog.eidinger.info/ios-jailbreak-detection-in-2023)
@@ -10,10 +23,7 @@
 - [The evolution of Facebook’s iOS app architecture](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
 - [A guide for making apps accessible](https://twitter.com/janjaapdegroot/status/1620351937425338368)
 - [Code Replay for Xcode](https://digitalbunker.dev/code-repaly/)
-
-
-<details>
-<summary>2023</summary>
+ 
  
  ### Episode 41
 - [VSCode Swift v1.0.0](https://forums.swift.org/t/vscode-swift-v1-0-0/62668)
