@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 44
+- [5 Tips to creating a (good) pull request](https://www.danijelavrzan.com/posts/2023/02/create-pull-request/)
+- [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
+- [Introducing Roadmap: Offer Public Feature Voting](https://www.avanderlee.com/swiftui/roadmap-free-public-feature-voting/)
+- [You don't need protocols](https://swiftunwrap.com/article/you-dont-need-protocols/)
+- [Safely pinning SPM dependencies to exact versions](https://www.polpiella.dev/safely-pinning-spm-depedencies-to-exact-versions/)
+- [The Swift Programming Language” book now published with DocC](https://www.swift.org/blog/tspl-on-docc/)
+- [4 Picker styles in SwiftUI Form](https://sarunw.com/posts/swiftui-form-picker-styles/)
+
+
+<details>
+<summary>2023</summary>
+
  ### Episode 43
 - [Using User Defaults to store preferences in Swift](https://www.avanderlee.com/swift/user-defaults-preferences/)
 - [UI Tests, but easier](https://swiftindepth.com/articles/uitests-easier/)
@@ -10,10 +23,6 @@
 - [The Power of SF Symbols](https://twitter.com/paliwalsparsh/status/1623030942993420298)
 - [Semantic Colors and Styles](https://chris.eidhof.nl/post/semantic-colors/)
 - [Cheating the System](https://www.basbroek.nl/cheating-the-system-for-fun-and-profit)
-
-
-<details>
-<summary>2023</summary>
 
  ### Episode 42
 - [Different ways of writing extensions in Swift](https://twitter.com/v_pradeilles/status/1620760987497537537)
