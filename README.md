@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 44
+ ### Episode 45
+- [OAuth in SwiftUI](https://twitter.com/swiftyalex/status/1627446146472763393)
+- [Testing Is About Confidence](https://azamsharp.com/2023/02/15/testing-is-about-confidence.html)
+- [What's new in Xcode 14.3 and iOS 16.4](https://sarunw.com/posts/whats-new-in-xcode-14_3-and-ios-16_4/)
+- [Fastlane Maintenance](https://twitter.com/joshdholtz/status/1627407723296964610)
+- [Inspiration for watchOS Complications](https://twitter.com/claudioguglieri/status/1626008464035131393)
+- [View Composition using ViewModifiers in SwiftUI](https://www.avanderlee.com/swiftui/view-composition-viewmodifiers/)
+- [Pattern matching on error codes](https://oleb.net/blog/2023/catch-error-code/)
+
+<details>
+<summary>2023</summary>
+
+### Episode 44
 - [5 Tips to creating a (good) pull request](https://www.danijelavrzan.com/posts/2023/02/create-pull-request/)
 - [Copilot for Xcode](https://github.com/intitni/CopilotForXcode)
 - [Introducing Roadmap: Offer Public Feature Voting](https://www.avanderlee.com/swiftui/roadmap-free-public-feature-voting/)
@@ -12,9 +24,6 @@
 - [4 Picker styles in SwiftUI Form](https://sarunw.com/posts/swiftui-form-picker-styles/)
 
 
-<details>
-<summary>2023</summary>
-
  ### Episode 43
 - [Using User Defaults to store preferences in Swift](https://www.avanderlee.com/swift/user-defaults-preferences/)
 - [UI Tests, but easier](https://swiftindepth.com/articles/uitests-easier/)
@@ -23,6 +32,7 @@
 - [The Power of SF Symbols](https://twitter.com/paliwalsparsh/status/1623030942993420298)
 - [Semantic Colors and Styles](https://chris.eidhof.nl/post/semantic-colors/)
 - [Cheating the System](https://www.basbroek.nl/cheating-the-system-for-fun-and-profit)
+
 
  ### Episode 42
 - [Different ways of writing extensions in Swift](https://twitter.com/v_pradeilles/status/1620760987497537537)
