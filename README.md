@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 45
+ ### Episode 46
+- [Building For Voice Control](https://www.swiftjectivec.com/voice-control-accessibility-tweaks-ios/)
+- [Keyframe animations in SwiftUI](https://arturgruchala.com/key-frame-animations-in-swiftui/)
+- [@backDeployed: Could SwiftUI be backward compatible?](https://danielbernal.co/2023/02/22/backdeployed-could-swiftui-be-backward-compatible/)
+- [SwiftUI views versus modifiers](https://www.swiftbysundell.com/articles/swiftui-views-versus-modifiers/)
+- [Xcode Header Template for Swift Packages](https://samwize.com/2023/02/28/xcode-header-template-for-swift-packages/)
+- [Equatable conformance in Swift explained with code examples](https://www.avanderlee.com/swift/equatable-comparible-conformance/)
+- [Peer group benchmarks now available in App Analytics](https://developer.apple.com/news/)
+
+<details>
+<summary>2023</summary>
+
+### Episode 45
 - [OAuth in SwiftUI](https://twitter.com/swiftyalex/status/1627446146472763393)
 - [Testing Is About Confidence](https://azamsharp.com/2023/02/15/testing-is-about-confidence.html)
 - [What's new in Xcode 14.3 and iOS 16.4](https://sarunw.com/posts/whats-new-in-xcode-14_3-and-ios-16_4/)
@@ -11,8 +23,6 @@
 - [View Composition using ViewModifiers in SwiftUI](https://www.avanderlee.com/swiftui/view-composition-viewmodifiers/)
 - [Pattern matching on error codes](https://oleb.net/blog/2023/catch-error-code/)
 
-<details>
-<summary>2023</summary>
 
 ### Episode 44
 - [5 Tips to creating a (good) pull request](https://www.danijelavrzan.com/posts/2023/02/create-pull-request/)
