@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 46
+ ### Episode 47
+- [How to Create Configurable Widgets With Dynamic Options?](https://swiftsenpai.com/development/configurable-widgets-dynamic-options/)
+- [SwiftUI Tables Quick Guide](https://useyourloaf.com/blog/swiftui-tables-quick-guide/)
+- [How to change Command + Click behavior in Xcode](https://sarunw.com/posts/xcode-command-click-behavior/)
+- [Accessibility: Try, then Listen](https://www.david-smith.org/blog/2023/03/03/design-notes-29/)
+- [Scaling Customer Support](https://www.david-smith.org/blog/2023/03/06/design-notes-30/)
+- [RocketSim 10.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
+- [Swift Evolution proposals in Alfred](https://oleb.net/blog/2023/alfred-swift-evolution/)
+
+
+<details>
+<summary>2023</summary>
+
+### Episode 46
 - [Building For Voice Control](https://www.swiftjectivec.com/voice-control-accessibility-tweaks-ios/)
 - [Keyframe animations in SwiftUI](https://arturgruchala.com/key-frame-animations-in-swiftui/)
 - [@backDeployed: Could SwiftUI be backward compatible?](https://danielbernal.co/2023/02/22/backdeployed-could-swiftui-be-backward-compatible/)
@@ -11,8 +24,6 @@
 - [Equatable conformance in Swift explained with code examples](https://www.avanderlee.com/swift/equatable-comparible-conformance/)
 - [Peer group benchmarks now available in App Analytics](https://developer.apple.com/news/)
 
-<details>
-<summary>2023</summary>
 
 ### Episode 45
 - [OAuth in SwiftUI](https://twitter.com/swiftyalex/status/1627446146472763393)
