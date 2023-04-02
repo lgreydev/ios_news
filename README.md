@@ -2,6 +2,17 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 48
+- [What's new in Swift 5.8](https://www.hackingwithswift.com/articles/256/whats-new-in-swift-5-8)
+- [How to make an interactive picker for a Swift command-line tool](https://www.polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/)
+- [Keep your CoreData store small by vacuuming](https://blog.eidinger.info/keep-your-coredata-store-small-by-vacuuming)
+- [How to write you first Unit Test](https://www.swiftwithvincent.com/blog/how-to-write-you-first-unit-test-in-swift)
+- [Overinspired?](https://www.swiftjectivec.com/overinspired/)
+- [The operation couldn’t be completed: solving errors in Swift](https://www.avanderlee.com/swift/operation-couldnt-completed-error-code/)
+- [Swift Community Awards](https://www.hackingwithswift.com/awards)
+<details>
+<summary>2023</summary>
+
  ### Episode 47
 - [How to Create Configurable Widgets With Dynamic Options?](https://swiftsenpai.com/development/configurable-widgets-dynamic-options/)
 - [SwiftUI Tables Quick Guide](https://useyourloaf.com/blog/swiftui-tables-quick-guide/)
@@ -11,9 +22,6 @@
 - [RocketSim 10.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
 - [Swift Evolution proposals in Alfred](https://oleb.net/blog/2023/alfred-swift-evolution/)
 
-
-<details>
-<summary>2023</summary>
 
 ### Episode 46
 - [Building For Voice Control](https://www.swiftjectivec.com/voice-control-accessibility-tweaks-ios/)
