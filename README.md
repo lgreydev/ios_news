@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 48
+ ### Episode 49
+- [3 mistakes to avoid with Closures](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-closures-in-swift)
+- [Removing Search Web from a context menu](https://vicegax.substack.com/p/removing-search-web-from-a-context)
+- [Performance testing in Swift using the XCTest framework](https://swiftwithmajid.com/2023/03/15/performance-testing-in-swift-using-xctest-framework/)
+- [Wrapping functions in structs](https://paul-samuels.com/blog/2023/03/18/wrapping-functions-in-structs/)
+- [GitHub webhooks Xcode Cloud](https://www.polpiella.dev/github-webhooks-and-xcode-cloud/)
+- [Pixel Perfection](https://www.david-smith.org/blog/2023/03/16/design-notes-32/)
+- [Location Simulation in Xcode’s Simulator](https://www.avanderlee.com/workflow/location-simulation-xcode-simulator/)
+
+
+<details>
+<summary>2023</summary>
+
+### Episode 48
 - [What's new in Swift 5.8](https://www.hackingwithswift.com/articles/256/whats-new-in-swift-5-8)
 - [How to make an interactive picker for a Swift command-line tool](https://www.polpiella.dev/how-to-make-an-interactive-picker-for-a-swift-command-line-tool/)
 - [Keep your CoreData store small by vacuuming](https://blog.eidinger.info/keep-your-coredata-store-small-by-vacuuming)
@@ -10,8 +23,7 @@
 - [Overinspired?](https://www.swiftjectivec.com/overinspired/)
 - [The operation couldn’t be completed: solving errors in Swift](https://www.avanderlee.com/swift/operation-couldnt-completed-error-code/)
 - [Swift Community Awards](https://www.hackingwithswift.com/awards)
-<details>
-<summary>2023</summary>
+
 
  ### Episode 47
 - [How to Create Configurable Widgets With Dynamic Options?](https://swiftsenpai.com/development/configurable-widgets-dynamic-options/)
