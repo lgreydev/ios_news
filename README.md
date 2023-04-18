@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 50
+- [Activities and attachments in the XCTest framework](https://swiftwithmajid.com/2023/03/21/activities-and-attachments-in-xctest-framework/)
+- [Making macOS SwiftUI text views editable on click](https://www.polpiella.dev/swiftui-editable-list-text-items/)
+- [XCTCast](https://paul-samuels.com/blog/2023/03/23/xctcast/)
+- [How to change JSON keys by using Swift's CodingKey protocol](https://tanaschita.com/20230327-json-custom-decoding-encoding/)
+- [Xcode Tip: filter to show modified files only](https://www.jessesquires.com/blog/2023/03/22/xcode-tip-filter-modified-files/)
+- [Set text color in SwiftUI](https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI/)
+- [How the relative size modifier interacts with stack views](https://oleb.net/2023/swiftui-relative-size-in-stacks/)
+
+
+<details>
+<summary>2023</summary>
+
  ### Episode 49
 - [3 mistakes to avoid with Closures](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-closures-in-swift)
 - [Removing Search Web from a context menu](https://vicegax.substack.com/p/removing-search-web-from-a-context)
@@ -11,9 +24,6 @@
 - [Pixel Perfection](https://www.david-smith.org/blog/2023/03/16/design-notes-32/)
 - [Location Simulation in Xcode’s Simulator](https://www.avanderlee.com/workflow/location-simulation-xcode-simulator/)
 
-
-<details>
-<summary>2023</summary>
 
 ### Episode 48
 - [What's new in Swift 5.8](https://www.hackingwithswift.com/articles/256/whats-new-in-swift-5-8)
