@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 51
+- [Welcoming Apple as a supporter of the Swift Package Index](https://blog.swiftpackageindex.com/posts/welcoming-apple-as-a-supporter-of-the-swift-package-index/)
+- [Network Extension Debugging on macOS](https://www.avanderlee.com/debugging/network-extension-debugging-macos/)
+- [Swift Community Awards](https://www.hackingwithswift.com/awards)
+- [Using Critical Alerts in iOS applications](https://blog.kulman.sk/using-critical-alerts-on-ios/)
+- [Reducing iOS app size using linker and why_load](https://asifmohd.github.io/ios/2023/03/30/reducing-ios-app-size-using-linker.html)
+- [Group and sort Swift collections like a pro](https://danielsaidi.com/blog/2023/04/01/group-and-sort-swift-collections-like-a-pro)
+- [The What-If Architecture](https://azamsharp.com/2023/04/03/the-what-if-architecture.html)
+
+
+<details>
+<summary>2023</summary>
+
  ### Episode 50
 - [Activities and attachments in the XCTest framework](https://swiftwithmajid.com/2023/03/21/activities-and-attachments-in-xctest-framework/)
 - [Making macOS SwiftUI text views editable on click](https://www.polpiella.dev/swiftui-editable-list-text-items/)
@@ -11,9 +24,6 @@
 - [Set text color in SwiftUI](https://nilcoalescing.com/blog/ForegroundColorStyleAndTintInSwiftUI/)
 - [How the relative size modifier interacts with stack views](https://oleb.net/2023/swiftui-relative-size-in-stacks/)
 
-
-<details>
-<summary>2023</summary>
 
  ### Episode 49
 - [3 mistakes to avoid with Closures](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-closures-in-swift)
