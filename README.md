@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 51
+ ### Episode 52
+- [Collecting Xcode Cloud metrics using webhooks](https://www.polpiella.dev/xcode-cloud-webhooks/)
+- [Sharing content in SwiftUI](https://swiftwithmajid.com/2023/03/28/sharing-content-in-swiftui/)
+- [Learn How To Easily Create Deep Links in SwiftUI](https://youtu.be/KevGhZQRcG8)
+- [Bicycle & forces](https://ciechanow.ski/bicycle/)
+- [Unit testing async/await Swift code](https://www.avanderlee.com/concurrency/unit-testing-async-await/)
+- [3 mistakes to avoid with Optionals](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-optionals-in-swift)
+- [Performance: Faster or Fast?](https://milen.me/writings/performance-faster-or-fast/)
+
+
+<details>
+<summary>2023</summary>
+
+### Episode 51
 - [Welcoming Apple as a supporter of the Swift Package Index](https://blog.swiftpackageindex.com/posts/welcoming-apple-as-a-supporter-of-the-swift-package-index/)
 - [Network Extension Debugging on macOS](https://www.avanderlee.com/debugging/network-extension-debugging-macos/)
 - [Swift Community Awards](https://www.hackingwithswift.com/awards)
@@ -11,9 +24,6 @@
 - [Group and sort Swift collections like a pro](https://danielsaidi.com/blog/2023/04/01/group-and-sort-swift-collections-like-a-pro)
 - [The What-If Architecture](https://azamsharp.com/2023/04/03/the-what-if-architecture.html)
 
-
-<details>
-<summary>2023</summary>
 
  ### Episode 50
 - [Activities and attachments in the XCTest framework](https://swiftwithmajid.com/2023/03/21/activities-and-attachments-in-xctest-framework/)
