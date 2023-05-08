@@ -3,6 +3,19 @@
  > Last Episode :octocat: :fire:
  
  ### Episode 52
+- [Drag and drop transferable data in SwiftUI](https://swiftwithmajid.com/2023/04/05/drag-and-drop-transferable-data-in-swiftui/)
+- [When Matched Geometry Effect Doesn't Work](https://chris.eidhof.nl/post/matched-geometry-effect/)
+- [10 Things to do when starting a new job](https://www.danijelavrzan.com/posts/2023/04/start-new-job/)
+- [Sparkle - Handling updates outside the macOS App Store](https://troz.net/post/2023/sparkle/)
+- [Deeplink URL handling in SwiftUI](https://www.avanderlee.com/swiftui/deeplink-url-handling/)
+- [Generating `Hashable` and `Equatable` for functions](https://sundayswift.com/posts/generating-hashable-equatable-functions/)
+- [Efficient Data Transfer in iOS Apps: Exploring HTTP Compression](https://blog.eidinger.info/efficient-data-transfer-in-ios-apps-exploring-http-compression)
+
+
+<details>
+<summary>2023</summary>
+
+ ### Episode 52
 - [Collecting Xcode Cloud metrics using webhooks](https://www.polpiella.dev/xcode-cloud-webhooks/)
 - [Sharing content in SwiftUI](https://swiftwithmajid.com/2023/03/28/sharing-content-in-swiftui/)
 - [Learn How To Easily Create Deep Links in SwiftUI](https://youtu.be/KevGhZQRcG8)
@@ -12,8 +25,6 @@
 - [Performance: Faster or Fast?](https://milen.me/writings/performance-faster-or-fast/)
 
 
-<details>
-<summary>2023</summary>
 
 ### Episode 51
 - [Welcoming Apple as a supporter of the Swift Package Index](https://blog.swiftpackageindex.com/posts/welcoming-apple-as-a-supporter-of-the-swift-package-index/)
