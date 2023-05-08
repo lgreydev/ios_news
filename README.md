@@ -2,7 +2,7 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 52
+ ### Episode 53
 - [Drag and drop transferable data in SwiftUI](https://swiftwithmajid.com/2023/04/05/drag-and-drop-transferable-data-in-swiftui/)
 - [When Matched Geometry Effect Doesn't Work](https://chris.eidhof.nl/post/matched-geometry-effect/)
 - [10 Things to do when starting a new job](https://www.danijelavrzan.com/posts/2023/04/start-new-job/)
