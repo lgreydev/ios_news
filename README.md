@@ -2,7 +2,24 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 53
+ What I Learned Writing My Own CloudKit Syncing Library
+ 
+ 
+ 
+ ### Episode 54
+- [What I Learned Writing My Own CloudKit Syncing Library](https://ryanashcraft.com/what-i-learned-writing-my-own-cloudkit-sync-library/)
+- [3 mistakes to avoid with async / await](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-async-await-in-swift)
+- [Add Push Notifications & iOS Deep Linking in SwiftUI](https://youtu.be/msWb_Iyscro)
+- [Mastering Canvas in SwiftUI](https://swiftwithmajid.com/2023/04/11/mastering-canvas-in-swiftui/)
+- [dataFude for Simulator](https://trycombine.com/posts/datafude-for-simulator-is-on-the-appstore-now/)
+- [Optimizing your app for Network Reachability](https://www.avanderlee.com/swift/optimizing-network-reachability/)
+- [Double Protocol Conformance](https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance)
+
+
+<details>
+<summary>2023</summary>
+ 
+### Episode 53
 - [Drag and drop transferable data in SwiftUI](https://swiftwithmajid.com/2023/04/05/drag-and-drop-transferable-data-in-swiftui/)
 - [When Matched Geometry Effect Doesn't Work](https://chris.eidhof.nl/post/matched-geometry-effect/)
 - [10 Things to do when starting a new job](https://www.danijelavrzan.com/posts/2023/04/start-new-job/)
@@ -11,11 +28,8 @@
 - [Generating `Hashable` and `Equatable` for functions](https://sundayswift.com/posts/generating-hashable-equatable-functions/)
 - [Efficient Data Transfer in iOS Apps: Exploring HTTP Compression](https://blog.eidinger.info/efficient-data-transfer-in-ios-apps-exploring-http-compression)
 
-
-<details>
-<summary>2023</summary>
-
- ### Episode 52
+ 
+### Episode 52
 - [Collecting Xcode Cloud metrics using webhooks](https://www.polpiella.dev/xcode-cloud-webhooks/)
 - [Sharing content in SwiftUI](https://swiftwithmajid.com/2023/03/28/sharing-content-in-swiftui/)
 - [Learn How To Easily Create Deep Links in SwiftUI](https://youtu.be/KevGhZQRcG8)
@@ -23,7 +37,6 @@
 - [Unit testing async/await Swift code](https://www.avanderlee.com/concurrency/unit-testing-async-await/)
 - [3 mistakes to avoid with Optionals](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-optionals-in-swift)
 - [Performance: Faster or Fast?](https://milen.me/writings/performance-faster-or-fast/)
-
 
 
 ### Episode 51
