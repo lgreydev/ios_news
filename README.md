@@ -5,8 +5,20 @@
  What I Learned Writing My Own CloudKit Syncing Library
  
  
+ ### Episode 55
+- [Developer guide on App Clips for iOS](https://tanaschita.com/20230424-app-clips/)
+- [Using Swift Reflection](https://useyourloaf.com/blog/using-swift-reflection/)
+- [On Apple's Guidance for StateObject Initialization](https://www.swiftjectivec.com/dependency-injection-with-state-object-swiftui/)
+- [ImageRenderer in SwiftUI](https://swiftwithmajid.com/2023/04/18/imagerenderer-in-swiftui/)
+- [Speedrun Design: Heart Rate Zone View in SwiftUI](https://www.david-smith.org/blog/2023/04/24/design-notes-35/)
+- [Scheduling app releases with Xcode Cloud](https://www.polpiella.dev/scheduling-app-releases-with-xcode-cloud/)
+- [Skip typing your login credentials manually with Xcode breakpoints](https://www.danijelavrzan.com/posts/2023/04/login-xcode-breakpoint/)
+
+
+<details>
+<summary>2023</summary>
  
- ### Episode 54
+### Episode 54
 - [What I Learned Writing My Own CloudKit Syncing Library](https://ryanashcraft.com/what-i-learned-writing-my-own-cloudkit-sync-library/)
 - [3 mistakes to avoid with async / await](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-async-await-in-swift)
 - [Add Push Notifications & iOS Deep Linking in SwiftUI](https://youtu.be/msWb_Iyscro)
@@ -14,10 +26,6 @@
 - [dataFude for Simulator](https://trycombine.com/posts/datafude-for-simulator-is-on-the-appstore-now/)
 - [Optimizing your app for Network Reachability](https://www.avanderlee.com/swift/optimizing-network-reachability/)
 - [Double Protocol Conformance](https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance)
-
-
-<details>
-<summary>2023</summary>
  
 ### Episode 53
 - [Drag and drop transferable data in SwiftUI](https://swiftwithmajid.com/2023/04/05/drag-and-drop-transferable-data-in-swiftui/)
