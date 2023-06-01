@@ -2,9 +2,6 @@
  
  > Last Episode :octocat: :fire:
  
- What I Learned Writing My Own CloudKit Syncing Library
- 
- 
  ### Episode 55
 - [Developer guide on App Clips for iOS](https://tanaschita.com/20230424-app-clips/)
 - [Using Swift Reflection](https://useyourloaf.com/blog/using-swift-reflection/)
