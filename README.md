@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 55
+ ### Episode 56
+- [Uh oh, you picked the wrong UI architecture](https://swiftindepth.com/articles/ui-architectures/)
+- [MainActor usage in Swift explained to dispatch to the main thread](https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/)
+- [Foundation Package Preview Now Available](https://www.swift.org/blog/foundation-preview-now-available/)
+- [Context SDK - Upsell at the right time](https://krausefx.com//blog/context-sdk)
+- [Tips and tricks for exploring a new codebase](https://www.donnywals.com/tips-and-tricks-for-exploring-a-new-codebase/)
+- [Spinning Up a Feature Request Screen with Supabase](https://www.swiftjectivec.com/supabase-for-ios-add-feature-request-screen/)
+- [Universal Links implementation on iOS](https://www.avanderlee.com/swiftui/universal-links-ios/)
+
+
+<details>
+<summary>2023</summary>
+ 
+### Episode 55
 - [Developer guide on App Clips for iOS](https://tanaschita.com/20230424-app-clips/)
 - [Using Swift Reflection](https://useyourloaf.com/blog/using-swift-reflection/)
 - [On Apple's Guidance for StateObject Initialization](https://www.swiftjectivec.com/dependency-injection-with-state-object-swiftui/)
@@ -10,10 +23,6 @@
 - [Speedrun Design: Heart Rate Zone View in SwiftUI](https://www.david-smith.org/blog/2023/04/24/design-notes-35/)
 - [Scheduling app releases with Xcode Cloud](https://www.polpiella.dev/scheduling-app-releases-with-xcode-cloud/)
 - [Skip typing your login credentials manually with Xcode breakpoints](https://www.danijelavrzan.com/posts/2023/04/login-xcode-breakpoint/)
-
-
-<details>
-<summary>2023</summary>
  
 ### Episode 54
 - [What I Learned Writing My Own CloudKit Syncing Library](https://ryanashcraft.com/what-i-learned-writing-my-own-cloudkit-sync-library/)
