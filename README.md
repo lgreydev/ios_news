@@ -2,7 +2,21 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 56
+ ### Episode 57
+- [STACKTRACE](https://stacktracepodcast.fm/)
+- [Ranges in Swift explained with code examples](https://www.avanderlee.com/swift/ranges-explained/)
+- [File importing and exporting in SwiftUI](https://swiftwithmajid.com/2023/05/10/file-importing-and-exporting-in-swiftui/)
+- [Accessing Security Scoped Files](https://useyourloaf.com/blog/accessing-security-scoped-files/)
+- [Creating a Swift Package: Quick Start Gotchas](https://www.swiftjectivec.com/creating-an-ios-swift-package-with-git-quickstart-guide/)
+- [#file behavior change in Swift 5.8](https://sarunw.com/posts/file-behavior-change/)
+- [Parallax header effect in SwiftUI using CoordinateSpace](https://arturgruchala.com/parallax-header-effect-in-swiftui-using-coordinatespace/)
+
+
+<details>
+<summary>2023</summary>
+ 
+ 
+### Episode 56
 - [Uh oh, you picked the wrong UI architecture](https://swiftindepth.com/articles/ui-architectures/)
 - [MainActor usage in Swift explained to dispatch to the main thread](https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/)
 - [Foundation Package Preview Now Available](https://www.swift.org/blog/foundation-preview-now-available/)
@@ -11,9 +25,6 @@
 - [Spinning Up a Feature Request Screen with Supabase](https://www.swiftjectivec.com/supabase-for-ios-add-feature-request-screen/)
 - [Universal Links implementation on iOS](https://www.avanderlee.com/swiftui/universal-links-ios/)
 
-
-<details>
-<summary>2023</summary>
  
 ### Episode 55
 - [Developer guide on App Clips for iOS](https://tanaschita.com/20230424-app-clips/)
@@ -24,6 +35,7 @@
 - [Scheduling app releases with Xcode Cloud](https://www.polpiella.dev/scheduling-app-releases-with-xcode-cloud/)
 - [Skip typing your login credentials manually with Xcode breakpoints](https://www.danijelavrzan.com/posts/2023/04/login-xcode-breakpoint/)
  
+ 
 ### Episode 54
 - [What I Learned Writing My Own CloudKit Syncing Library](https://ryanashcraft.com/what-i-learned-writing-my-own-cloudkit-sync-library/)
 - [3 mistakes to avoid with async / await](https://www.swiftwithvincent.com/blog/three-mistakes-to-avoid-with-async-await-in-swift)
@@ -32,6 +44,7 @@
 - [dataFude for Simulator](https://trycombine.com/posts/datafude-for-simulator-is-on-the-appstore-now/)
 - [Optimizing your app for Network Reachability](https://www.avanderlee.com/swift/optimizing-network-reachability/)
 - [Double Protocol Conformance](https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance)
+ 
  
 ### Episode 53
 - [Drag and drop transferable data in SwiftUI](https://swiftwithmajid.com/2023/04/05/drag-and-drop-transferable-data-in-swiftui/)
