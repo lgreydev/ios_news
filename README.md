@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 58
+- [RocketSim 11.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
+- [Metallurgy: A collection of Metal Shaders](https://github.com/rafunderscore/metallurgy)
+- [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
+- [Objective-C Internals: Retain](https://alwaysprocessing.blog/2023/07/22/objc-retain)
+- [SwiftData Saving Changes](https://useyourloaf.com/blog/swiftdata-saving-changes/)
+- [SwiftUI onChange Deprecation](https://useyourloaf.com/blog/swiftui-onchange-deprecation/)
+- [Building Peak](https://harshil.net/blog/building-peak)
+
+<details>
+<summary>2023</summary>
+
  ### Episode 57
 - [STACKTRACE](https://stacktracepodcast.fm/)
 - [Ranges in Swift explained with code examples](https://www.avanderlee.com/swift/ranges-explained/)
@@ -11,10 +23,6 @@
 - [#file behavior change in Swift 5.8](https://sarunw.com/posts/file-behavior-change/)
 - [Parallax header effect in SwiftUI using CoordinateSpace](https://arturgruchala.com/parallax-header-effect-in-swiftui-using-coordinatespace/)
 
-
-<details>
-<summary>2023</summary>
- 
  
 ### Episode 56
 - [Uh oh, you picked the wrong UI architecture](https://swiftindepth.com/articles/ui-architectures/)
