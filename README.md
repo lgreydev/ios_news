@@ -2,6 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 59
+- [Build performance analysis for speeding up Xcode builds](https://www.avanderlee.com/optimization/analysing-build-performance-xcode/)
+- [Mastering StoreKit 2. ProductView and StoreView.](https://swiftwithmajid.com/2023/08/08/mastering-storekit2-productview-in-swiftui/)
+- [Delightful SwiftUI image drag & drop for a macOS app](https://www.polpiella.dev/qreate-drag-and-drop/)
+- [AppKit vs SwiftUI: Stable vs Shiny](https://milen.me/writings/appkit-vs-swiftui-stable-vs-shiny/)
+- [SwiftData Background Tasks](https://useyourloaf.com/blog/swiftdata-background-tasks/)
+- [Mastering Thread Safety in Swift With One Runtime Trick](https://betterprogramming.pub/mastering-thread-safety-in-swift-with-one-runtime-trick-260c358a7515)
+- [Bad practice: using if instead of guard](https://www.swiftwithvincent.com/blog/bad-practice-using-if-instead-of-guard)
+
+
+<details>
+<summary>2023</summary>
+ 
+ 
  ### Episode 58
 - [RocketSim 11.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
 - [Metallurgy: A collection of Metal Shaders](https://github.com/rafunderscore/metallurgy)
@@ -11,8 +25,6 @@
 - [SwiftUI onChange Deprecation](https://useyourloaf.com/blog/swiftui-onchange-deprecation/)
 - [Building Peak](https://harshil.net/blog/building-peak)
 
-<details>
-<summary>2023</summary>
 
  ### Episode 57
 - [STACKTRACE](https://stacktracepodcast.fm/)
