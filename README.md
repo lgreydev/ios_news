@@ -2,6 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 60
+- [Swift 6: Preparing your Xcode projects for the future](https://www.avanderlee.com/concurrency/swift-6-preparing-your-xcode-projects/)
+- [Examples of animating SF symbols in SwiftUI](https://augmentedcode.io/2023/08/21/examples-of-animating-sf-symbols-in-swiftui/)
+- [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup/)
+- [SSWG 2023 Annual Update](https://www.swift.org/blog/sswg-update-2023/)
+- [How to check if you use a required reason API](https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api)
+- [Discover localizedStandardCompare()](https://www.swiftwithvincent.com/blog/discover-localizedstandardcompare)
+- [Hands-on experience with the new Observable Macro](https://twitter.com/dsteppenbeck/status/1693314873382629643)
+
+
+<details>
+<summary>2023</summary>
+
+
  ### Episode 59
 - [Build performance analysis for speeding up Xcode builds](https://www.avanderlee.com/optimization/analysing-build-performance-xcode/)
 - [Mastering StoreKit 2. ProductView and StoreView.](https://swiftwithmajid.com/2023/08/08/mastering-storekit2-productview-in-swiftui/)
@@ -11,10 +25,6 @@
 - [Mastering Thread Safety in Swift With One Runtime Trick](https://betterprogramming.pub/mastering-thread-safety-in-swift-with-one-runtime-trick-260c358a7515)
 - [Bad practice: using if instead of guard](https://www.swiftwithvincent.com/blog/bad-practice-using-if-instead-of-guard)
 
-
-<details>
-<summary>2023</summary>
- 
  
  ### Episode 58
 - [RocketSim 11.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
