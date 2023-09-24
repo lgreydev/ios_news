@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 60
+ ### Episode 61
+- [Style your TipKit Tips](https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips)
+- [Dismiss keyboard when return is pressed in a multiline SwiftUI TextField](https://danielsaidi.com/blog/2023/09/15/dismiss-keyboard-when-return-is-pressed-in-a-multiline-swiftui-textfield)
+- [iPhone 15 Screen Sizes](https://useyourloaf.com/blog/iphone-15-screen-sizes/)
+- [Swift 5.9 Released](https://www.swift.org/blog/swift-5.9-released/)
+- [A new tool for testing macros in Swift](https://www.pointfree.co/blog/posts/114-a-new-tool-for-testing-macros-in-swift)
+- [Learnings from Analyzing 20 Successful Mobile Paywalls](https://betterprogramming.pub/learnings-from-analyzing-20-successful-mobile-paywalls-db08d350e16d)
+- [App Intent driven development in Swift and SwiftUI](https://www.avanderlee.com/swift/app-intent-driven-development/)
+
+
+<details>
+<summary>2023</summary>
+
+### Episode 60
 - [Swift 6: Preparing your Xcode projects for the future](https://www.avanderlee.com/concurrency/swift-6-preparing-your-xcode-projects/)
 - [Examples of animating SF symbols in SwiftUI](https://augmentedcode.io/2023/08/21/examples-of-animating-sf-symbols-in-swiftui/)
 - [iOS app setup for remote push notifications](https://nilcoalescing.com/blog/RemotePushSetup/)
@@ -10,10 +23,6 @@
 - [How to check if you use a required reason API](https://blog.eidinger.info/how-to-check-if-you-use-a-required-reason-api)
 - [Discover localizedStandardCompare()](https://www.swiftwithvincent.com/blog/discover-localizedstandardcompare)
 - [Hands-on experience with the new Observable Macro](https://twitter.com/dsteppenbeck/status/1693314873382629643)
-
-
-<details>
-<summary>2023</summary>
 
 
  ### Episode 59
