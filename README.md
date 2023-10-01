@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 62
+- [Value and Type parameter packs in Swift explained with examples](https://www.avanderlee.com/swift/value-and-type-parameter-packs/)
+- [How to create an App Clip for your app](https://www.polpiella.dev/create-app-clips/)
+- [The curious case of ShareLink with plain text strings](https://blog.thomasdurand.fr/story/2023-09-24-curious-case-of-sharelink/)
+- [Typed throws is Swift](https://github.com/apple/swift/pull/68629)
+- [UIKit View Lifecycle - viewIsAppearing](https://useyourloaf.com/blog/uikit-view-lifecycle-viewisappearing/)
+- [XCBuildAnalyzer: SwiftUI application to analyze Xcode build system graph](https://github.com/polac24/XCBuildAnalyzer)
+- [The Role of Emotional Intelligence in Engineering Management](https://pyartez.github.io/management/the-role-of-emotional-intelligence-in-engineering-management.html)
+
+<details>
+<summary>2023</summary>
+
  ### Episode 61
 - [Style your TipKit Tips](https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips)
 - [Dismiss keyboard when return is pressed in a multiline SwiftUI TextField](https://danielsaidi.com/blog/2023/09/15/dismiss-keyboard-when-return-is-pressed-in-a-multiline-swiftui-textfield)
@@ -11,9 +23,6 @@
 - [Learnings from Analyzing 20 Successful Mobile Paywalls](https://betterprogramming.pub/learnings-from-analyzing-20-successful-mobile-paywalls-db08d350e16d)
 - [App Intent driven development in Swift and SwiftUI](https://www.avanderlee.com/swift/app-intent-driven-development/)
 
-
-<details>
-<summary>2023</summary>
 
 ### Episode 60
 - [Swift 6: Preparing your Xcode projects for the future](https://www.avanderlee.com/concurrency/swift-6-preparing-your-xcode-projects/)
