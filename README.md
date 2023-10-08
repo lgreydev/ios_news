@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 63
+- [Picking your minimum iOS version to support](https://www.avanderlee.com/workflow/minimum-ios-version/)
+- [MusicKit and App Clips](https://www.polpiella.dev/musickit-and-app-clips/)
+- [How async/await works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
+- [Swift Parameter Packs](https://paul-samuels.com/blog/2023/09/29/swift-parameter-packs/)
+- [How to break multiple nested loops in Swift](https://sarunw.com/posts/how-to-break-multiple-nested-loops-in-swift/)
+- [@Model for CoreData](https://www.alwaysrightinstitute.com//managedmodels/)
+- [Taking your Strings Catalogs to the Next Level](https://liamnichols.eu/2023/10/02/taking-your-strings-catalogs-to-the-next-level.html)
+
+<details>
+<summary>2023</summary>
+
  ### Episode 62
 - [Value and Type parameter packs in Swift explained with examples](https://www.avanderlee.com/swift/value-and-type-parameter-packs/)
 - [How to create an App Clip for your app](https://www.polpiella.dev/create-app-clips/)
@@ -11,8 +23,6 @@
 - [XCBuildAnalyzer: SwiftUI application to analyze Xcode build system graph](https://github.com/polac24/XCBuildAnalyzer)
 - [The Role of Emotional Intelligence in Engineering Management](https://pyartez.github.io/management/the-role-of-emotional-intelligence-in-engineering-management.html)
 
-<details>
-<summary>2023</summary>
 
  ### Episode 61
 - [Style your TipKit Tips](https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips)
