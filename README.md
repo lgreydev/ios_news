@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 64
+- [@preconcurrency: Incremental migration to concurrency checking](https://www.avanderlee.com/concurrency/preconcurrency-checking-swift/)
+- [SF Symbols 5](https://developer.apple.com/sf-symbols/)
+- [Split your data easily and efficiently with .chunked()](https://www.danijelavrzan.com/posts/2023/10/swift-algorithms-chunked/)
+- [Using Core Data and Swift Data side by side](https://www.polpiella.dev/core-data-and-swift-data/)
+- [Format to Multiple Lines](https://xcode.tips/format-to-multiple-lines/)
+- [Debugging Improvements in Swift 5.9](https://www.swift.org/blog/whats-new-swift-debugging-5.9/)
+- [Xcode 15.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 63
 - [Picking your minimum iOS version to support](https://www.avanderlee.com/workflow/minimum-ios-version/)
 - [MusicKit and App Clips](https://www.polpiella.dev/musickit-and-app-clips/)
@@ -11,8 +24,6 @@
 - [@Model for CoreData](https://www.alwaysrightinstitute.com//managedmodels/)
 - [Taking your Strings Catalogs to the Next Level](https://liamnichols.eu/2023/10/02/taking-your-strings-catalogs-to-the-next-level.html)
 
-<details>
-<summary>2023</summary>
 
  ### Episode 62
 - [Value and Type parameter packs in Swift explained with examples](https://www.avanderlee.com/swift/value-and-type-parameter-packs/)
