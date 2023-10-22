@@ -2,6 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 65
+- [Thread dispatching and Actors: understanding execution](https://www.avanderlee.com/concurrency/thread-dispatching-actor-execution/)
+- [Designing for spatial computing: from iOS and iPadOS to visionOS](https://www.createwithswift.com/designing-for-visionos-shifting-from-ios-and-ipados/)
+- [How to Make Your App Look Like You've Hired a Designer](https://youtu.be/tlk9BRvIbq4?si=iJPnT11NFNPEQPMh)
+- [Bad practice: not using Phantom Types](https://www.swiftwithvincent.com/blog/bad-practice-not-using-phantom-types)
+- [Being a good citizen in the land of SwiftSyntax](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
+- [Find Ancestor Types](https://xcode.tips/find-ancestor-types/)
+- [Tips for post creation](https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/how-to-start-writing-a-post/)
+
+  
+<details>
+<summary>2023</summary>
+
+
  ### Episode 64
 - [@preconcurrency: Incremental migration to concurrency checking](https://www.avanderlee.com/concurrency/preconcurrency-checking-swift/)
 - [SF Symbols 5](https://developer.apple.com/sf-symbols/)
@@ -12,9 +26,6 @@
 - [Xcode 15.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes)
 
   
-<details>
-<summary>2023</summary>
-
  ### Episode 63
 - [Picking your minimum iOS version to support](https://www.avanderlee.com/workflow/minimum-ios-version/)
 - [MusicKit and App Clips](https://www.polpiella.dev/musickit-and-app-clips/)
