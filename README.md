@@ -2,6 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 66
+- [User Defaults reading and writing in Swift](https://www.avanderlee.com/swift/user-defaults-preferences/)
+- [Combine charts to create stunning designs with Swift Charts](https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts/)
+- [How (not) to monitor SwiftUI @State](https://blog.thomasdurand.fr/story/2023-10-21-how-not-to-monitor-swiftui-state/)
+- [Tap Gesture vs Button](https://david.y4ng.fr/tap-gesture-vs-button/)
+- [Masking Third Party Dependencies](https://www.swiftjectivec.com/masking-third-party-dependencies-swift/)
+- [Introduction to bash scripting for iOS developers](https://tanaschita.com/20231023-bash-scripting-for-ios-devs/)
+- [Upstream Decisions](https://david-smith.org/blog/2023/10/24/design-notes-41/)
+
+  
+<details>
+<summary>2023</summary>
+
+
  ### Episode 65
 - [Thread dispatching and Actors: understanding execution](https://www.avanderlee.com/concurrency/thread-dispatching-actor-execution/)
 - [Designing for spatial computing: from iOS and iPadOS to visionOS](https://www.createwithswift.com/designing-for-visionos-shifting-from-ios-and-ipados/)
@@ -10,10 +24,6 @@
 - [Being a good citizen in the land of SwiftSyntax](https://www.pointfree.co/blog/posts/116-being-a-good-citizen-in-the-land-of-swiftsyntax)
 - [Find Ancestor Types](https://xcode.tips/find-ancestor-types/)
 - [Tips for post creation](https://mfaani.com/posts/content-creation/everything-i-learned-from-blogging-with-hugo/how-to-start-writing-a-post/)
-
-  
-<details>
-<summary>2023</summary>
 
 
  ### Episode 64
