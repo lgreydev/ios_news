@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 67
+- [Promotional offers: Increase App Revenue using discounts](https://www.avanderlee.com/optimization/promotional-offers-increase-app-revenue-using-discounts/)
+- [Using the ARKit coaching view in a SwiftUI AR application](https://www.createwithswift.com/using-the-arkit-coaching-view-in-a-swiftui-ar-application/)
+- [Bad practice: not using multiline strings](https://www.swiftwithvincent.com/blog/bad-practice-not-using-multiline-strings)
+- [Generating Random Numbers Elegantly in Swift](https://www.swiftjectivec.com/swift-randomnumbergenerator/)
+- [PITFALL: Removing arranged subview in UIStackView](https://samwize.com/2023/10/30/pitfall-removing-arranged-subview-in-uistackview/)
+- [Missing Xcode run test buttons](https://paul-samuels.com/blog/2023/10/24/missing-xcode-run-test-buttons/)
+- [Design Evolution: Offline Map Downloader](https://david-smith.org/blog/2023/10/26/design-notes-42/)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 66
 - [User Defaults reading and writing in Swift](https://www.avanderlee.com/swift/user-defaults-preferences/)
 - [Combine charts to create stunning designs with Swift Charts](https://www.danijelavrzan.com/posts/2023/10/combine-swift-charts/)
@@ -10,10 +23,6 @@
 - [Masking Third Party Dependencies](https://www.swiftjectivec.com/masking-third-party-dependencies-swift/)
 - [Introduction to bash scripting for iOS developers](https://tanaschita.com/20231023-bash-scripting-for-ios-devs/)
 - [Upstream Decisions](https://david-smith.org/blog/2023/10/24/design-notes-41/)
-
-  
-<details>
-<summary>2023</summary>
 
 
  ### Episode 65
