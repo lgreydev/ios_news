@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 68
+- [RocketSim 12.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
+- [printChanges vs logChanges](https://twitter.com/hiddevdploeg/status/1721153208238629058)
+- [Animatable Dual Axis Graph](https://david-smith.org/blog/2023/11/01/design-notes-44/)
+- [Hierarchical background styles in SwiftUI](https://nilcoalescing.com/blog/HierarchicalBackgroundStyles/)
+- [Calculating a Smooth Clock Hands Animation](https://david-smith.org/blog/2023/11/06/design-notes-46/)
+- [Custom Traits and SwiftUI](https://useyourloaf.com/blog/custom-traits-and-swiftui/)
+- [Swift Measurement API](https://medium.com/@jpmtech/swift-measurement-api-73521627b65c)
+ 
+<details>
+<summary>2023</summary>
+
  ### Episode 67
 - [Promotional offers: Increase App Revenue using discounts](https://www.avanderlee.com/optimization/promotional-offers-increase-app-revenue-using-discounts/)
 - [Using the ARKit coaching view in a SwiftUI AR application](https://www.createwithswift.com/using-the-arkit-coaching-view-in-a-swiftui-ar-application/)
@@ -11,9 +23,6 @@
 - [Missing Xcode run test buttons](https://paul-samuels.com/blog/2023/10/24/missing-xcode-run-test-buttons/)
 - [Design Evolution: Offline Map Downloader](https://david-smith.org/blog/2023/10/26/design-notes-42/)
 
-  
-<details>
-<summary>2023</summary>
 
  ### Episode 66
 - [User Defaults reading and writing in Swift](https://www.avanderlee.com/swift/user-defaults-preferences/)
