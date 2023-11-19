@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 68
+ ### Episode 69
+- [Debugging SwiftUI views: what caused that change?](https://www.avanderlee.com/swiftui/debugging-swiftui-views/)
+- [Swifty Stack - Redefining App Development](https://www.swiftystack.com/)
+- [Ensure Visual Accessibility: Glyphs, Icons and Shapes](https://www.createwithswift.com/ensure-visual-accessibility-glyphs-icons-and-symbols/)
+- [The First 100 Subscribers for Elite Hoops](https://www.swiftjectivec.com/the-first-100-subscribers/)
+- [Swift Student Challenge](https://developer.apple.com/swift-student-challenge/)
+- [Progress toward the Swift 6 language mode](https://forums.swift.org/t/progress-toward-the-swift-6-language-mode/68315)
+- [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
+
+  
+<details>
+<summary>2023</summary>
+
+### Episode 68
 - [RocketSim 12.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
 - [printChanges vs logChanges](https://twitter.com/hiddevdploeg/status/1721153208238629058)
 - [Animatable Dual Axis Graph](https://david-smith.org/blog/2023/11/01/design-notes-44/)
@@ -11,8 +24,6 @@
 - [Custom Traits and SwiftUI](https://useyourloaf.com/blog/custom-traits-and-swiftui/)
 - [Swift Measurement API](https://medium.com/@jpmtech/swift-measurement-api-73521627b65c)
  
-<details>
-<summary>2023</summary>
 
  ### Episode 67
 - [Promotional offers: Increase App Revenue using discounts](https://www.avanderlee.com/optimization/promotional-offers-increase-app-revenue-using-discounts/)
