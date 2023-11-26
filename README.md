@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 70
+- [Unit testing async/await Swift code](https://www.avanderlee.com/concurrency/unit-testing-async-await/)
+- [Migrating a Core Data store to an App Group shared container](https://www.polpiella.dev/core-data-migration-app-group/)
+- [Controlling Actors With Custom Executors](https://jackmorris.xyz/posts/2023/11/21/controlling-actors-with-custom-executors/)
+- [How to migrate to a new schema with SwiftData in iOS](https://tanaschita.com/20231120-migration-with-swiftdata/)
+- [SwiftUI SplitView Compact Column Control](https://useyourloaf.com/blog/swiftui-splitview-compact-column-control/)
+- [Introducing Inferno: Metal shaders for SwiftUI](https://www.hackingwithswift.com/articles/262/introducing-inferno-metal-shaders-for-swiftui)
+- [The alternative to SwiftUI's Spacer](https://david.y4ng.fr/the-alternative-to-swiftui-spacer/)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 69
 - [Debugging SwiftUI views: what caused that change?](https://www.avanderlee.com/swiftui/debugging-swiftui-views/)
 - [Swifty Stack - Redefining App Development](https://www.swiftystack.com/)
@@ -11,9 +24,6 @@
 - [Progress toward the Swift 6 language mode](https://forums.swift.org/t/progress-toward-the-swift-6-language-mode/68315)
 - [On-Crash Backtraces in Swift](https://www.swift.org/blog/swift-5.9-backtraces/)
 
-  
-<details>
-<summary>2023</summary>
 
 ### Episode 68
 - [RocketSim 12.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
