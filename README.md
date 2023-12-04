@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 71
+- [Swift Evolution: Reading and learning from proposals](https://www.avanderlee.com/swift/swift-evolution-proposals/)
+- [Stretching an audio file using Swift](https://nonstrict.eu/blog/2023/stretching-an-audio-file-using-swift/)
+- [Scoped animations in SwiftUI](https://swiftwithmajid.com/2023/11/21/scoped-animations-in-swiftui/)
+- [Observable Architecture Beta!](https://www.pointfree.co/blog/posts/125-observable-architecture-beta)
+- [Create an AsyncStream from withObservationTracking() function](https://nilcoalescing.com/blog/AsyncStreamFromWithObservationTrackingFunc/)
+- [Finding a new job as a software engineer in 2023](https://codakuma.com/jobhunting/)
+- [Pair Programming with AI](https://itnext.io/pair-programming-with-ai-d13457409816)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 70
 - [Unit testing async/await Swift code](https://www.avanderlee.com/concurrency/unit-testing-async-await/)
 - [Migrating a Core Data store to an App Group shared container](https://www.polpiella.dev/core-data-migration-app-group/)
@@ -11,9 +24,6 @@
 - [Introducing Inferno: Metal shaders for SwiftUI](https://www.hackingwithswift.com/articles/262/introducing-inferno-metal-shaders-for-swiftui)
 - [The alternative to SwiftUI's Spacer](https://david.y4ng.fr/the-alternative-to-swiftui-spacer/)
 
-  
-<details>
-<summary>2023</summary>
 
  ### Episode 69
 - [Debugging SwiftUI views: what caused that change?](https://www.avanderlee.com/swiftui/debugging-swiftui-views/)
