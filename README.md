@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 72
+- [SFSafariViewController in SwiftUI: Open webpages in-app](https://www.avanderlee.com/swiftui/sfsafariviewcontroller-open-webpages-in-app/)
+- [Using Strings as a View in SwiftUI](https://twitter.com/avielgr/status/1729867624262381950)
+- [AsyncAlgorithms 1.0](https://forums.swift.org/t/asyncalgorithms-1-0/68804)
+- [Pow - iOS Effects Library going open-source](https://twitter.com/movingpartsio/status/1729894249183727714)
+- [SwiftUI geometryGroup() Guide: From Theory to Practice](https://medium.com/the-swift-cooperative/swiftui-geometrygroup-guide-from-theory-to-practice-1a7f4b04c4ec)
+- [From viewWillAppear to viewIsAppearing - Perfecting Your iOS View Transitions](https://ohmyswift.com/blog/2023/12/01/from-viewwillappear-to-viewisappearing-perfecting-your-ios-view-transitions/)
+- [Transforming Doubt into Drive: The Engineer’s Journey Through Imposter Syndrome](https://tgomareli.medium.com/transforming-doubt-into-drive-the-engineers-journey-through-imposter-syndrome-b899bceaf1d4)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 71
 - [Swift Evolution: Reading and learning from proposals](https://www.avanderlee.com/swift/swift-evolution-proposals/)
 - [Stretching an audio file using Swift](https://nonstrict.eu/blog/2023/stretching-an-audio-file-using-swift/)
@@ -11,9 +24,6 @@
 - [Finding a new job as a software engineer in 2023](https://codakuma.com/jobhunting/)
 - [Pair Programming with AI](https://itnext.io/pair-programming-with-ai-d13457409816)
 
-  
-<details>
-<summary>2023</summary>
 
  ### Episode 70
 - [Unit testing async/await Swift code](https://www.avanderlee.com/concurrency/unit-testing-async-await/)
