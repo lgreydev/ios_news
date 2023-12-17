@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 73
+- [Unlocking SwiftUI’s Hidden Potential: Leveraging ViewModifiers](https://medium.com/@kristof98/unlocking-swiftuis-hidden-potential-leveraging-viewmodifiers-0fe8701694f9)
+- [How to use String Catalog to localize iOS apps automatically](https://marceloproducts.medium.com/how-to-use-string-catalog-to-localize-ios-apps-automatically-5c0cc8261a1b)
+- [Code Completion Episode 141: That’s a Lot of App](https://youtu.be/PqVhxU0WIb4?si=FcfQXBSkCgcjSh4G)
+- [Announcing contingent pricing for subscriptions](https://developer.apple.com/news/?id=6e9odqgu)
+- [Swift: A Comprehensive Guide to Typecasting](https://elamir.medium.com/swift-a-comprehensive-guide-to-typecasting-98c28672107c)
+- [3rd Anniversary Swift and Tips: 2023 Results](https://youtu.be/nA2iJxCwF5Y?si=Of30gBO2E4ffE357)
+- [Get started with Gemini AI on iOS with SwiftUI](https://medium.com/google-cloud/get-started-with-gemini-ai-on-ios-with-swiftui-5dc3d28c8e3a)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 72
 - [SFSafariViewController in SwiftUI: Open webpages in-app](https://www.avanderlee.com/swiftui/sfsafariviewcontroller-open-webpages-in-app/)
 - [Using Strings as a View in SwiftUI](https://twitter.com/avielgr/status/1729867624262381950)
@@ -11,9 +24,6 @@
 - [From viewWillAppear to viewIsAppearing - Perfecting Your iOS View Transitions](https://ohmyswift.com/blog/2023/12/01/from-viewwillappear-to-viewisappearing-perfecting-your-ios-view-transitions/)
 - [Transforming Doubt into Drive: The Engineer’s Journey Through Imposter Syndrome](https://tgomareli.medium.com/transforming-doubt-into-drive-the-engineers-journey-through-imposter-syndrome-b899bceaf1d4)
 
-  
-<details>
-<summary>2023</summary>
 
  ### Episode 71
 - [Swift Evolution: Reading and learning from proposals](https://www.avanderlee.com/swift/swift-evolution-proposals/)
