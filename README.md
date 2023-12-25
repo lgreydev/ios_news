@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 74
+- [Using campaign links to track impressions, downloads, and sales](https://www.avanderlee.com/optimization/campaign-links-app-store-connect/)
+- [Enable upcoming Swift features in SPM](https://www.polpiella.dev/enable-upcoming-swift-features-in-spm/)
+- [Testing network calls using URLProtocol](https://arturgruchala.com/testing-network-calls-using/)
+- [Trigger property observers from initializers in Swift](https://nilcoalescing.com/blog/TriggerPropertyObserversFromInitializersInSwift/)
+- [SwiftData Deleting Data](https://useyourloaf.com/blog/swiftdata-deleting-data/)
+- [Don’t ship API keys!](https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/)
+- [iOS Interview Questions-Part 3](https://medium.com/swift-interview-preparations/ios-interview-questions-part-3-2804c5de9e52)
+
+<details>
+<summary>2023</summary>
+
  ### Episode 73
 - [Unlocking SwiftUI’s Hidden Potential: Leveraging ViewModifiers](https://medium.com/@kristof98/unlocking-swiftuis-hidden-potential-leveraging-viewmodifiers-0fe8701694f9)
 - [How to use String Catalog to localize iOS apps automatically](https://marceloproducts.medium.com/how-to-use-string-catalog-to-localize-ios-apps-automatically-5c0cc8261a1b)
@@ -11,9 +23,6 @@
 - [3rd Anniversary Swift and Tips: 2023 Results](https://youtu.be/nA2iJxCwF5Y?si=Of30gBO2E4ffE357)
 - [Get started with Gemini AI on iOS with SwiftUI](https://medium.com/google-cloud/get-started-with-gemini-ai-on-ios-with-swiftui-5dc3d28c8e3a)
 
-  
-<details>
-<summary>2023</summary>
 
  ### Episode 72
 - [SFSafariViewController in SwiftUI: Open webpages in-app](https://www.avanderlee.com/swiftui/sfsafariviewcontroller-open-webpages-in-app/)
