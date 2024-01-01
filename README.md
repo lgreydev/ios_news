@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 75
+- [SwiftLee 2023: A Year in Review](https://www.avanderlee.com/general/swiftlee-2023-a-year-in-review/)
+- [You don't need protocols](https://swiftunwrap.com/article/you-dont-need-protocols/)
+- [2, 6 & 7: Swift Tips by Vincent](https://twitter.com/v_pradeilles/status/1620760987497537537)
+- [Logging SwiftUI Changes](https://twitter.com/hiddevdploeg/status/1721153208238629058)
+- [30 tips to make you a better iOS developer](https://www.fadel.io/blog/posts/30-tips-to-make-you-a-better-ios-developer)
+- [What’s new in Swift 5.9?](https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9)
+- [Container Pattern in SwiftUI](https://azamsharp.com/2023/01/24/introduction-to-container-pattern.html)
+
+
+<details>
+<summary>2023</summary>
+
  ### Episode 74
 - [Using campaign links to track impressions, downloads, and sales](https://www.avanderlee.com/optimization/campaign-links-app-store-connect/)
 - [Enable upcoming Swift features in SPM](https://www.polpiella.dev/enable-upcoming-swift-features-in-spm/)
@@ -11,8 +24,6 @@
 - [Don’t ship API keys!](https://blog.thomasdurand.fr/story/2023-12-14-dont-ship-api-keys/)
 - [iOS Interview Questions-Part 3](https://medium.com/swift-interview-preparations/ios-interview-questions-part-3-2804c5de9e52)
 
-<details>
-<summary>2023</summary>
 
  ### Episode 73
 - [Unlocking SwiftUI’s Hidden Potential: Leveraging ViewModifiers](https://medium.com/@kristof98/unlocking-swiftuis-hidden-potential-leveraging-viewmodifiers-0fe8701694f9)
@@ -762,6 +773,5 @@
 - [AsyncThrowingStream and AsyncStream explained with code examples](https://www.avanderlee.com/swift/asyncthrowingstream-asyncstream/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_112)
 - [Different methods to remove the last item from an array in Swift](https://ohmyswift.com/blog/2022/04/24/different-methods-to-remove-the-last-item-from-an-array-in-swift/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_112)
 - [The difference between checked and unsafe continuations in Swift](https://www.donnywals.com/the-difference-between-checked-and-unsafe-continuation-in-swift/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_112)
-
 
 </details>
