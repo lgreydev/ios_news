@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 76
+- [Swift Newsletters: How to stay up to date as an app developer](https://www.avanderlee.com/optimization/swift-newsletters/)
+- [Comparing Swift Compiler](https://lucasvandongen.dev/compiler_performance.php)
+- [Bad practice: using "YYYY" to format a Date](https://www.swiftwithvincent.com/blog/bad-practice-using-yyyy-to-format-a-date)
+- [Using @Binding with @Environment(Object.self)](https://www.swiftjectivec.com/getting-bindings-from-environment-swiftui/)
+- [SwiftData Fetching Pending Changes](https://useyourloaf.com/blog/swiftdata-fetching-pending-changes/)
+- [There is no right or wrong in software engineering](https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering)
+- [Unxippity - fast Xcode unxipping, is open source](https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/)
+
+  
+<details>
+<summary>2023</summary>
+
  ### Episode 75
 - [SwiftLee 2023: A Year in Review](https://www.avanderlee.com/general/swiftlee-2023-a-year-in-review/)
 - [You don't need protocols](https://swiftunwrap.com/article/you-dont-need-protocols/)
@@ -11,9 +24,6 @@
 - [What’s new in Swift 5.9?](https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9)
 - [Container Pattern in SwiftUI](https://azamsharp.com/2023/01/24/introduction-to-container-pattern.html)
 
-
-<details>
-<summary>2023</summary>
 
  ### Episode 74
 - [Using campaign links to track impressions, downloads, and sales](https://www.avanderlee.com/optimization/campaign-links-app-store-connect/)
