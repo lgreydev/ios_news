@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 77
+- [@Observable Macro performance increase over ObservableObject](https://www.avanderlee.com/swiftui/observable-macro-performance-increase-observableobject/)
+- [AnyView’s impact on SwiftUI performance](https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/)
+- [How to use Stable Diffusion models in a Swift app](https://www.polpiella.dev/stable-diffusion-swift-apps/)
+- [Encrypted Portals between Macs – built in Swift and Rust](https://github.com/build-trust/ockam/blob/develop/examples/app/portals/README.md)
+- [From bug report to bug fix: optimizing the Customer Support journey](https://wetransfer.com/engineering/optimizing-customer-support-journey/)
+- [Awesome newsletters for iOS and Swift developers in 2024](https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2024)
+- [SwiftUI Binding Tips](https://chris.eidhof.nl/post/swiftui-binding-tricks/)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 76
 - [Swift Newsletters: How to stay up to date as an app developer](https://www.avanderlee.com/optimization/swift-newsletters/)
 - [Comparing Swift Compiler](https://lucasvandongen.dev/compiler_performance.php)
@@ -11,7 +24,9 @@
 - [There is no right or wrong in software engineering](https://swiftrocks.com/there-is-no-right-or-wrong-in-software-engineering)
 - [Unxippity - fast Xcode unxipping, is open source](https://trycombine.com/posts/an-app-experiment-about-unxipping-xcode-goes-to-github/)
 
-  
+</details>
+
+
 <details>
 <summary>2023</summary>
 
