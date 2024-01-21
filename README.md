@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 78
+- [Concurrency-safe global variables to prevent data races](https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/)
+- [Perception: A back-port of @Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
+- [How to write Unit Tests for Code Performance](https://www.swiftwithvincent.com/blog/how-to-write-unit-tests-for-code-performance)
+- [Remove background from image in SwiftUI](https://www.artemnovichkov.com/blog/remove-background-from-image-in-swiftui)
+- [SwiftUI Button Styles And Shapes](https://useyourloaf.com/blog/swiftui-button-styles-and-shapes/)
+- [Managing Loading States in SwiftUI](https://youtu.be/EWbRHTJ949k?si=ZXIYE2-5FEBomugO)
+- [StoreKit testing in Swift](https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 77
 - [@Observable Macro performance increase over ObservableObject](https://www.avanderlee.com/swiftui/observable-macro-performance-increase-observableobject/)
 - [AnyView’s impact on SwiftUI performance](https://martinmitrevski.com/2024/01/02/anyviews-impact-on-swiftui-performance/)
@@ -11,9 +23,6 @@
 - [Awesome newsletters for iOS and Swift developers in 2024](https://blog.eidinger.info/awesome-newsletters-for-ios-and-swift-developers-in-2024)
 - [SwiftUI Binding Tips](https://chris.eidhof.nl/post/swiftui-binding-tricks/)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 76
 - [Swift Newsletters: How to stay up to date as an app developer](https://www.avanderlee.com/optimization/swift-newsletters/)
