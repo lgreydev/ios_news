@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 79
+- [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
+- [Scroll transition effects in iOS 17](https://swdevnotes.com/swift/2024/scroll-transition-effects-in-ios-17/)
+- [ScrollView Bounce Behavior configuration in SwiftUI](https://www.avanderlee.com/swiftui/scrollview-bounce-behavior/)
+- [Implementing volumes in visionOS](https://www.createwithswift.com/implementing-volumes-in-visionos/)
+- [Why write visionOS apps?](https://youtu.be/fFtdgvim1VM?si=kCkmn0GK0TZOY1Cj)
+- [Concurrency-safe global variables to prevent data races](https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/)
+- [Perception: A back-port of @Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 78
 - [Concurrency-safe global variables to prevent data races](https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/)
 - [Perception: A back-port of @Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
@@ -11,8 +24,6 @@
 - [Managing Loading States in SwiftUI](https://youtu.be/EWbRHTJ949k?si=ZXIYE2-5FEBomugO)
 - [StoreKit testing in Swift](https://swiftwithmajid.com/2024/01/09/storekit-testing-in-swift/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 77
 - [@Observable Macro performance increase over ObservableObject](https://www.avanderlee.com/swiftui/observable-macro-performance-increase-observableobject/)
