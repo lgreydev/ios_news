@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 80
+- [Status bar overrides in the iOS Simulator](https://www.avanderlee.com/workflow/status-bar-overrides-in-the-ios-simulator/)
+- [Antoine van der Lee on Building and Leading Winning Teams](https://semaphoreci.com/blog/antoine-van-der-lee)
+- [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
+- [Debug for visionOS using Xcode simulator visualizations](https://www.createwithswift.com/debug-visionos-using-xcode-simulator-visualizations/)
+- [Bad practice: loading a large image on the main thread](https://www.swiftwithvincent.com/blog/bad-practice-loading-a-large-image-on-the-main-thread)
+- [Pricing Indie Apps: The Perks of a Wallflower Rule](https://www.swiftjectivec.com/pricing-indie-ios-apps-according-to-perks-of-a-wallflower/)
+- [BA: Swiftable 2023 - Videos are out!](https://www.youtube.com/playlist?list=PLleLsCcywRxJiefHetSHTVCe5tGErTqUV)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 79
 - [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
 - [Scroll transition effects in iOS 17](https://swdevnotes.com/swift/2024/scroll-transition-effects-in-ios-17/)
@@ -11,9 +24,6 @@
 - [Concurrency-safe global variables to prevent data races](https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/)
 - [Perception: A back-port of @Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 78
 - [Concurrency-safe global variables to prevent data races](https://www.avanderlee.com/concurrency/concurrency-safe-global-variables-to-prevent-data-races/)
