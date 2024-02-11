@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 81
+- [App Preview Videos Capturing using the Xcode simulator](https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/)
+- [Getting Started With App Intents](https://useyourloaf.com/blog/getting-started-with-app-intents/)
+- [How to make a completionHandler much safer](https://www.swiftwithvincent.com/blog/how-to-make-a-completionhandler-much-safer)
+- [Automating SwiftUI Accessibility Audits in Xcode 15](https://holyswift.app/xcode-15-new-feature-streamlined-accessibility-audits/)
+- [Disabling Core Data CloudKit Logging](https://useyourloaf.com/blog/disabling-core-data-cloudkit-logging/)
+- [Detailed WWDC summaries](https://a11y-guidelines.orange.com/en/mobile/ios/wwdc/nota11y/)
+- [xScope](https://xscopeapp.com/)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 80
 - [Status bar overrides in the iOS Simulator](https://www.avanderlee.com/workflow/status-bar-overrides-in-the-ios-simulator/)
 - [Antoine van der Lee on Building and Leading Winning Teams](https://semaphoreci.com/blog/antoine-van-der-lee)
@@ -11,9 +24,6 @@
 - [Pricing Indie Apps: The Perks of a Wallflower Rule](https://www.swiftjectivec.com/pricing-indie-ios-apps-according-to-perks-of-a-wallflower/)
 - [BA: Swiftable 2023 - Videos are out!](https://www.youtube.com/playlist?list=PLleLsCcywRxJiefHetSHTVCe5tGErTqUV)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 79
 - [Introducing SwiftUI on visionOS](https://swiftwithmajid.com/2024/01/23/introducing-swiftui-on-visionOS/)
