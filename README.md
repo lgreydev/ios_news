@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 81
+ ### Episode 82
+- [How to use @ScaledMetric in SwiftUI for Dynamic Type support](https://www.avanderlee.com/swiftui/scaledmetric-dynamic-type-support/)
+- [The power of self-sufficient features](https://www.swiftindepth.com/articles/self-sufficient-features/)
+- [Ensuring interface legibility and contrast in visionOS](https://www.createwithswift.com/ensuring-interface-legibility-and-contrast-in-visionos/)
+- [Fun Alignment Guide Tricks](https://www.swiftjectivec.com/swiftui-alignment-guides-tip-tricks/)
+- [What if your feature was a Command Line Tool?](https://www.swiftindepth.com/articles/what-if-your-feature-was-a-command-line-tool/)
+- [Create an animated transition with Matched Geometry Effect in SwiftUI](https://www.createwithswift.com/create-an-animated-transition-with-matched-geometry-effect-in-swiftui/)
+- [Extra Large Title text styles in visionOS](https://www.createwithswift.com/extra-large-title-text-styles-in-visionos/)
+
+
+<details>
+<summary>2024</summary>
+
+### Episode 81
 - [App Preview Videos Capturing using the Xcode simulator](https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/)
 - [Getting Started With App Intents](https://useyourloaf.com/blog/getting-started-with-app-intents/)
 - [How to make a completionHandler much safer](https://www.swiftwithvincent.com/blog/how-to-make-a-completionhandler-much-safer)
@@ -11,9 +24,6 @@
 - [Detailed WWDC summaries](https://a11y-guidelines.orange.com/en/mobile/ios/wwdc/nota11y/)
 - [xScope](https://xscopeapp.com/)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 80
 - [Status bar overrides in the iOS Simulator](https://www.avanderlee.com/workflow/status-bar-overrides-in-the-ios-simulator/)
