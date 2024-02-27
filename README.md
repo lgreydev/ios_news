@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 83
+- [Extensions in Swift: How and when to use them](https://www.avanderlee.com/swift/extensions/)
+- [The power of inout parameters](https://danielsaidi.com/blog/2024/02/18/the-power-of-inout-parameters)
+- [How to determine where tasks and async functions run in Swift?](https://www.donnywals.com/how-to-determine-where-tasks-and-async-functions-run-in-swift/)
+- [Let's talk about data race safety in Swift 6!](https://twitter.com/hollyborla/status/1758298036667916370)
+- [Vision Accessibility on Apple Vision Pro](https://zmknox.com/2024/02/18/vision-accessibility-on-apple-vision-pro)
+- [Fundamentals of type-driven code](https://swiftology.io/articles/tydd-part-1-fundamentals/)
+- [Shipping a visionOS app for launch](https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch)
+  
+<details>
+<summary>2024</summary>
+
  ### Episode 82
 - [How to use @ScaledMetric in SwiftUI for Dynamic Type support](https://www.avanderlee.com/swiftui/scaledmetric-dynamic-type-support/)
 - [The power of self-sufficient features](https://www.swiftindepth.com/articles/self-sufficient-features/)
@@ -11,9 +23,6 @@
 - [Create an animated transition with Matched Geometry Effect in SwiftUI](https://www.createwithswift.com/create-an-animated-transition-with-matched-geometry-effect-in-swiftui/)
 - [Extra Large Title text styles in visionOS](https://www.createwithswift.com/extra-large-title-text-styles-in-visionos/)
 
-
-<details>
-<summary>2024</summary>
 
 ### Episode 81
 - [App Preview Videos Capturing using the Xcode simulator](https://www.avanderlee.com/workflow/capture-ios-simulator-video-app-preview/)
