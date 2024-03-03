@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 83
+ ### Episode 84
+- [Third-party libraries acknowledgments using a Settings bundle](https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/)
+- [The Role of CI on Mobile Development](https://twitter.com/bitrise/status/1760733263524712461)
+- [Swift 6.0 Release Process](https://forums.swift.org/t/swift-6-0-release-process/70220)
+- [What are Tokens?](https://www.natashatherobot.com/p/what-are-tokens)
+- [Vision Pro Connectivity](https://buttondown.email/varrall/archive/vision-pro-connectivity/)
+- [Modding Plugins back into Xcode](https://bryce.co/xcode-plugin-loader/)
+- [How to delay an animation in SwiftUI](https://tanaschita.com/20240226-delay-swiftui-animation/)
+
+  
+<details>
+<summary>2024</summary>
+
+### Episode 83
 - [Extensions in Swift: How and when to use them](https://www.avanderlee.com/swift/extensions/)
 - [The power of inout parameters](https://danielsaidi.com/blog/2024/02/18/the-power-of-inout-parameters)
 - [How to determine where tasks and async functions run in Swift?](https://www.donnywals.com/how-to-determine-where-tasks-and-async-functions-run-in-swift/)
@@ -11,8 +24,6 @@
 - [Fundamentals of type-driven code](https://swiftology.io/articles/tydd-part-1-fundamentals/)
 - [Shipping a visionOS app for launch](https://www.hackingwithswift.com/articles/265/shipping-a-visionos-app-for-launch)
   
-<details>
-<summary>2024</summary>
 
  ### Episode 82
 - [How to use @ScaledMetric in SwiftUI for Dynamic Type support](https://www.avanderlee.com/swiftui/scaledmetric-dynamic-type-support/)
