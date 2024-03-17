@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 84
+ ### Episode 85
+- [Test-Driven Development (TDD) for bug fixes in Swift](https://www.avanderlee.com/workflow/test-driven-development-tdd-for-bug-fixes-in-swift/)
+- [Swift 5.10 Released](https://www.swift.org/blog/swift-5.10-released/)
+- [Be careful when using .onTapGesture()](https://www.swiftwithvincent.com/blog/be-careful-when-using-ontapgesture)
+- [Apple Developer Academy Call for Application 2024-2025](https://www.developeracademy.unina.it/en/applications-2024-2025-eng/)
+- [SwiftUI loading states with a twist; Solving a mutation puzzle](https://www.swiftindepth.com/articles/swiftui-loading-states-with-mutation/)
+- [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/)
+- [Tips to help introverts and quiet ones survive software development](https://youtu.be/n0-5OQ61S0I?si=NOlQFDXOmZ6jBFjI)
+
+  
+<details>
+<summary>2024</summary>
+
+### Episode 84
 - [Third-party libraries acknowledgments using a Settings bundle](https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/)
 - [The Role of CI on Mobile Development](https://twitter.com/bitrise/status/1760733263524712461)
 - [Swift 6.0 Release Process](https://forums.swift.org/t/swift-6-0-release-process/70220)
@@ -11,9 +24,6 @@
 - [Modding Plugins back into Xcode](https://bryce.co/xcode-plugin-loader/)
 - [How to delay an animation in SwiftUI](https://tanaschita.com/20240226-delay-swiftui-animation/)
 
-  
-<details>
-<summary>2024</summary>
 
 ### Episode 83
 - [Extensions in Swift: How and when to use them](https://www.avanderlee.com/swift/extensions/)
