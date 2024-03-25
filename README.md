@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 86
+- [The power of consistency in side projects](https://www.avanderlee.com/optimization/the-power-of-consistency-in-side-projects/)
+- [How to run asynchronous code in Swift Playground correctly?](https://antran.app/2024/swift_playground_async_execution/)
+- [Using @_silgen_name to forward declare functions in Swift and improve build times](https://swiftrocks.com/using-silgenname-to-call-private-swift-code)
+- [Be Careful When You Initialize a State Object](https://jaredsinclair.com/2024/03/14/state-object-autoclosure.html)
+- [SwiftUI Previews-based architecture](https://blog.thomasdurand.fr/story/2024-03-15-preview-based-architecture/)
+- [SwiftUI Inverting A Boolean Binding](https://useyourloaf.com/blog/swiftui-inverting-a-boolean-binding/)
+- [How to build a draggable bottom sheet with a scroll view in SwiftUI](https://tanaschita.com/20240311-draggable-sheet-with-scroll-view/)
+
+  
+<details>
+<summary>2024</summary>
+
  ### Episode 85
 - [Test-Driven Development (TDD) for bug fixes in Swift](https://www.avanderlee.com/workflow/test-driven-development-tdd-for-bug-fixes-in-swift/)
 - [Swift 5.10 Released](https://www.swift.org/blog/swift-5.10-released/)
@@ -11,9 +24,6 @@
 - [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/)
 - [Tips to help introverts and quiet ones survive software development](https://youtu.be/n0-5OQ61S0I?si=NOlQFDXOmZ6jBFjI)
 
-  
-<details>
-<summary>2024</summary>
 
 ### Episode 84
 - [Third-party libraries acknowledgments using a Settings bundle](https://www.avanderlee.com/workflow/third-party-libraries-acknowledgments-swift-packages/)
