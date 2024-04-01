@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 86
+ ### Episode 87
+- [Key press events detection in SwiftUI](https://www.avanderlee.com/swiftui/key-press-events-detection/)
+- [Generate and read analytics reports from the App Store Connect API](https://www.polpiella.dev/analytics-reports-api-app-store-connect)
+- [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
+- [Recreating Apple's beautiful visionOS search bar](https://christianselig.com/2024/03/recreating-visionos-search-bar/)
+- [Using a Swift macro to generate an EnvironmentKey](https://www.swiftwithvincent.com/blog/using-a-swift-macro-to-generate-an-environmentkey)
+- [Safe array subscription in Swift](https://tanaschita.com/swift-basics-safe-array-subscription/)
+- [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor)
+
+  
+<details>
+<summary>2024</summary>
+
+### Episode 86
 - [The power of consistency in side projects](https://www.avanderlee.com/optimization/the-power-of-consistency-in-side-projects/)
 - [How to run asynchronous code in Swift Playground correctly?](https://antran.app/2024/swift_playground_async_execution/)
 - [Using @_silgen_name to forward declare functions in Swift and improve build times](https://swiftrocks.com/using-silgenname-to-call-private-swift-code)
@@ -12,9 +25,6 @@
 - [How to build a draggable bottom sheet with a scroll view in SwiftUI](https://tanaschita.com/20240311-draggable-sheet-with-scroll-view/)
 
   
-<details>
-<summary>2024</summary>
-
  ### Episode 85
 - [Test-Driven Development (TDD) for bug fixes in Swift](https://www.avanderlee.com/workflow/test-driven-development-tdd-for-bug-fixes-in-swift/)
 - [Swift 5.10 Released](https://www.swift.org/blog/swift-5.10-released/)
