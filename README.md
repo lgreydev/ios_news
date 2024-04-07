@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 87
+ ### Episode 88
+- [Identifiable protocol in SwiftUI explained with code examples](https://www.avanderlee.com/swiftui/identifiable-protocol-object-identifier/)
+- [Apple Developer Videos on YouTube](https://www.youtube.com/@AppleDeveloper)
+- [Building async button in SwiftUI](https://swiftwithmajid.com/2024/03/26/building-async-button-in-swiftui/)
+- [How to define a custom file header for a Swift Package](https://danielsaidi.com/blog/2024/03/21/how-to-define-a-custom-file-header-for-a-swift-package)
+- [Exploring ABI stability, @frozen, and library evolution mode](https://digitalbunker.dev/understanding-frozen-in-swift/)
+- [Request and check local network permission on iOS and visionOS](https://nonstrict.eu/blog/2024/request-and-check-for-local-network-permission/)
+- [Where Swift Concurrency will run your function?](https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function/)
+
+  
+<details>
+<summary>2024</summary>
+
+### Episode 87
 - [Key press events detection in SwiftUI](https://www.avanderlee.com/swiftui/key-press-events-detection/)
 - [Generate and read analytics reports from the App Store Connect API](https://www.polpiella.dev/analytics-reports-api-app-store-connect)
 - [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
@@ -11,9 +24,6 @@
 - [Safe array subscription in Swift](https://tanaschita.com/swift-basics-safe-array-subscription/)
 - [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor)
 
-  
-<details>
-<summary>2024</summary>
 
 ### Episode 86
 - [The power of consistency in side projects](https://www.avanderlee.com/optimization/the-power-of-consistency-in-side-projects/)
