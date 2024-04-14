@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 89
+- [Statistical significance and its importance with app experiments](https://www.avanderlee.com/general/statistical-significance-app-experiments/)
+- [What it's like attending WWDC in Cupertino](https://youtu.be/SneL19Jp1iE?si=t3xW-GWfZboxDtuI)
+- [TIL dynamic libraries are only partially loaded at launch in iOS](https://diggingdeveloper.blog/2024/04/03/til-dynamic-libraries-are-only-partially-loaded-at-launch-in-ios/)
+- [Splitting Up a Monolith: From 1 to 25 Swift Packages](https://ryanashcraft.com/splitting-up-a-monolithic-swift-package/)
+- [Fetching OSLog Messages in Swift](https://useyourloaf.com/blog/fetching-oslog-messages-in-swift/)
+- [iOS Interview - Understanding Dynamic Dispatch and Static Dispatch in Swift](https://antran.app/2024/dynamic_static_dispatch/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_214)
+- [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
+  
+<details>
+<summary>2024</summary>
+
  ### Episode 88
 - [Identifiable protocol in SwiftUI explained with code examples](https://www.avanderlee.com/swiftui/identifiable-protocol-object-identifier/)
 - [Apple Developer Videos on YouTube](https://www.youtube.com/@AppleDeveloper)
@@ -11,9 +23,6 @@
 - [Request and check local network permission on iOS and visionOS](https://nonstrict.eu/blog/2024/request-and-check-for-local-network-permission/)
 - [Where Swift Concurrency will run your function?](https://swiftwithmajid.com/2024/03/20/where-swift-concurrency-will-run-your-function/)
 
-  
-<details>
-<summary>2024</summary>
 
 ### Episode 87
 - [Key press events detection in SwiftUI](https://www.avanderlee.com/swiftui/key-press-events-detection/)
