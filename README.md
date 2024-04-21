@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 90
+- [Bar Chart creation using Swift Charts](https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/)
+- [Deep linking for local notifications in SwiftUI](https://swiftwithmajid.com/2024/04/09/deep-linking-for-local-notifications-in-swiftui/)
+- [What’s the difference between any and Any?](https://www.swiftwithvincent.com/blog/whats-the-difference-between-any-and-any)
+- [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained/)
+- [Creating Shapes from SVG in a SwiftUI app](https://www.createwithswift.com/creating-shapes-from-svg-in-a-swiftui-app/)
+- [5 Practical Ways to Quickly Overcome a Programming Obstacle](https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/)
+- [How to do pagination in SwiftUI](https://medium.engineering/how-to-do-pagination-in-swiftui-04511be7fbd1)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 89
 - [Statistical significance and its importance with app experiments](https://www.avanderlee.com/general/statistical-significance-app-experiments/)
 - [What it's like attending WWDC in Cupertino](https://youtu.be/SneL19Jp1iE?si=t3xW-GWfZboxDtuI)
@@ -11,8 +23,6 @@
 - [iOS Interview - Understanding Dynamic Dispatch and Static Dispatch in Swift](https://antran.app/2024/dynamic_static_dispatch/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_214)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
   
-<details>
-<summary>2024</summary>
 
  ### Episode 88
 - [Identifiable protocol in SwiftUI explained with code examples](https://www.avanderlee.com/swiftui/identifiable-protocol-object-identifier/)
