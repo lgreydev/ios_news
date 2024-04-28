@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 90
+ ### Episode 91
+- [Bar Chart creation using Swift Charts](https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/)
+- [Deep linking for local notifications in SwiftUI](https://swiftwithmajid.com/2024/04/09/deep-linking-for-local-notifications-in-swiftui/)
+- [What’s the difference between any and Any?](https://www.swiftwithvincent.com/blog/whats-the-difference-between-any-and-any)
+- [Actor reentrancy in Swift explained](https://www.donnywals.com/actor-reentrancy-in-swift-explained/)
+- [Creating Shapes from SVG in a SwiftUI app](https://www.createwithswift.com/creating-shapes-from-svg-in-a-swiftui-app/)
+- [5 Practical Ways to Quickly Overcome a Programming Obstacle](https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/)
+- [Localize a SwiftUI app](https://blog.ptrkstr.com/localize-a-swiftui-app)
+
+
+<details>
+<summary>2024</summary>
+
+### Episode 90
 - [Bar Chart creation using Swift Charts](https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/)
 - [Deep linking for local notifications in SwiftUI](https://swiftwithmajid.com/2024/04/09/deep-linking-for-local-notifications-in-swiftui/)
 - [What’s the difference between any and Any?](https://www.swiftwithvincent.com/blog/whats-the-difference-between-any-and-any)
@@ -11,8 +24,6 @@
 - [5 Practical Ways to Quickly Overcome a Programming Obstacle](https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/)
 - [How to do pagination in SwiftUI](https://medium.engineering/how-to-do-pagination-in-swiftui-04511be7fbd1)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 89
 - [Statistical significance and its importance with app experiments](https://www.avanderlee.com/general/statistical-significance-app-experiments/)
