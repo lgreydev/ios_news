@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 92
+- [Solve Missing API declaration using required reason (ITMS-91053)](https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/)
+- [The ContentUnavailableView In SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/the-contentunavailableview-in-swiftui/)
+- [My experience with the “Blinkist trial”: Big boost](https://nemecek.be/blog/205/my-experience-with-the-blinkist-trial-big-boost)
+- [Subscribing to SwiftData changes outside SwiftUI](https://www.finnvoorhees.com/words/subscribing-to-swiftdata-changes-outside-swiftui/)
+- [Hot Reloading In SwiftUI](https://dasdom.dev/hot-reloading-in-swiftui/)
+- [SwiftUI Pie Charts](https://useyourloaf.com/blog/swiftui-pie-charts/)
+- [Content margins in SwiftUI](https://swiftwithmajid.com/2024/04/23/content-margins-in-swiftui/)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 91
 - [Bar Chart creation using Swift Charts](https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/)
 - [Deep linking for local notifications in SwiftUI](https://swiftwithmajid.com/2024/04/09/deep-linking-for-local-notifications-in-swiftui/)
@@ -11,9 +24,6 @@
 - [5 Practical Ways to Quickly Overcome a Programming Obstacle](https://blog.supereasyapps.com/5-practical-ways-to-quickly-overcome-a-programming-obstacle/)
 - [Localize a SwiftUI app](https://blog.ptrkstr.com/localize-a-swiftui-app)
 
-
-<details>
-<summary>2024</summary>
 
 ### Episode 90
 - [Bar Chart creation using Swift Charts](https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/)
