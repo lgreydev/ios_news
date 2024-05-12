@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 93
+- [Xcode Build Insights: Keep track of project compilation times](https://www.avanderlee.com/xcode/xcode-build-insights-keep-track-of-project-compilation-times/)
+- [Safely unwrap optional values in SwiftUI bindings](https://www.polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/)
+- [Asking AI to Refactor Swift Code](https://www.swiftjectivec.com/asking-ai-to-refactor-my-swift-code/)
+- [Recreating Flighty in SwiftUI](https://www.optimistic-closures.com/flighty-in-swiftui/)
+- [Concurrency in Swift 6: SE-0418](https://www.massicotte.org/concurrency-swift-6-se-0418)
+- [WWDC Index](https://nonstrict.eu/wwdcindex/)
+- [Content margins in SwiftUI](https://swiftwithmajid.com/2024/04/23/content-margins-in-swiftui/)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 92
 - [Solve Missing API declaration using required reason (ITMS-91053)](https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/)
 - [The ContentUnavailableView In SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/the-contentunavailableview-in-swiftui/)
@@ -11,9 +24,6 @@
 - [SwiftUI Pie Charts](https://useyourloaf.com/blog/swiftui-pie-charts/)
 - [Content margins in SwiftUI](https://swiftwithmajid.com/2024/04/23/content-margins-in-swiftui/)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 91
 - [Bar Chart creation using Swift Charts](https://www.avanderlee.com/swift-charts/bar-chart-creation-using-swift-charts/)
