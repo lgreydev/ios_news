@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 94
+- [Repository design pattern in Swift explained using code examples](https://www.avanderlee.com/swift/repository-design-pattern/)
+- [Fix Xcode losing references to downloaded Simulator runtimes](https://antran.app/2024/fixing_xcode_simulators/)
+- [Mastering the containerRelativeFrame Modifier in SwiftUI](https://fatbobman.com/en/posts/mastering-the-containerrelativeframe-modifier-in-swiftui/)
+- [Discovering app features with TipKit. Basics](https://swiftwithmajid.com/2024/05/07/discovering-app-features-with-tipkit-basics/)
+- [Top 5 Tools Every iOS Developer Should Have in Their Xcode Arsenal](https://levelup.gitconnected.com/top-5-tools-every-ios-developer-should-have-in-their-xcode-arsenal-fdcb8f60ff04)
+- [Pinning Swift Package Versions](https://lucasvandongen.dev/pinning_swift_package_versions.php)
+- [How to use custom fonts and images in a Swift Package](https://dev.jeremygale.com/swiftui-how-to-use-custom-fonts-and-images-in-a-swift-package)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 93
 - [Xcode Build Insights: Keep track of project compilation times](https://www.avanderlee.com/xcode/xcode-build-insights-keep-track-of-project-compilation-times/)
 - [Safely unwrap optional values in SwiftUI bindings](https://www.polpiella.dev/safely-unwrap-optional-value-in-swiftui-binding/)
@@ -11,9 +24,6 @@
 - [WWDC Index](https://nonstrict.eu/wwdcindex/)
 - [Content margins in SwiftUI](https://swiftwithmajid.com/2024/04/23/content-margins-in-swiftui/)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 92
 - [Solve Missing API declaration using required reason (ITMS-91053)](https://www.avanderlee.com/xcode/missing-api-declaration-required-reason-itms-91053/)
