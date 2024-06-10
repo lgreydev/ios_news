@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 96
+ ### Episode 97
+- [Swift Package Manager framework creation in Xcode](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
+- [Bad practice: not using a ButtonStyle](https://www.swiftwithvincent.com/blog/bad-practice-not-using-a-buttonstyle)
+- [W.W.D.C. 2024: The Pregame Quiz](https://www.swiftjectivec.com/wwdc-2024-the-pregame-quiz/)
+- [Do NOT init State externally in SwiftUI](https://samwize.com/2024/05/08/do-not-init-state-externally-in-swiftui-view/)
+- [Don't Double my money: on Swift Numeric types](https://varanios.com/articles/dont-double-my-money-on-swift-numeric-types/)
+- [Designing a Declarative API](https://www.mobilesystemdesign.com/blog/declarative-api-design/)
+- [Scenes types in a SwiftUI Mac app](https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp/)
+
+
+<details>
+<summary>2024</summary>
+
+### Episode 96
 - [ChatGPT for Swift: Top 5 code generation prompts](https://www.avanderlee.com/swift/chatgpt-code-generation-prompts/)
 - [Replacing The Deprecated cornerRadius View Modifier In SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/replacing-the-deprecated-cornerradius-view-modifier-in-swiftui/)
 - [Introduction to RealityView](https://www.createwithswift.com/introduction-to-realityview/)
@@ -11,9 +24,7 @@
 - [How to build segmented circular progress views in SwiftUI with Swift Charts](https://www.polpiella.dev/swiftui-charts-progress-views/)
 - [Programmatic navigation in SwiftUI with NavigationPath and navigationDestination](https://www.donnywals.com/programmatic-navigation-in-swiftui-with-navigationpath-and-navigationdestination/)
 
-<details>
-<summary>2024</summary>
-
+  
 ### Episode 95
 - [Repository design pattern in Swift explained using code examples](https://www.avanderlee.com/swift/repository-design-pattern/)
 - [Fix Xcode losing references to downloaded Simulator runtimes](https://antran.app/2024/fixing_xcode_simulators/)
