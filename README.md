@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 98
+- [@Previewable: Dynamic SwiftUI Previews Made Easy](https://www.avanderlee.com/swiftui/previewable-macro-usage-in-previews/)
+- [What's new in Swift 6.0?](https://www.hackingwithswift.com/articles/269/whats-new-in-swift-6)
+- [All new frameworks presented at WWDC24](https://blog.eidinger.info/all-new-frameworks-presented-at-wwdc24)
+- [What is new in SwiftUI after WWDC 24](https://swiftwithmajid.com/2024/06/10/what-is-new-in-swiftui-after-wwdc24/)
+- [iOS 18: Notable UIKit Additions](https://www.swiftjectivec.com/ios-18-notable-uikit-additions/)
+- [Zoom navigation transition in SwiftUI](https://augmentedcode.io/2024/06/17/zoom-navigation-transition-in-swiftui/)
+- [Present a form sheet in SwiftUI](https://nilcoalescing.com/blog/FormSheetInSwiftUI/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 97
 - [Swift Package Manager framework creation in Xcode](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
 - [Bad practice: not using a ButtonStyle](https://www.swiftwithvincent.com/blog/bad-practice-not-using-a-buttonstyle)
@@ -11,9 +23,6 @@
 - [Designing a Declarative API](https://www.mobilesystemdesign.com/blog/declarative-api-design/)
 - [Scenes types in a SwiftUI Mac app](https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp/)
 
-
-<details>
-<summary>2024</summary>
 
 ### Episode 96
 - [ChatGPT for Swift: Top 5 code generation prompts](https://www.avanderlee.com/swift/chatgpt-code-generation-prompts/)
