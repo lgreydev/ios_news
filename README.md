@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 99
+- [Swift 6: Incrementally migrate your Xcode projects and packages](https://www.avanderlee.com/concurrency/swift-6-migrating-xcode-projects-packages/)
+- [Using iOS 18’s new TabView with a sidebar](https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/)
+- [Enhanced replace transition for SF Symbols in iOS 18](https://nilcoalescing.com/blog/EnhancedReplaceTransitionForSFSymbolsInIOS18/)
+- [Here are 3 advanced tips in Swift](https://www.swiftwithvincent.com/blog/here-are-3-advanced-tips-in-swift)
+- [Getting started with Swift Testing](https://www.polpiella.dev/swift-testing)
+- [Zoom navigation transition in SwiftUI](https://augmentedcode.io/2024/06/17/zoom-navigation-transition-in-swiftui/)
+- [What is new in SwiftUI after WWDC 24](https://swiftwithmajid.com/2024/06/10/what-is-new-in-swiftui-after-wwdc24/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 98
 - [@Previewable: Dynamic SwiftUI Previews Made Easy](https://www.avanderlee.com/swiftui/previewable-macro-usage-in-previews/)
 - [What's new in Swift 6.0?](https://www.hackingwithswift.com/articles/269/whats-new-in-swift-6)
@@ -11,8 +23,6 @@
 - [Zoom navigation transition in SwiftUI](https://augmentedcode.io/2024/06/17/zoom-navigation-transition-in-swiftui/)
 - [Present a form sheet in SwiftUI](https://nilcoalescing.com/blog/FormSheetInSwiftUI/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 97
 - [Swift Package Manager framework creation in Xcode](https://www.avanderlee.com/swift/creating-swift-package-manager-framework/)
