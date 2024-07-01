@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 100
+- [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
+- [Improvements to Swift in Visual Studio Code coming with Swift 6](https://forums.swift.org/t/improvements-to-swift-in-visual-studio-code-coming-with-swift-6/72708)
+- [Swift Academy Podcast - Antoine's favorite development tool](https://youtu.be/kGTqlyzoTEM?si=PLjSVUCY_fwysv_h)
+- [Reverse Engineering Photos' New Search UI](https://sebvidal.com/blog/reverse-engineering-photos-search-ui/)
+- [Preparing your App Icon for dark and tinted appearance](https://www.createwithswift.com/preparing-your-app-icon-for-dark-and-tinted-appearance/)
+- [What is new in SwiftUI after WWDC 24](https://swiftwithmajid.com/2024/06/10/what-is-new-in-swiftui-after-wwdc24/)
+- [Enhanced replace transition for SF Symbols in iOS 18](https://nilcoalescing.com/blog/EnhancedReplaceTransitionForSFSymbolsInIOS18/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 99
 - [Swift 6: Incrementally migrate your Xcode projects and packages](https://www.avanderlee.com/concurrency/swift-6-migrating-xcode-projects-packages/)
 - [Using iOS 18’s new TabView with a sidebar](https://www.donnywals.com/using-ios-18s-new-tabview-with-a-sidebar/)
@@ -11,8 +23,6 @@
 - [Zoom navigation transition in SwiftUI](https://augmentedcode.io/2024/06/17/zoom-navigation-transition-in-swiftui/)
 - [What is new in SwiftUI after WWDC 24](https://swiftwithmajid.com/2024/06/10/what-is-new-in-swiftui-after-wwdc24/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 98
 - [@Previewable: Dynamic SwiftUI Previews Made Easy](https://www.avanderlee.com/swiftui/previewable-macro-usage-in-previews/)
