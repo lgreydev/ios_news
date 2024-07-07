@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 100
+ ### Episode 101
+- [Typed throws in Swift explained with code examples](https://www.avanderlee.com/swift/typed-throws/)
+- [Xcode Explicitly Built Modules](https://useyourloaf.com/blog/xcode-explicitly-built-modules/)
+- [Exploring Translation: Using translationPresentation for Translation Popover](https://www.rudrank.com/exploring-translation-using-translationpresentation-for-translation-popover-3/)
+- [Using multi-step animations in SwiftUI](https://www.createwithswift.com/using-multi-step-animations-in-swiftui/)
+- [The Evolution of SwiftUI Scroll Control APIs and Highlights from WWDC 2024](https://fatbobman.com/en/posts/the-evolution-of-swiftui-scroll-control-apis/)
+- [Mastering ScrollView in SwiftUI. Scroll Offset](https://swiftwithmajid.com/2024/06/17/mastering-scrollview-in-swiftui-scroll-offset/)
+- [My Favorite SwiftUI Updates in iOS 18](https://youtu.be/aCbh9LmIZTI?si=2sKe4Er_sXAA7vuU)
+
+
+<details>
+<summary>2024</summary>
+
+### Episode 100
 - [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
 - [Improvements to Swift in Visual Studio Code coming with Swift 6](https://forums.swift.org/t/improvements-to-swift-in-visual-studio-code-coming-with-swift-6/72708)
 - [Swift Academy Podcast - Antoine's favorite development tool](https://youtu.be/kGTqlyzoTEM?si=PLjSVUCY_fwysv_h)
@@ -11,8 +24,6 @@
 - [What is new in SwiftUI after WWDC 24](https://swiftwithmajid.com/2024/06/10/what-is-new-in-swiftui-after-wwdc24/)
 - [Enhanced replace transition for SF Symbols in iOS 18](https://nilcoalescing.com/blog/EnhancedReplaceTransitionForSFSymbolsInIOS18/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 99
 - [Swift 6: Incrementally migrate your Xcode projects and packages](https://www.avanderlee.com/concurrency/swift-6-migrating-xcode-projects-packages/)
