@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 102
+- [Inspect network traffic using the Xcode Simulator](https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/)
+- [Mastering Animatable and AnimatablePair in SwiftUI](https://digitalbunker.dev/mastering-animatable-and-animatablepair-swiftui/)
+- [Show and hide SwiftUI inspectors with an identifiable item](https://www.polpiella.dev/swiftui-inspector-modifier/)
+- [Swifter and Swifty: Mastering the Swift Testing Framework](https://fatbobman.com/en/posts/mastering-the-swift-testing-framework/)
+- [Some tips & tricks with the new iOS 18 ScrollView API](https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e)
+- [A Summary Of How To Pass Data To SwiftUI Environment](https://serialcoder.dev/text-tutorials/swiftui/a-summary-of-how-to-pass-data-to-swiftui-environment/)
+- [Laying out views with ContainerRelativeFrame in SwiftUI](https://youtu.be/DudvesMYAAY?si=7TmoqBYwZ_YbXlyX)
+
+
+<details>
+<summary>2024</summary>
+
  ### Episode 101
 - [Typed throws in Swift explained with code examples](https://www.avanderlee.com/swift/typed-throws/)
 - [Xcode Explicitly Built Modules](https://useyourloaf.com/blog/xcode-explicitly-built-modules/)
@@ -11,9 +24,6 @@
 - [Mastering ScrollView in SwiftUI. Scroll Offset](https://swiftwithmajid.com/2024/06/17/mastering-scrollview-in-swiftui-scroll-offset/)
 - [My Favorite SwiftUI Updates in iOS 18](https://youtu.be/aCbh9LmIZTI?si=2sKe4Er_sXAA7vuU)
 
-
-<details>
-<summary>2024</summary>
 
 ### Episode 100
 - [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
