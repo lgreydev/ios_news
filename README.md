@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 103
+- [Inspect network traffic using the Xcode Simulator](https://www.avanderlee.com/xcode/inspect-network-traffic-simulator)
+- [Mastering Animatable and AnimatablePair in SwiftUI](https://digitalbunker.dev/mastering-animatable-and-animatablepair-swiftui/)
+- [Show and hide SwiftUI inspectors with an identifiable item](https://www.polpiella.dev/swiftui-inspector-modifier/)
+- [Swifter and Swifty: Mastering the Swift Testing Framework](https://fatbobman.com/en/posts/mastering-the-swift-testing-framework/)
+- [Some tips & tricks with the new iOS 18 ScrollView API](https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e)
+- [Mastering ScrollView in SwiftUI. Scroll Phases](https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases/)
+- [SwiftUI can be a bit... eager](https://www.attributedstrings.com/swiftui-can-be-a-bit-eager/)
+
+  
+<details>
+<summary>2024</summary>
+
  ### Episode 102
 - [Inspect network traffic using the Xcode Simulator](https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/)
 - [Mastering Animatable and AnimatablePair in SwiftUI](https://digitalbunker.dev/mastering-animatable-and-animatablepair-swiftui/)
@@ -11,9 +24,6 @@
 - [A Summary Of How To Pass Data To SwiftUI Environment](https://serialcoder.dev/text-tutorials/swiftui/a-summary-of-how-to-pass-data-to-swiftui-environment/)
 - [Laying out views with ContainerRelativeFrame in SwiftUI](https://youtu.be/DudvesMYAAY?si=7TmoqBYwZ_YbXlyX)
 
-
-<details>
-<summary>2024</summary>
 
  ### Episode 101
 - [Typed throws in Swift explained with code examples](https://www.avanderlee.com/swift/typed-throws/)
