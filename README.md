@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 103
+ ### Episode 104
+- [Memory consumption when loading UIImage from disk](https://www.avanderlee.com/swiftui/memory-consumption-loading-uiimage-from-disk/)
+- [Developing an Infinite Four-Direction Scrollable Pager with SwiftUI](https://fatbobman.com/en/posts/developing-an-infinite-four-direction-scrollable-pager-with-swiftui/)
+- [The Reality of Swift 6](https://kean.blog/post/swift-6)
+- [Add Personality to Your App Through UX Writing - WWDC24](https://yaacoub.github.io/articles/swift-tip/add-personality-to-your-app-through-ux-writing-wwdc24/)
+- [Customizing the appearance of symbol images in SwiftUI](https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI/)
+- [Mastering Animatable and AnimatablePair in SwiftUI](https://digitalbunker.dev/mastering-animatable-and-animatablepair-swiftui/)
+- [Mastering ScrollView in SwiftUI. Scroll Phases](https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases/)
+
+<details>
+<summary>2024</summary>
+
+### Episode 103
 - [Inspect network traffic using the Xcode Simulator](https://www.avanderlee.com/xcode/inspect-network-traffic-simulator)
 - [Mastering Animatable and AnimatablePair in SwiftUI](https://digitalbunker.dev/mastering-animatable-and-animatablepair-swiftui/)
 - [Show and hide SwiftUI inspectors with an identifiable item](https://www.polpiella.dev/swiftui-inspector-modifier/)
@@ -11,9 +23,6 @@
 - [Mastering ScrollView in SwiftUI. Scroll Phases](https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases/)
 - [SwiftUI can be a bit... eager](https://www.attributedstrings.com/swiftui-can-be-a-bit-eager/)
 
-  
-<details>
-<summary>2024</summary>
 
  ### Episode 102
 - [Inspect network traffic using the Xcode Simulator](https://www.avanderlee.com/xcode/inspect-network-traffic-simulator/)
