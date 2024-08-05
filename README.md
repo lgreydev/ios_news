@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 105
+- [Going Indie: From Side Project to Going Independent](https://www.avanderlee.com/general/from-side-project-to-going-indie/)
+- [Unobtrusive and testable issue reporting](https://www.pointfree.co/blog/posts/147-unobtrusive-and-testable-issue-reporting)
+- [Common Misconceptions About SwiftUI](https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/)
+- [How to help someone get started with iOS engineering](https://www.swiftwithvincent.com/blog/how-to-help-someone-get-started-with-ios-engineering)
+- [A Paywall Optimization Success Story](https://ryanashcraft.com/paywall-optimization-success-story/)
+- [SwiftData Indexes](https://useyourloaf.com/blog/swiftdata-indexes/)
+- [Book: macOS by Tutorials](https://troz.net/books/macos_tutorials/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 104
 - [Memory consumption when loading UIImage from disk](https://www.avanderlee.com/swiftui/memory-consumption-loading-uiimage-from-disk/)
 - [Developing an Infinite Four-Direction Scrollable Pager with SwiftUI](https://fatbobman.com/en/posts/developing-an-infinite-four-direction-scrollable-pager-with-swiftui/)
@@ -11,8 +23,6 @@
 - [Mastering Animatable and AnimatablePair in SwiftUI](https://digitalbunker.dev/mastering-animatable-and-animatablepair-swiftui/)
 - [Mastering ScrollView in SwiftUI. Scroll Phases](https://swiftwithmajid.com/2024/07/02/mastering-scrollview-in-swiftui-scroll-phases/)
 
-<details>
-<summary>2024</summary>
 
 ### Episode 103
 - [Inspect network traffic using the Xcode Simulator](https://www.avanderlee.com/xcode/inspect-network-traffic-simulator)
