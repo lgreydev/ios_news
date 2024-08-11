@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 105
+ ### Episode 106
+- [App design: 5 benefits of using system components](https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/)
+- [Non-Sendable types are cool too you know](https://www.massicotte.org/non-sendable)
+- [Using the Translation framework for language-to-language translation](https://www.createwithswift.com/using-the-translation-framework-for-language-to-language-translation/)
+- [Exploring OpenAI: Creating a Proxy with AIProxy for iOS and macOS Apps](https://www.rudrank.com/exploring-openai-creating-a-proxy-with-aiproxy/)
+- [Swift Navigation: Powerful navigation tools for all Swift platforms](https://www.pointfree.co/blog/posts/149-swift-navigation-powerful-navigation-tools-for-all-swift-platforms)
+- [Mastering ScrollView in SwiftUI. Scroll Visibility](https://swiftwithmajid.com/2024/07/16/mastering-scrollview-in-swiftui-scroll-visibility/)
+- [Displaying Data with Table](https://captainswiftui.substack.com/p/displaying-data-with-table-part-i)
+
+<details>
+<summary>2024</summary>
+
+### Episode 105
 - [Going Indie: From Side Project to Going Independent](https://www.avanderlee.com/general/from-side-project-to-going-indie/)
 - [Unobtrusive and testable issue reporting](https://www.pointfree.co/blog/posts/147-unobtrusive-and-testable-issue-reporting)
 - [Common Misconceptions About SwiftUI](https://fatbobman.com/en/posts/common-misconceptions-about-swiftui/)
@@ -11,8 +23,6 @@
 - [SwiftData Indexes](https://useyourloaf.com/blog/swiftdata-indexes/)
 - [Book: macOS by Tutorials](https://troz.net/books/macos_tutorials/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 104
 - [Memory consumption when loading UIImage from disk](https://www.avanderlee.com/swiftui/memory-consumption-loading-uiimage-from-disk/)
