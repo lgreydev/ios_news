@@ -2,7 +2,7 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 106
+ ### Episode 107
 - [App design: 5 benefits of using system components](https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/)
 - [Xcode 16 tricks to create a new file from text](https://x.com/polpielladev/status/1818624961675776496)
 - [Non-Sendable types are cool too you know](https://www.massicotte.org/non-sendable)
