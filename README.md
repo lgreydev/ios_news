@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 107
+ ### Episode 108
+- [Designing Apps: 5 Methods to improve your workflow](https://www.avanderlee.com/workflow/designing-apps-5-methods-to-improve-your-workflow/)
+- [How to use EditorConfig files in Xcode](https://www.polpiella.dev/xcode-editor-config/)
+- [Humans write code, and humans make mistakes](https://jacobzivandesign.com/technology/people_make_mistakes/)
+- [How to create custom reusable container views in SwiftUI](https://tanaschita.com/swiftui-custom-containers/)
+- [Disabling Xcode Asset Symbol Generation](https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/)
+- [Swift Craft Conference Videos](https://www.youtube.com/@SwiftCraftUK/videos)
+- [What's New in SwiftUI - WWDC24](https://yaacoub.github.io/articles/swift-tip/what-s-new-in-swiftui-wwdc24/)
+
+<details>
+<summary>2024</summary>
+
+### Episode 107
 - [App design: 5 benefits of using system components](https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/)
 - [Xcode 16 tricks to create a new file from text](https://x.com/polpielladev/status/1818624961675776496)
 - [Non-Sendable types are cool too you know](https://www.massicotte.org/non-sendable)
@@ -11,8 +23,6 @@
 - [Swift Navigation: Powerful navigation tools for all Swift platforms](https://www.pointfree.co/blog/posts/149-swift-navigation-powerful-navigation-tools-for-all-swift-platforms)
 - [Customizing windows in SwiftUI](https://swiftwithmajid.com/2024/08/06/customizing-windows-in-swiftui/)
 
-<details>
-<summary>2024</summary>
 
 ### Episode 106
 - [App design: 5 benefits of using system components](https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/)
