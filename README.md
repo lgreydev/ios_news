@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 108
+ ### Episode 109
+- [Tracking geometry changes in SwiftUI](https://swiftwithmajid.com/2024/08/13/tracking-geometry-changes-in-swiftui/)
+- [Hyper Advanced Link Techniques Using openURL](https://captainswiftui.substack.com/p/hyper-advanced-link-techniques-using)
+- [Customizing the appearance of symbol images in SwiftUI](https://nilcoalescing.com/blog/CustomizingTheAppearanceOfSymbolImagesInSwiftUI/)
+- [MeshGradients in iOS 18 and Xcode 15](https://youtu.be/s_eQZ8rRV8Y?si=PctC_jvaNRaCBCcj)
+- [Build Multilingual Ready Apps - WWDC24](https://yaacoub.github.io/articles/swift-tip/build-multilingual-ready-apps-wwdc24/)
+- [Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18](https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange/)
+- [Nested Grid Layout Anomaly: Analysis Approach and Resolution Strategies for SwiftUI Layout Issues](https://fatbobman.com/en/posts/analysis-approach-and-resolution-strategies-for-swiftui-layout-issues/)
+
+<details>
+<summary>2024</summary>
+
+### Episode 108
 - [Designing Apps: 5 Methods to improve your workflow](https://www.avanderlee.com/workflow/designing-apps-5-methods-to-improve-your-workflow/)
 - [How to use EditorConfig files in Xcode](https://www.polpiella.dev/xcode-editor-config/)
 - [Humans write code, and humans make mistakes](https://jacobzivandesign.com/technology/people_make_mistakes/)
@@ -11,8 +23,6 @@
 - [Swift Craft Conference Videos](https://www.youtube.com/@SwiftCraftUK/videos)
 - [What's New in SwiftUI - WWDC24](https://yaacoub.github.io/articles/swift-tip/what-s-new-in-swiftui-wwdc24/)
 
-<details>
-<summary>2024</summary>
 
 ### Episode 107
 - [App design: 5 benefits of using system components](https://www.avanderlee.com/optimization/app-design-5-benefits-of-using-system-components/)
