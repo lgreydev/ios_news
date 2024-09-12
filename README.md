@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 110
+- [Swift Testing: Validate your code using expressive APIs](https://www.avanderlee.com/swift-testing/introducing-expressive-apis/)
+- [Swift Build Times and Module Verification](https://pfandrade.me/blog/swift-build-times-and-module-verification/)
+- [From corporate to indie: How and when to make the transition](https://adapty.io/blog/how-and-when-to-go-indie/)
+- [Github contribution graph with Swift Charts](https://www.artemnovichkov.com/blog/github-contribution-graph-swift-charts)
+- [SwiftData Expressions](https://useyourloaf.com/blog/swiftdata-expressions/)
+- [Bad practice creating a StateObject](https://www.swiftwithvincent.com/blog/bad-practice-creating-a-stateobject-wrapper)
+- [Create Custom Visual Effects with SwiftUI - WWDC24](https://yaacoub.github.io/articles/swift-tip/create-custom-visual-effects-with-swiftui-wwdc24/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 109
 - [Tracking geometry changes in SwiftUI](https://swiftwithmajid.com/2024/08/13/tracking-geometry-changes-in-swiftui/)
 - [Hyper Advanced Link Techniques Using openURL](https://captainswiftui.substack.com/p/hyper-advanced-link-techniques-using)
@@ -11,8 +23,6 @@
 - [Exploring SwiftUI: Using onScrollPhaseChange for Scroll Changes in iOS 18](https://www.rudrank.com/exploring-swiftui-using-onscrollphasechange/)
 - [Nested Grid Layout Anomaly: Analysis Approach and Resolution Strategies for SwiftUI Layout Issues](https://fatbobman.com/en/posts/analysis-approach-and-resolution-strategies-for-swiftui-layout-issues/)
 
-<details>
-<summary>2024</summary>
 
 ### Episode 108
 - [Designing Apps: 5 Methods to improve your workflow](https://www.avanderlee.com/workflow/designing-apps-5-methods-to-improve-your-workflow/)
