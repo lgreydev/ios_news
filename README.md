@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 111
+- [Using Traits to annotate and customize test behavior](https://www.avanderlee.com/swift-testing/using-traits-to-annotate-and-customize-test-behavior/)
+- [Xcode Folders & Groups](https://troz.net/post/2024/xcode_folders_groups/)
+- [Recreating Readable Content Guide Sizing in SwiftUI](https://www.swiftjectivec.com/readable-content-size-in-swiftui/)
+- [The Power of Custom ShapeStyle for SwiftUI Theming](https://freiwald.dev/posts/custom-environment-colors/)
+- [Exploring SwiftUI: Creating a Custom Slider Inspired By Camera Control](https://www.rudrank.com/exploring-swiftui-creating-a-custom-slider-inspired-by-camera-control/)
+- [Point-Free is Xcode 16 ready](https://www.pointfree.co/blog/posts/152-point-free-is-xcode-16-ready)
+- [Custom TabView Animation](https://www.reddit.com/r/SwiftUI/comments/1fj40mw/custom_tabview_animation/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 110
 - [Swift Testing: Validate your code using expressive APIs](https://www.avanderlee.com/swift-testing/introducing-expressive-apis/)
 - [Swift Build Times and Module Verification](https://pfandrade.me/blog/swift-build-times-and-module-verification/)
@@ -11,8 +23,6 @@
 - [Bad practice creating a StateObject](https://www.swiftwithvincent.com/blog/bad-practice-creating-a-stateobject-wrapper)
 - [Create Custom Visual Effects with SwiftUI - WWDC24](https://yaacoub.github.io/articles/swift-tip/create-custom-visual-effects-with-swiftui-wwdc24/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 109
 - [Tracking geometry changes in SwiftUI](https://swiftwithmajid.com/2024/08/13/tracking-geometry-changes-in-swiftui/)
