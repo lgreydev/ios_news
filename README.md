@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 112
+- [Indie Development: Full Course now Available](https://www.avanderlee.com/general/indie-development-full-course-now-available/)
+- [New Mac Utility: Amnesia](https://goodsnooze.gumroad.com/l/amnesia)
+- [Parsing Beyond JSON with swift-parsing](https://swifttoolkit.dev/posts/swift-parsing-package)
+- [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+- [Getting started with SwiftPM Snippets](https://swiftonserver.com/getting-started-with-swiftpm-snippets/)
+- [Introduction to Communication Patterns in SwiftUI](https://azamsharp.com/2024/09/22/introduction-to-communication-patterns-in-swiftui.html)
+- [Tip-Toeing From Android Into iOS Development](https://medium.com/code-wild/tip-toeing-from-android-into-ios-development-9fc77a57f531)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 111
 - [Using Traits to annotate and customize test behavior](https://www.avanderlee.com/swift-testing/using-traits-to-annotate-and-customize-test-behavior/)
 - [Xcode Folders & Groups](https://troz.net/post/2024/xcode_folders_groups/)
@@ -11,8 +23,6 @@
 - [Point-Free is Xcode 16 ready](https://www.pointfree.co/blog/posts/152-point-free-is-xcode-16-ready)
 - [Custom TabView Animation](https://www.reddit.com/r/SwiftUI/comments/1fj40mw/custom_tabview_animation/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 110
 - [Swift Testing: Validate your code using expressive APIs](https://www.avanderlee.com/swift-testing/introducing-expressive-apis/)
