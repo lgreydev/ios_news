@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 113
+- [Using the #expect macro for Swift Testing](https://www.avanderlee.com/swift-testing/expect-macro/)
+- [Optimizing for VoiceOver and Voice Control](https://www.basbroek.nl/optimizing-assistive-technology)
+- [Discover 3 new features of Xcode 16](https://www.swiftwithvincent.com/blog/discover-3-new-features-of-xcode-16)
+- [Using the zoom navigation transition in SwiftUI](https://www.createwithswift.com/using-the-zoom-navigation-transition-in-swiftui/)
+- [How to build a Safari extension with SwiftUI](https://www.polpiella.dev/safari-extensions-swiftui/)
+- [Growing a blog about Swift to 140k visitors per month](https://www.fakemayo.com/p/growing-a-blog-about-swift-to-140k-visitors-per-month)
+- [Mastering container views in SwiftUI](https://swiftwithmajid.com/2024/09/24/mastering-container-views-in-swiftui-basics/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 112
 - [Indie Development: Full Course now Available](https://www.avanderlee.com/general/indie-development-full-course-now-available/)
 - [New Mac Utility: Amnesia](https://goodsnooze.gumroad.com/l/amnesia)
@@ -11,8 +23,6 @@
 - [Introduction to Communication Patterns in SwiftUI](https://azamsharp.com/2024/09/22/introduction-to-communication-patterns-in-swiftui.html)
 - [Tip-Toeing From Android Into iOS Development](https://medium.com/code-wild/tip-toeing-from-android-into-ios-development-9fc77a57f531)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 111
 - [Using Traits to annotate and customize test behavior](https://www.avanderlee.com/swift-testing/using-traits-to-annotate-and-customize-test-behavior/)
