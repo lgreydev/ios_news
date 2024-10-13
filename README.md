@@ -2,6 +2,17 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 114
+- [The Going Indie Podcast with Antoine van der Lee](https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/)
+- [Giving depth to your App Icons](https://www.createwithswift.com/giving-depth-to-your-app-icons/)
+- [How to run Swift Data and Core Data operations in the background](https://www.polpiella.dev/core-data-swift-data-concurrency/)
+- [Beware UserDefaults: a tale of hard to find bugs, and lost data](https://christianselig.com/2024/10/beware-userdefaults/)
+- [What Are 3 Truths About Becoming Successful IOS Tech Lead? ‣ Swift and Memes](http://swiftandmemes.com/what-are-3-truths-about-becoming-successful-ios-tech-lead/)
+- [Using Binaries as Libraries](https://alejandromp.com/development/blog/using-binaries-as-libraries/)
+- [SwiftUI vs. Storyboard: A Comprehensive Analysis for iOS Development](https://medium.com/@mertaydogn0/swiftui-vs-storyboard-a-comprehensive-analysis-for-ios-development-edb8ec8ee566)
+<details>
+<summary>2024</summary>
+
  ### Episode 113
 - [Using the #expect macro for Swift Testing](https://www.avanderlee.com/swift-testing/expect-macro/)
 - [Optimizing for VoiceOver and Voice Control](https://www.basbroek.nl/optimizing-assistive-technology)
@@ -11,8 +22,6 @@
 - [Growing a blog about Swift to 140k visitors per month](https://www.fakemayo.com/p/growing-a-blog-about-swift-to-140k-visitors-per-month)
 - [Mastering container views in SwiftUI](https://swiftwithmajid.com/2024/09/24/mastering-container-views-in-swiftui-basics/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 112
 - [Indie Development: Full Course now Available](https://www.avanderlee.com/general/indie-development-full-course-now-available/)
