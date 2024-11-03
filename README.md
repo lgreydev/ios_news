@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 115
+ ### Episode 116
+- [Using the #require macro for Swift Testing](https://www.avanderlee.com/swift-testing/require-macro/)
+- [Creating view transitions in SwiftUI](https://www.createwithswift.com/creating-view-transitions-in-swiftui/)
+- [Monarch: Minimal, Manageable, Migrations 🦋](https://build.ms/2024/10/23/minimal-manageable-migrations-with-monarch/)
+- [How to expedite an app review on the App Store](https://www.polpiella.dev/expedited-app-reviews/)
+- [Comprehensive Guide to Mastering KeyPath in Swift](https://fatbobman.com/en/posts/comprehensive-guide-to-mastering-keypath-in-swift/)
+- [Quick Design Feedback on your App](https://tally.so/r/n0JaP9)
+- [Mastering container views in SwiftUI. Sections.](https://swiftwithmajid.com/2024/10/01/mastering-container-views-in-swiftui-sections/)
+
+<details>
+<summary>2024</summary>
+
+### Episode 115
 - [Vapor and Swift Testing: Running tests in parallel](https://www.avanderlee.com/general/vapor-and-swift-testing-running-tests-in-parallel/)
 - [Conditional SwiftUI Accessibility Labels](https://useyourloaf.com/blog/conditional-swiftui-accessibility-labels/)
 - [Unexpected Lessons: How a Medical Diagnosis Improved My Engineering Skills](https://medium.com/@jpmtech/unexpected-lessons-how-a-medical-diagnosis-improved-my-engineering-skills-22db96b4e7c8)
@@ -11,9 +23,6 @@
 - [Slow incremental builds using xcodebuild](https://github.com/wojciech-kulik/xcodebuild.nvim/issues/201#issuecomment-2423828065)
 - [Beware UserDefaults: a tale of hard to find bugs, and lost data](https://christianselig.com/2024/10/beware-userdefaults/)
 
-
-<details>
-<summary>2024</summary>
 
 ### Episode 114
 - [The Going Indie Podcast with Antoine van der Lee](https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/)
