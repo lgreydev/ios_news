@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 117
+- [How to Use URLSession with Async/Await for Network Requests in Swift](https://www.avanderlee.com/concurrency/urlsession-async-await-network-requests-in-swift/)
+- [Using ViewThatFits to Create a More Accessible List Cell in SwiftUI](https://medium.com/@jpmtech/using-viewthatfits-to-create-a-more-accessible-list-cell-in-swiftui-e87dc8feb4d4)
+- [Exploring Apple Intelligence: Writing Tools](https://www.createwithswift.com/exploring-apple-intelligence-writing-tools/)
+- [GitHub Copilot for Xcode](https://dimillian.medium.com/github-copilot-for-xcode-62931a645173)
+- [Problematic Swift Concurrency Patterns](https://www.massicotte.org/problematic-patterns)
+- [Exploring SwiftUI: Playing with Image Playground](https://www.rudrank.com/exploring-swiftui-image-playground/)
+- [Top iOS Programming Languages for App Development in 2024](https://www.netguru.com/blog/top-ios-programming-languages)
+  
+<details>
+<summary>2024</summary>
+
  ### Episode 116
 - [Using the #require macro for Swift Testing](https://www.avanderlee.com/swift-testing/require-macro/)
 - [Creating view transitions in SwiftUI](https://www.createwithswift.com/creating-view-transitions-in-swiftui/)
@@ -11,8 +23,6 @@
 - [Quick Design Feedback on your App](https://tally.so/r/n0JaP9)
 - [Mastering container views in SwiftUI. Sections.](https://swiftwithmajid.com/2024/10/01/mastering-container-views-in-swiftui-sections/)
 
-<details>
-<summary>2024</summary>
 
 ### Episode 115
 - [Vapor and Swift Testing: Running tests in parallel](https://www.avanderlee.com/general/vapor-and-swift-testing-running-tests-in-parallel/)
