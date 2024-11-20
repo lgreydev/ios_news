@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 118
+- [Contingent pricing for in-app subscriptions](https://www.avanderlee.com/optimization/contingent-pricing-for-in-app-subscriptions/)
+- [App Store Nominations & RocketSim Discount](https://helm-app.com/changelog/helm-1-4-app-store-nominations-rocketsim)
+- [Lazy vars in @Observable classes in Swift](https://nilcoalescing.com/blog/LazyVarsInObservableClasses/)
+- [Copilot is now available in Xcode (and it’s good!)](https://www.swiftwithvincent.com/blog/copilot-is-available-in-xcode)
+- [ChatGPT for macOS can now work with Xcode](https://dimillian.medium.com/chatgpt-for-macos-can-now-work-with-xcode-28cecc9decf7)
+- [Understanding SwiftUI's View Update Mechanism](https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/)
+- [Font modifiers in SwiftUI](https://nilcoalescing.com/blog/FontModifiersInSwiftUI/)
+
+<details>
+<summary>2024</summary>
+ 
  ### Episode 117
 - [How to Use URLSession with Async/Await for Network Requests in Swift](https://www.avanderlee.com/concurrency/urlsession-async-await-network-requests-in-swift/)
 - [Using ViewThatFits to Create a More Accessible List Cell in SwiftUI](https://medium.com/@jpmtech/using-viewthatfits-to-create-a-more-accessible-list-cell-in-swiftui-e87dc8feb4d4)
@@ -11,8 +23,6 @@
 - [Exploring SwiftUI: Playing with Image Playground](https://www.rudrank.com/exploring-swiftui-image-playground/)
 - [Top iOS Programming Languages for App Development in 2024](https://www.netguru.com/blog/top-ios-programming-languages)
   
-<details>
-<summary>2024</summary>
 
  ### Episode 116
 - [Using the #require macro for Swift Testing](https://www.avanderlee.com/swift-testing/require-macro/)
