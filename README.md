@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 118
+ ### Episode 119
+- [Black Friday: 50% discount on RocketSim & Going Indie Course](https://www.avanderlee.com/general/black-friday-2024/)
+- [How to create and upload high-quality App Store assets](https://www.polpiella.dev/creating-and-uploading-app-store-assets)
+- [Should we use Apple Intelligence for Text and Inputs in SwiftUI using writingToolsBehavior](https://medium.com/@jpmtech/should-we-use-apple-intelligence-for-text-and-inputs-in-swiftui-using-writingtoolsbehavior-49d662ce5ede)
+- [Using Transactions Instead of Save in SwiftData and Core Data](https://fatbobman.com/en/posts/using-transactions-instead-of-save-in-swiftdata-and-core-data/)
+- [Time-Based View Updates in SwiftUI](https://digitalbunker.dev/time-based-view-updates-in-swiftui/)
+- [Set supported platforms in file target membership options in Xcode](https://nilcoalescing.com/blog/SetSupportedPlatformsInFileTargetMembershipOptionsInXcode/)
+- [The power of previews in Xcode](https://swiftwithmajid.com/2024/11/26/the-power-of-previews-in-xcode/)
+
+<details>
+<summary>2024</summary>
+
+### Episode 118
 - [Contingent pricing for in-app subscriptions](https://www.avanderlee.com/optimization/contingent-pricing-for-in-app-subscriptions/)
 - [App Store Nominations & RocketSim Discount](https://helm-app.com/changelog/helm-1-4-app-store-nominations-rocketsim)
 - [Lazy vars in @Observable classes in Swift](https://nilcoalescing.com/blog/LazyVarsInObservableClasses/)
@@ -11,8 +23,6 @@
 - [Understanding SwiftUI's View Update Mechanism](https://fatbobman.com/en/posts/understanding-swiftui-view-update-mechanism/)
 - [Font modifiers in SwiftUI](https://nilcoalescing.com/blog/FontModifiersInSwiftUI/)
 
-<details>
-<summary>2024</summary>
  
  ### Episode 117
 - [How to Use URLSession with Async/Await for Network Requests in Swift](https://www.avanderlee.com/concurrency/urlsession-async-await-network-requests-in-swift/)
