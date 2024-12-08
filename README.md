@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 120
+- [Enum explained in-depth with code examples in Swift](https://www.avanderlee.com/swift/enumerations/)
+- [Text field enhancements in SwiftUI](https://swiftwithmajid.com/2024/12/03/text-field-enhancements-in-swiftui/)
+- [Why Can't You Loop Over Ranges of Characters in Swift](https://mfaani.com/posts/swift/why-cant-you-loop-over-ranges-of-characters-in-swift/)
+- [SwiftUI matched geometry effect in a custom segmented control](https://nilcoalescing.com/blog/CustomSegmentedControlWithMatchedGeometryEffect/)
+- [How I reduce the iOS TPBank app size by half](https://ericsspace.com/articles/how-to-reduce-tpbank-appsize-by-half/)
+- [Concurrency Step-by-Step: Reading from Storage](https://www.massicotte.org/step-by-step-reading-from-storage)
+- [Eight Fun SwiftUI Details in my Practice Planner](https://www.swiftjectivec.com/eight-fun-swiftui-details-in-practice-planner/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 119
 - [Black Friday: 50% discount on RocketSim & Going Indie Course](https://www.avanderlee.com/general/black-friday-2024/)
 - [How to create and upload high-quality App Store assets](https://www.polpiella.dev/creating-and-uploading-app-store-assets)
@@ -11,8 +23,6 @@
 - [Set supported platforms in file target membership options in Xcode](https://nilcoalescing.com/blog/SetSupportedPlatformsInFileTargetMembershipOptionsInXcode/)
 - [The power of previews in Xcode](https://swiftwithmajid.com/2024/11/26/the-power-of-previews-in-xcode/)
 
-<details>
-<summary>2024</summary>
 
 ### Episode 118
 - [Contingent pricing for in-app subscriptions](https://www.avanderlee.com/optimization/contingent-pricing-for-in-app-subscriptions/)
