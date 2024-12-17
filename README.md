@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 121
+- [SwiftUI Button: Custom Styles, Variants, and Best Practices](https://www.avanderlee.com/swiftui/swiftui-button-styles/)
+- [Noncopyable types in Swift](https://nilcoalescing.com/blog/NoncopyableTypesInSwift/)
+- [Finding unused code with Periphery](https://adamwulf.me/2024/12/finding-unused-code-with-periphery/)
+- [Exploring MLX Swift: Adding On-Device Inference to your App](https://www.rudrank.com/exploring-mlx-swift-adding-on-device-inference-to-your-app/)
+- [Xcode Library customization with SPM plugin](https://www.artemnovichkov.com/blog/xcode-library-customization-with-spm-plugin)
+- [Understanding opaque types in Swift](https://tanaschita.com/swift-opaque-types/)
+- [Start debugging iOS network calls like a wizard](https://github.com/pmusolino/Wormholy)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 120
 - [Enum explained in-depth with code examples in Swift](https://www.avanderlee.com/swift/enumerations/)
 - [Text field enhancements in SwiftUI](https://swiftwithmajid.com/2024/12/03/text-field-enhancements-in-swiftui/)
@@ -11,8 +23,6 @@
 - [Concurrency Step-by-Step: Reading from Storage](https://www.massicotte.org/step-by-step-reading-from-storage)
 - [Eight Fun SwiftUI Details in my Practice Planner](https://www.swiftjectivec.com/eight-fun-swiftui-details-in-practice-planner/)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 119
 - [Black Friday: 50% discount on RocketSim & Going Indie Course](https://www.avanderlee.com/general/black-friday-2024/)
