@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 122
+- [Swift Tutorials: Learn Swift with Easy-to-Follow Code Examples](https://www.avanderlee.com/swift/swift-tutorials-learn-swift-code-examples/)
+- [From Icon to Identity: The Essentials of Branding Your App](https://www.createwithswift.com/from-icon-to-identity-the-essentials-of-branding-your-app/)
+- [VoiceOver on macOS: First Time, Huh?](https://www.basbroek.nl/macos-voiceover-first-time-huh)
+- [Creating a SwiftUI text view with tappable links](https://danielsaidi.com/blog/2024/12/18/creating-a-swiftui-text-view-with-tappable-links)
+- [Adjust the intensity of colors in SwiftUI views](https://nilcoalescing.com/blog/AdjustTheIntensityOfColorsInSwiftUIViews/)
+- [Never Miss a Localized String Value Again](https://jacobzivandesign.com/technology/never-miss-a-localized-string/)
+- [Exploring the Latest in iOS Development](https://solguruz.com/blog/top-ios-app-development-trends/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 121
 - [SwiftUI Button: Custom Styles, Variants, and Best Practices](https://www.avanderlee.com/swiftui/swiftui-button-styles/)
 - [Noncopyable types in Swift](https://nilcoalescing.com/blog/NoncopyableTypesInSwift/)
@@ -11,8 +23,6 @@
 - [Understanding opaque types in Swift](https://tanaschita.com/swift-opaque-types/)
 - [Start debugging iOS network calls like a wizard](https://github.com/pmusolino/Wormholy)
 
-<details>
-<summary>2024</summary>
 
  ### Episode 120
 - [Enum explained in-depth with code examples in Swift](https://www.avanderlee.com/swift/enumerations/)
