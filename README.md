@@ -9,7 +9,7 @@
 - [Creating a SwiftUI text view with tappable links](https://danielsaidi.com/blog/2024/12/18/creating-a-swiftui-text-view-with-tappable-links)
 - [Adjust the intensity of colors in SwiftUI views](https://nilcoalescing.com/blog/AdjustTheIntensityOfColorsInSwiftUIViews/)
 - [Never Miss a Localized String Value Again](https://jacobzivandesign.com/technology/never-miss-a-localized-string/)
-- [Exploring the Latest in iOS Development](https://solguruz.com/blog/top-ios-app-development-trends/)
+- [Top iOS App Development Trends In 2025](https://solguruz.com/blog/top-ios-app-development-trends/)
 
 <details>
 <summary>2024</summary>
