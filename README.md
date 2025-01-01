@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 123
+- [SwiftLee in 2024: Lessons learned and achievements](https://www.avanderlee.com/general/swiftlee-in-2024-lessons-learned-and-achievements/)
+- [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
+- [MainActor usage in Swift explained to dispatch to the main thread](https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/)
+- [Sendable and @Sendable closures explained with code examples](https://www.avanderlee.com/swift/sendable-protocol-closures/)
+- [@ViewBuilder usage explained with code examples](https://www.avanderlee.com/swiftui/viewbuilder/)
+- [@StateObject vs. @ObservedObject: The differences explained](https://www.avanderlee.com/swiftui/stateobject-observedobject-differences/)
+- [Why isn't Swift more mainstream?](https://www.reddit.com/r/swift/comments/1hqh5m3/why_isnt_swift_more_mainstream/)
+
+<details>
+<summary>2024</summary>
+
  ### Episode 122
 - [Swift Tutorials: Learn Swift with Easy-to-Follow Code Examples](https://www.avanderlee.com/swift/swift-tutorials-learn-swift-code-examples/)
 - [From Icon to Identity: The Essentials of Branding Your App](https://www.createwithswift.com/from-icon-to-identity-the-essentials-of-branding-your-app/)
@@ -10,9 +22,6 @@
 - [Adjust the intensity of colors in SwiftUI views](https://nilcoalescing.com/blog/AdjustTheIntensityOfColorsInSwiftUIViews/)
 - [Never Miss a Localized String Value Again](https://jacobzivandesign.com/technology/never-miss-a-localized-string/)
 - [Top iOS App Development Trends In 2025](https://solguruz.com/blog/top-ios-app-development-trends/)
-
-<details>
-<summary>2024</summary>
 
  ### Episode 121
 - [SwiftUI Button: Custom Styles, Variants, and Best Practices](https://www.avanderlee.com/swiftui/swiftui-button-styles/)
