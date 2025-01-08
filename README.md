@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 123
+ ### Episode 124
+- [iOS App Development: How to get started?](https://www.avanderlee.com/swift/ios-app-development-software-how-to/)
+- [From Apple Design Award to Indie Developer](https://youtu.be/re3EU1tb6dY?si=-SGYwl1nfHa98nuv)
+- [How Xcode 16 Helped Us Cut 66,000 Lines of Code](https://blog.makwanbk.com/how-one-new-xcode-feature-helped-my-work-project-eliminate-66k-lines-of-code)
+- [Accessibility That Fits](https://khanlou.com/2024/12/accessibility-that-fits/)
+- [Keep macOS Menu Bar Item Running After Quitting](https://www.polpiella.dev/keep-menu-bar-running-after-quitting-app/)
+- [Getting started with UI Testing for SwiftUI](https://tanaschita.com/testing-ui-swiftui-xctest-framework/)
+- [Customizing macOS window background in SwiftUI](https://nilcoalescing.com/blog/CustomizingMacOSWindowBackgroundInSwiftUI/)
+
+
+<details>
+<summary>2024</summary>
+
+### Episode 123
 - [SwiftLee in 2024: Lessons learned and achievements](https://www.avanderlee.com/general/swiftlee-in-2024-lessons-learned-and-achievements/)
 - [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
 - [MainActor usage in Swift explained to dispatch to the main thread](https://www.avanderlee.com/swift/mainactor-dispatch-main-thread/)
@@ -10,9 +23,7 @@
 - [@ViewBuilder usage explained with code examples](https://www.avanderlee.com/swiftui/viewbuilder/)
 - [@StateObject vs. @ObservedObject: The differences explained](https://www.avanderlee.com/swiftui/stateobject-observedobject-differences/)
 - [Why isn't Swift more mainstream?](https://www.reddit.com/r/swift/comments/1hqh5m3/why_isnt_swift_more_mainstream/)
-
-<details>
-<summary>2024</summary>
+  
 
  ### Episode 122
 - [Swift Tutorials: Learn Swift with Easy-to-Follow Code Examples](https://www.avanderlee.com/swift/swift-tutorials-learn-swift-code-examples/)
