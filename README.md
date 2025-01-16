@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 124
+ ### Episode 125
+- [SwiftUI Lists: Present rows of data explained with code examples](https://www.avanderlee.com/swiftui/list-style-selection/)
+- [iPhone Apps 101 - SwiftUI App Development Course​](https://paulsolt.teachable.com/p/iphoneapps101)
+- [SwiftUI Navigation using the Router Pattern](https://tiagohenriques.vercel.app/blog/swiftui-navigation-router-pattern)
+- [Handle plurals in SwiftUI Text views with inflection](https://nilcoalescing.com/blog/HandlePluralsInSwiftUITextViewsWithInflection/)
+- [Creating a debounced search context for performant SwiftUI searches](https://danielsaidi.com/blog/2025/01/08/creating-a-debounced-search-context-for-performant-swiftui-searches)
+- [Tracking @Observable Property Changes with withObservationTracking](https://www.polpiella.dev/observable-outside-of-a-view/)
+- [Learn how to use Navigation stack in SwiftUI](https://educaswift.com/school/article/130)
+
+
+<details>
+<summary>2025</summary>
+
+### Episode 124
 - [iOS App Development: How to get started?](https://www.avanderlee.com/swift/ios-app-development-software-how-to/)
 - [From Apple Design Award to Indie Developer](https://youtu.be/re3EU1tb6dY?si=-SGYwl1nfHa98nuv)
 - [How Xcode 16 Helped Us Cut 66,000 Lines of Code](https://blog.makwanbk.com/how-one-new-xcode-feature-helped-my-work-project-eliminate-66k-lines-of-code)
@@ -10,6 +23,8 @@
 - [Keep macOS Menu Bar Item Running After Quitting](https://www.polpiella.dev/keep-menu-bar-running-after-quitting-app/)
 - [Getting started with UI Testing for SwiftUI](https://tanaschita.com/testing-ui-swiftui-xctest-framework/)
 - [Customizing macOS window background in SwiftUI](https://nilcoalescing.com/blog/CustomizingMacOSWindowBackgroundInSwiftUI/)
+  
+</details>
 
 
 <details>
