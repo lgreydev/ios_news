@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 126
+- [RocketSim 13.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
+- [Introduction to Non-Copyable types](https://www.swiftwithvincent.com/blog/introduction-to-non-copyable-types)
+- [Getting started with creative coding using Swift and SwiftUI](https://www.createwithswift.com/getting-started-with-creative-coding-using-swift-and-swiftui/)
+- [How to use cryptographic hash functions in CryptoKit for iOS security](https://tanaschita.com/swift-hash-functions/)
+- [Attending Apple Intelligence and App Intents workshop at Paris](https://blog.thomasdurand.fr/story/2025-01-17-attending-apple-workshop/)
+- [Introduction to the Swift Programming language. Part 3](https://medium.com/@topbrains/introduction-to-the-swift-programming-language-part-3-fcfe436a6ae5)
+- [Kotlin vs. Swift: Which is the Better Choice for Mobile App Development?](https://vocal.media/journal/kotlin-vs-swift-which-is-the-better-choice-for-mobile-app-development)
+
+<details>
+<summary>2025</summary>
+
  ### Episode 125
 - [SwiftUI Lists: Present rows of data explained with code examples](https://www.avanderlee.com/swiftui/list-style-selection/)
 - [iPhone Apps 101 - SwiftUI App Development Course​](https://paulsolt.teachable.com/p/iphoneapps101)
@@ -11,9 +23,6 @@
 - [Tracking @Observable Property Changes with withObservationTracking](https://www.polpiella.dev/observable-outside-of-a-view/)
 - [Learn how to use Navigation stack in SwiftUI](https://educaswift.com/school/article/130)
 
-
-<details>
-<summary>2025</summary>
 
 ### Episode 124
 - [iOS App Development: How to get started?](https://www.avanderlee.com/swift/ios-app-development-software-how-to/)
