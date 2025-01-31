@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 127
+- [Designing Apps: 5 Methods to improve your workflow](https://www.avanderlee.com/workflow/designing-apps-5-methods-to-improve-your-workflow/)
+- [How to use EditorConfig files in Xcode](https://www.polpiella.dev/xcode-editor-config/)
+- [Humans write code, and humans make mistakes.](https://jacobzivandesign.com/technology/people_make_mistakes/)
+- [How to create custom reusable container views in SwiftUI](https://tanaschita.com/swiftui-custom-containers/)
+- [Disabling Xcode Asset Symbol Generation](https://useyourloaf.com/blog/disabling-xcode-asset-symbol-generation/)
+- [Swift Craft Conference Videos](https://www.youtube.com/@SwiftCraftUK/videos)
+- [Create a Lock Screen Widget in SwiftUI](https://medium.com/@rishixcode/create-a-lock-screen-widget-in-swiftui-070a21f03a3d)
+
+<details>
+<summary>2025</summary>
+
  ### Episode 126
 - [RocketSim 13.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
 - [Introduction to Non-Copyable types](https://www.swiftwithvincent.com/blog/introduction-to-non-copyable-types)
@@ -11,8 +23,6 @@
 - [Introduction to the Swift Programming language. Part 3](https://medium.com/@topbrains/introduction-to-the-swift-programming-language-part-3-fcfe436a6ae5)
 - [Kotlin vs. Swift: Which is the Better Choice for Mobile App Development?](https://vocal.media/journal/kotlin-vs-swift-which-is-the-better-choice-for-mobile-app-development)
 
-<details>
-<summary>2025</summary>
 
  ### Episode 125
 - [SwiftUI Lists: Present rows of data explained with code examples](https://www.avanderlee.com/swiftui/list-style-selection/)
