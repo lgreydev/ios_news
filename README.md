@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 128
+- [The Going Indie Podcast with Antoine van der Lee](https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/)
+- [Giving depth to your App Icons](https://www.createwithswift.com/giving-depth-to-your-app-icons/)
+- [How to run Swift Data and Core Data](https://www.polpiella.dev/core-data-swift-data-concurrency/)
+- [Beware UserDefaults: a tale of hard to find bugs, and lost data](https://christianselig.com/2024/10/beware-userdefaults/)
+- [What Are 3 Truths About Becoming Successful IOS Tech Lead?](http://swiftandmemes.com/what-are-3-truths-about-becoming-successful-ios-tech-lead/)
+- [Using Binaries as Libraries](https://alejandromp.com/development/blog/using-binaries-as-libraries/)
+- [Swift for C++ Practitioners, Part 12: Move Semantics](https://www.douggregor.net/posts/swift-for-cxx-practitioners-move/)
+
+  
+<details>
+<summary>2025</summary>
+ 
  ### Episode 127
 - [Designing Apps: 5 Methods to improve your workflow](https://www.avanderlee.com/workflow/designing-apps-5-methods-to-improve-your-workflow/)
 - [How to use EditorConfig files in Xcode](https://www.polpiella.dev/xcode-editor-config/)
@@ -11,8 +24,6 @@
 - [Swift Craft Conference Videos](https://www.youtube.com/@SwiftCraftUK/videos)
 - [Create a Lock Screen Widget in SwiftUI](https://medium.com/@rishixcode/create-a-lock-screen-widget-in-swiftui-070a21f03a3d)
 
-<details>
-<summary>2025</summary>
 
  ### Episode 126
 - [RocketSim 13.0: Builds Apps Faster](https://www.avanderlee.com/xcode/rocketsim-simulator-tool/)
