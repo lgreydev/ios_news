@@ -2,7 +2,20 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 128
+ ### Episode 129
+- [Using the #expect macro for Swift Testing](https://www.avanderlee.com/swift-testing/expect-macro/)
+- [Optimizing for VoiceOver and Voice Control](https://www.basbroek.nl/optimizing-assistive-technology)
+- [Discover 3 new features of Xcode 16](https://www.swiftwithvincent.com/blog/discover-3-new-features-of-xcode-16)
+- [Using the zoom navigation transition in SwiftUI](https://www.createwithswift.com/using-the-zoom-navigation-transition-in-swiftui/)
+- [How to build a Safari extension with SwiftUI](https://www.polpiella.dev/safari-extensions-swiftui/)
+- [Growing a blog about Swift to 140k visitors per month](https://www.fakemayo.com/p/growing-a-blog-about-swift-to-140k-visitors-per-month)
+- [A Complete Overview of Must-Have Tools and Technologies for Developing iOS Applications](https://moldstud.com/articles/p-a-complete-overview-of-must-have-tools-and-technologies-for-developing-ios-applications)
+
+  
+<details>
+<summary>2025</summary>
+
+### Episode 128
 - [The Going Indie Podcast with Antoine van der Lee](https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/)
 - [Giving depth to your App Icons](https://www.createwithswift.com/giving-depth-to-your-app-icons/)
 - [How to run Swift Data and Core Data](https://www.polpiella.dev/core-data-swift-data-concurrency/)
@@ -11,9 +24,6 @@
 - [Using Binaries as Libraries](https://alejandromp.com/development/blog/using-binaries-as-libraries/)
 - [Swift for C++ Practitioners, Part 12: Move Semantics](https://www.douggregor.net/posts/swift-for-cxx-practitioners-move/)
 
-  
-<details>
-<summary>2025</summary>
  
  ### Episode 127
 - [Designing Apps: 5 Methods to improve your workflow](https://www.avanderlee.com/workflow/designing-apps-5-methods-to-improve-your-workflow/)
