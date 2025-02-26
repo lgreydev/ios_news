@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 129
+ ### Episode 130
+- [Task.sleep() vs. Task.yield(): The differences explained](https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/)
+- [Tapping on Stack Views](https://useyourloaf.com/blog/tapping-on-stack-views/)
+- [Quick guide on home screen quick actions for SwiftUI](https://tanaschita.com/ios-home-screen-quick-actions/)
+- [New Concurrency Stuff with 6.1](https://www.massicotte.org/concurrency-6_1)
+- [Advice I Wish I Had Gotten Earlier](https://www.manu.show/2025-02-22-advice-i-wish-i-had-gotten-earlier/)
+- [How Swift's server support powers Things Cloud](https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/)
+- [Mastering TaskGroups in Swift](https://swiftwithmajid.com/2025/02/04/mastering-task-groups-in-swift/)
+  
+<details>
+<summary>2025</summary>
+
+### Episode 129
 - [Using the #expect macro for Swift Testing](https://www.avanderlee.com/swift-testing/expect-macro/)
 - [Optimizing for VoiceOver and Voice Control](https://www.basbroek.nl/optimizing-assistive-technology)
 - [Discover 3 new features of Xcode 16](https://www.swiftwithvincent.com/blog/discover-3-new-features-of-xcode-16)
@@ -11,9 +23,6 @@
 - [Growing a blog about Swift to 140k visitors per month](https://www.fakemayo.com/p/growing-a-blog-about-swift-to-140k-visitors-per-month)
 - [A Complete Overview of Must-Have Tools and Technologies for Developing iOS Applications](https://moldstud.com/articles/p-a-complete-overview-of-must-have-tools-and-technologies-for-developing-ios-applications)
 
-  
-<details>
-<summary>2025</summary>
 
 ### Episode 128
 - [The Going Indie Podcast with Antoine van der Lee](https://www.avanderlee.com/general/the-going-indie-podcast-with-antoine-van-der-lee/)
