@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 130
+ ### Episode 131
+- [What is Structured Concurrency?](https://www.avanderlee.com/swift/what-is-structured-concurrency/)
+- [Safer Swift: How ~Copyable Prevents Hidden Bugs](https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/)
+- [Designing a custom lazy list in SwiftUI with better performance](https://nilcoalescing.com/blog/CustomLazyListInSwiftUI/)
+- [Symmetrical and asymmetrical transitions in SwiftUI with the Scroll Transition modifier](https://www.createwithswift.com/symmetrical-and-asymmetrical-transitions-in-swiftui-with-the-scroll-transition-modifier/)
+- [Animatable Protocol: Taming Unruly SwiftUI Animations](https://fatbobman.com/en/posts/animatable-protocol-taming-unruly-swiftui-animation/)
+- [An Ode to Swift Enums: The View Models That Could](https://www.swiftjectivec.com/swift-enums-as-lighweight-view-models/)
+- [SwiftUI Performance - How to use UIKit](https://swiftwithmajid.com/2025/03/04/swiftui-performance-how-to-use-uikit/)
+
+<details>
+<summary>2025</summary>
+
+### Episode 130
 - [Task.sleep() vs. Task.yield(): The differences explained](https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/)
 - [Tapping on Stack Views](https://useyourloaf.com/blog/tapping-on-stack-views/)
 - [Quick guide on home screen quick actions for SwiftUI](https://tanaschita.com/ios-home-screen-quick-actions/)
@@ -11,8 +23,6 @@
 - [How Swift's server support powers Things Cloud](https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/)
 - [Mastering TaskGroups in Swift](https://swiftwithmajid.com/2025/02/04/mastering-task-groups-in-swift/)
   
-<details>
-<summary>2025</summary>
 
 ### Episode 129
 - [Using the #expect macro for Swift Testing](https://www.avanderlee.com/swift-testing/expect-macro/)
