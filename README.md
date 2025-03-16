@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 131
+ ### Episode 132
+- [Picker in SwiftUI explained with code examples](https://www.avanderlee.com/swiftui/picker-styles-color/)
+- [Rendering Pixel Art with SwiftUI](https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/)
+- [.animation() vs withAnimation(): what's the difference?](https://www.swiftwithvincent.com/blog/animation-vs-withanimation-whats-the-difference)
+- [Creating App Intents using Assistant Schemas](https://www.createwithswift.com/creating-app-intents-using-assistant-schemas/)
+- [Lazy Initialization @State in SwiftUI: Overcoming Premature Object Creation](https://fatbobman.com/en/posts/lazy-initialization-state-in-swiftui/)
+- [Synchronous Work](https://www.massicotte.org/synchronous-work)
+- [Is It Still Relevant in 2025? - Objective-C](https://youtu.be/IgpElVzJfrM?si=4EIDaXQ-Ic4urYQw)
+
+<details>
+<summary>2025</summary>
+
+### Episode 131
 - [What is Structured Concurrency?](https://www.avanderlee.com/swift/what-is-structured-concurrency/)
 - [Safer Swift: How ~Copyable Prevents Hidden Bugs](https://arturgruchala.com/safer-swift-how-copyable-prevents-hidden-bugs/)
 - [Designing a custom lazy list in SwiftUI with better performance](https://nilcoalescing.com/blog/CustomLazyListInSwiftUI/)
@@ -11,8 +23,6 @@
 - [An Ode to Swift Enums: The View Models That Could](https://www.swiftjectivec.com/swift-enums-as-lighweight-view-models/)
 - [SwiftUI Performance - How to use UIKit](https://swiftwithmajid.com/2025/03/04/swiftui-performance-how-to-use-uikit/)
 
-<details>
-<summary>2025</summary>
 
 ### Episode 130
 - [Task.sleep() vs. Task.yield(): The differences explained](https://www.avanderlee.com/concurrency/task-sleep-vs-yield-differences/)
