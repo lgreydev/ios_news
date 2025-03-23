@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 133
+- [Swift Concurrency Course: Modern Concurrency & Swift 6](https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/)
+- [The Power of Consistency: a Path to Indie Development - Pol Piella](https://podcast.going-indie.com/episodes/the-power-of-consistency-a-path-to-indie-development-pol-piella)
+- [Exploring The LabeledContent View In SwiftUI](https://serialcoder.dev/text-tutorials/swiftui/exploring-the-labeledcontent-view-in-swiftui/)
+- [Identifying individual sounds in an audio file](https://www.createwithswift.com/identifying-individual-sounds-in-an-audio-file/)
+- [Key Considerations Before Using SwiftData](https://fatbobman.com/en/posts/key-considerations-before-using-swiftdata/)
+- [Understanding structural identity in SwiftUI](https://tanaschita.com/swiftui-structural-identity/)
+- [Refactoring my SwiftUI Navigation Layer to follow the Coordinator Pattern](https://www.tiagohenriques.dev/blog/swiftui-refactor-navigation-layer-using-coordinator-pattern)
+
+<details>
+<summary>2025</summary>
+
  ### Episode 132
 - [Picker in SwiftUI explained with code examples](https://www.avanderlee.com/swiftui/picker-styles-color/)
 - [Rendering Pixel Art with SwiftUI](https://twocentstudios.com/2025/03/10/pixel-art-swift-ui/)
@@ -11,8 +23,6 @@
 - [Synchronous Work](https://www.massicotte.org/synchronous-work)
 - [Is It Still Relevant in 2025? - Objective-C](https://youtu.be/IgpElVzJfrM?si=4EIDaXQ-Ic4urYQw)
 
-<details>
-<summary>2025</summary>
 
 ### Episode 131
 - [What is Structured Concurrency?](https://www.avanderlee.com/swift/what-is-structured-concurrency/)
