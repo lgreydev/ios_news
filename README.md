@@ -2,6 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 134
+- [SwiftUI TabView: Explained with Code Examples](https://www.avanderlee.com/swiftui/tabview-tabbed-views/)
+- [SwiftUI Default Scroll Anchor](https://useyourloaf.com/blog/swiftui-default-scroll-anchor/)
+- [ModelActor is Just Weird](https://www.massicotte.org/model-actor)
+- [Detecting body poses in a live video feed](https://www.createwithswift.com/detecting-body-poses-in-a-live-video-feed/)
+- [Announcing FlowNavigation](https://www.magnuskahr.dk/posts/2025/03/announcing-FlowNavigation/)
+- [Why I Avoid Group](https://chris.eidhof.nl/post/why-i-avoid-group/)
+- [Using Play Components in Xcode](https://youtu.be/aDwO2_31808?si=C7AllCORO3JeHLX0)
+  
+
+<details>
+<summary>2025</summary>
+
  ### Episode 133
 - [Swift Concurrency Course: Modern Concurrency & Swift 6](https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/)
 - [The Power of Consistency: a Path to Indie Development - Pol Piella](https://podcast.going-indie.com/episodes/the-power-of-consistency-a-path-to-indie-development-pol-piella)
@@ -11,8 +24,6 @@
 - [Understanding structural identity in SwiftUI](https://tanaschita.com/swiftui-structural-identity/)
 - [Refactoring my SwiftUI Navigation Layer to follow the Coordinator Pattern](https://www.tiagohenriques.dev/blog/swiftui-refactor-navigation-layer-using-coordinator-pattern)
 
-<details>
-<summary>2025</summary>
 
  ### Episode 132
 - [Picker in SwiftUI explained with code examples](https://www.avanderlee.com/swiftui/picker-styles-color/)
