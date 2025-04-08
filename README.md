@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 135
+- [SwiftUI Alert Guide + Code Examples](https://www.avanderlee.com/swiftui/swiftui-alert-presenting/)
+- [The Great App That Nobody Knows About](https://www.swiftjectivec.com/a-great-app-that-no-one-knows-about/)
+- [Structuring Spacing for Scalable Mobile UIs](https://www.mobilesystemdesign.com/blog/design-system-spacing/)
+- [Say Goodbye to dismiss: A State-Driven Path to More Maintainable SwiftUI](https://fatbobman.com/en/posts/say-goodbye-to-dismiss/)
+- [New in Swift 6.1: Test Scoping Traits](https://www.pointfree.co/blog/posts/169-new-in-swift-6-1-test-scoping-traits)
+- [Text concatenation vs Text interpolation in SwiftUI](https://nilcoalescing.com/blog/TextConcatenationVsTextInterpolationInSwiftUI/)
+- [Xcode 13.2 Released With Support for Upcoming Swift Playgrounds 4](https://www.iclarified.com/83805/xcode-132-released-with-support-for-upcoming-swift-playgrounds-4)
+
+<details>
+<summary>2025</summary>
+
  ### Episode 134
 - [SwiftUI TabView: Explained with Code Examples](https://www.avanderlee.com/swiftui/tabview-tabbed-views/)
 - [SwiftUI Default Scroll Anchor](https://useyourloaf.com/blog/swiftui-default-scroll-anchor/)
@@ -11,9 +23,6 @@
 - [Why I Avoid Group](https://chris.eidhof.nl/post/why-i-avoid-group/)
 - [Using Play Components in Xcode](https://youtu.be/aDwO2_31808?si=C7AllCORO3JeHLX0)
   
-
-<details>
-<summary>2025</summary>
 
  ### Episode 133
 - [Swift Concurrency Course: Modern Concurrency & Swift 6](https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/)
