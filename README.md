@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 135
+ ### Episode 136
+- [Swift Reduce: Combining elements into a single value](https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/)
+- [Building Better Apps with RocketSim](https://www.youtube.com/live/4MtostISJTY?si=B_sxhYbeysGoRcXO)
+- [Using NavigationPath with TabView in SwiftUI](https://tanaschita.com/swiftui-navigation-path-with-tabview/)
+- [Create flexible interfaces in SwiftUI](https://www.createwithswift.com/create-flexible-interfaces-in-swiftui/)
+- [Supercharging SwiftUI Text with Dynamic Content Styling](https://danielsaidi.com/blog/2025/04/08/supercharging-swiftui-text-with-dynamic-content-styling)
+- [How to inspect .ipa files and secure your iOS app from common mistakes](https://www.artemnovichkov.com/blog/how-to-inspect-ipa-files)
+- [AI Code Editors, WWDC Wishlist, SwiftUI State, Indie App Dev](https://youtu.be/cWeTwNahX_M?si=wVLFlyklXVMaKvKx)
+
+<details>
+<summary>2025</summary>
+
+### Episode 135
 - [SwiftUI Alert Guide + Code Examples](https://www.avanderlee.com/swiftui/swiftui-alert-presenting/)
 - [The Great App That Nobody Knows About](https://www.swiftjectivec.com/a-great-app-that-no-one-knows-about/)
 - [Structuring Spacing for Scalable Mobile UIs](https://www.mobilesystemdesign.com/blog/design-system-spacing/)
@@ -10,9 +22,6 @@
 - [New in Swift 6.1: Test Scoping Traits](https://www.pointfree.co/blog/posts/169-new-in-swift-6-1-test-scoping-traits)
 - [Text concatenation vs Text interpolation in SwiftUI](https://nilcoalescing.com/blog/TextConcatenationVsTextInterpolationInSwiftUI/)
 - [Xcode 13.2 Released With Support for Upcoming Swift Playgrounds 4](https://www.iclarified.com/83805/xcode-132-released-with-support-for-upcoming-swift-playgrounds-4)
-
-<details>
-<summary>2025</summary>
 
  ### Episode 134
 - [SwiftUI TabView: Explained with Code Examples](https://www.avanderlee.com/swiftui/tabview-tabbed-views/)
