@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 137
+- [Testing push notifications on the iOS simulator](https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/)
+- [Building Better Apps with RocketSim](https://www.youtube.com/live/4MtostISJTY?si=fT6_R1WyPiLiKDpS)
+- [Adding dependencies to binary Swift packages](https://danielsaidi.com/blog/2025/05/02/adding-dependencies-to-binary-swift-packages)
+- [Applying to, prepping for, and speaking at Deep Dish Swift](https://jacobzivandesign.com/technology/preparing-my-first-talk/)
+- [Dependency container on top of task local values in Swift](https://swiftwithmajid.com/2025/04/30/dependency-container-on-top-of-task-local-values-in-swift/)
+- [Three Indie Marketing Tips from my Deep Dish 2025 Talk](https://www.swiftjectivec.com/three-key-takeaways-from-my-deep-dish-swift-talk-on-indie-marketing/)
+- [How he built iOS apps that PRINT with Cursor + Claude](https://youtu.be/9YPebrSjskU?si=yCyLVSSmC0ZkxZ6F)
+  
+<details>
+<summary>2025</summary>
+
  ### Episode 136
 - [Swift Reduce: Combining elements into a single value](https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/)
 - [Building Better Apps with RocketSim](https://www.youtube.com/live/4MtostISJTY?si=B_sxhYbeysGoRcXO)
@@ -11,8 +23,6 @@
 - [How to inspect .ipa files and secure your iOS app from common mistakes](https://www.artemnovichkov.com/blog/how-to-inspect-ipa-files)
 - [AI Code Editors, WWDC Wishlist, SwiftUI State, Indie App Dev](https://youtu.be/cWeTwNahX_M?si=wVLFlyklXVMaKvKx)
 
-<details>
-<summary>2025</summary>
 
 ### Episode 135
 - [SwiftUI Alert Guide + Code Examples](https://www.avanderlee.com/swiftui/swiftui-alert-presenting/)
