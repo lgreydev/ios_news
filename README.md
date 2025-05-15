@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 137
+ ### Episode 138
+- [Universal Links implementation on iOS](https://www.avanderlee.com/swiftui/universal-links-ios/)
+- [Using Model Context Protocol in iOS apps](https://www.artemnovichkov.com/blog/using-model-context-protocol-in-ios-apps)
+- [Debug crashes in iOS using MetricKit](https://ohmyswift.com/blog/2025/05/08/debug-crashes-in-ios-using-metrickit/)
+- [What's new in Swift 6.2?](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2)
+- [Can You use PreferenceKeys for Testing SwiftUI Views](https://www.swiftyplace.com/blog/swiftui-testing-with-preferencekeys)
+- [Concurrency-Safe Testing in Swift 6.1 with @TaskLocal and Test Scoping](https://www.mobiledevdiary.com/posts/concurency-safe-testing-in-swift-6-1/)
+- [Stop Rebuilding UI with Play to Xcode](https://youtu.be/DWQA6bEILes?si=3XRKfthGKCLliKPh)
+
+<details>
+<summary>2025</summary>
+
+### Episode 137
 - [Testing push notifications on the iOS simulator](https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/)
 - [Building Better Apps with RocketSim](https://www.youtube.com/live/4MtostISJTY?si=fT6_R1WyPiLiKDpS)
 - [Adding dependencies to binary Swift packages](https://danielsaidi.com/blog/2025/05/02/adding-dependencies-to-binary-swift-packages)
@@ -11,8 +23,6 @@
 - [Three Indie Marketing Tips from my Deep Dish 2025 Talk](https://www.swiftjectivec.com/three-key-takeaways-from-my-deep-dish-swift-talk-on-indie-marketing/)
 - [How he built iOS apps that PRINT with Cursor + Claude](https://youtu.be/9YPebrSjskU?si=yCyLVSSmC0ZkxZ6F)
   
-<details>
-<summary>2025</summary>
 
  ### Episode 136
 - [Swift Reduce: Combining elements into a single value](https://www.avanderlee.com/swift/swift-reduce-combining-elements-into-a-single-value/)
