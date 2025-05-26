@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 139
+- [Institutional Purchases: Understanding and Detecting](https://www.avanderlee.com/optimization/institutional-purchases-volume-purchase-program/)
+- [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q)
+- [Default isolation with Swift 6.2](https://www.massicotte.org/default-isolation-swift-6_2)
+- [How to Apply Geometry Effects Without Breaking Your Layout](https://fatbobman.com/en/posts/demystifying-swiftuis-ignoredbylayout/)
+- [Optimized mathematical computations in Swift](https://swiftwithmajid.com/2025/05/13/optimized-mathematical-computations-in-swift/)
+- [SwiftUI Picker With Optional Selection](https://useyourloaf.com/blog/swiftui-picker-with-optional-selection/)
+- [Testing Remote Push Notifications with iOS Simulators](https://www.tiagohenriques.dev/blog/testing-push-notifications-ios-simulators)
+
+<details>
+<summary>2025</summary>
+
  ### Episode 138
 - [Universal Links implementation on iOS](https://www.avanderlee.com/swiftui/universal-links-ios/)
 - [Using Model Context Protocol in iOS apps](https://www.artemnovichkov.com/blog/using-model-context-protocol-in-ios-apps)
@@ -11,8 +23,6 @@
 - [Concurrency-Safe Testing in Swift 6.1 with @TaskLocal and Test Scoping](https://www.mobiledevdiary.com/posts/concurency-safe-testing-in-swift-6-1/)
 - [Stop Rebuilding UI with Play to Xcode](https://youtu.be/DWQA6bEILes?si=3XRKfthGKCLliKPh)
 
-<details>
-<summary>2025</summary>
 
 ### Episode 137
 - [Testing push notifications on the iOS simulator](https://www.avanderlee.com/workflow/testing-push-notifications-ios-simulator/)
