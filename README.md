@@ -2,7 +2,19 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 139
+ ### Episode 140
+- [Unique values in Swift: Removing duplicates from an array](https://www.avanderlee.com/swift/unique-values-removing-duplicates-array/)
+- [Tips and tricks for when using SwiftUI’s ViewBuilder](https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks/)
+- [Microapps architecture in Swift. Scaling.](https://swiftwithmajid.com/2025/05/27/microapps-architecture-in-swift-scaling/)
+- [Automatic SwiftUI View Tracing with Swift Macros](https://medium.com/@alexandercohen/how-we-built-a-swift-macro-that-automatically-wraps-any-swiftui-view-no-more-manual-f5761376f923)
+- [Accessorise Your Context Menu Interactions](https://sebvidal.com/blog/accessorise-your-context-menu-interactions/)
+- [2025 State of Mobile Release Management](https://www.runway.team/whitepapers/2025-state-of-mobile-release-management-report)
+- [Sharing My AI-Powered Coding Workflow To Build Apps REALLY Fast](https://youtu.be/LvsgCdWss4I?si=4nFVC18bS6OhKJAs)
+
+<details>
+<summary>2025</summary>
+ 
+### Episode 139
 - [Institutional Purchases: Understanding and Detecting](https://www.avanderlee.com/optimization/institutional-purchases-volume-purchase-program/)
 - [RocketSim Meetup at CommunityKit](https://lu.ma/g4m3q37q)
 - [Default isolation with Swift 6.2](https://www.massicotte.org/default-isolation-swift-6_2)
@@ -11,8 +23,6 @@
 - [SwiftUI Picker With Optional Selection](https://useyourloaf.com/blog/swiftui-picker-with-optional-selection/)
 - [Testing Remote Push Notifications with iOS Simulators](https://www.tiagohenriques.dev/blog/testing-push-notifications-ios-simulators)
 
-<details>
-<summary>2025</summary>
 
  ### Episode 138
 - [Universal Links implementation on iOS](https://www.avanderlee.com/swiftui/universal-links-ios/)
