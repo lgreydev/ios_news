@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 141
+- [Running Code Snippets in Xcode’s canvas](https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/)
+- [Why I’ve Filed Over 1,000 Apple Feedbacks — And Why You Should Too](https://www.linkedin.com/pulse/why-ive-filed-over-1000-apple-feedbacks-you-should-too-eric-dorphy-qfe8c/)
+- [Adding Icon Composer icons to Xcode](https://useyourloaf.com/blog/adding-icon-composer-icons-to-xcode/)
+- [Reverse-Engineering Xcode's Coding Intelligence prompt](https://peterfriese.dev/blog/2025/reveng-xcode-coding-intelligence/)
+- [Exploring a new visual language: Liquid Glass](https://www.createwithswift.com/exploring-a-new-visual-language-liquid-glass/)
+- [An open source tool to speed up iOS app launch](https://blog.sentry.io/open-source-tool-speed-up-ios-app-launch/)
+  
+
+<details>
+<summary>2025</summary>
+
  ### Episode 140
 - [Unique values in Swift: Removing duplicates from an array](https://www.avanderlee.com/swift/unique-values-removing-duplicates-array/)
 - [Tips and tricks for when using SwiftUI’s ViewBuilder](https://www.swiftbysundell.com/articles/swiftui-viewbuilder-tips-and-tricks/)
@@ -11,8 +23,6 @@
 - [2025 State of Mobile Release Management](https://www.runway.team/whitepapers/2025-state-of-mobile-release-management-report)
 - [Sharing My AI-Powered Coding Workflow To Build Apps REALLY Fast](https://youtu.be/LvsgCdWss4I?si=4nFVC18bS6OhKJAs)
 
-<details>
-<summary>2025</summary>
  
 ### Episode 139
 - [Institutional Purchases: Understanding and Detecting](https://www.avanderlee.com/optimization/institutional-purchases-volume-purchase-program/)
