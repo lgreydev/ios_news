@@ -2,6 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 142
+- [Swift Concurrency & Swift 6 Course (Launch offer)](https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/)
+- [Vibe coding in Xcode 26: is it good?](https://www.swiftwithvincent.com/blog/vibe-coding-in-xcode-26-is-it-good)
+- [The Anatomy of a LiquidGlass Button in iOS 26](https://www.natashatherobot.com/p/liquidglass-button-ios-26)
+- [Schedule a countdown timer with AlarmKit](https://nilcoalescing.com/blog/CountdownTimerWithAlarmKit/)
+- [Finding my Way](https://david-smith.org/blog/2025/07/02/new-maps/)
+- [Designing custom UI with Liquid Glass on iOS 26](https://www.donnywals.com/designing-custom-ui-with-liquid-glass-on-ios-26/)
+
+
+<details>
+<summary>2025</summary>
+
  ### Episode 141
 - [Running Code Snippets in Xcode’s canvas](https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/)
 - [Why I’ve Filed Over 1,000 Apple Feedbacks — And Why You Should Too](https://www.linkedin.com/pulse/why-ive-filed-over-1000-apple-feedbacks-you-should-too-eric-dorphy-qfe8c/)
@@ -10,9 +22,6 @@
 - [Exploring a new visual language: Liquid Glass](https://www.createwithswift.com/exploring-a-new-visual-language-liquid-glass/)
 - [An open source tool to speed up iOS app launch](https://blog.sentry.io/open-source-tool-speed-up-ios-app-launch/)
   
-
-<details>
-<summary>2025</summary>
 
  ### Episode 140
 - [Unique values in Swift: Removing duplicates from an array](https://www.avanderlee.com/swift/unique-values-removing-duplicates-array/)
