@@ -2,6 +2,17 @@
  
  > Last Episode :octocat: :fire:
  
+ ### Episode 143
+- [Threads vs. Tasks in Swift Concurrency](https://www.avanderlee.com/concurrency/threads-vs-tasks-in-swift-concurrency/)
+- [Approachable Concurrency in Swift Packages](https://useyourloaf.com/blog/approachable-concurrency-in-swift-packages/)
+- [ChatGPT in Xcode 26: there’s a hidden prompt!](https://www.swiftwithvincent.com/blog/chatgpt-in-xcode-26-theres-a-hidden-prompt)
+- [My 10 Tips for Using Claude Code](https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/)
+- [Giving Claude Code Eyes to See Your SwiftUI Views](https://twocentstudios.com/2025/07/13/giving-claude-code-eyes-to-see-your-swiftui-views/)
+- [Icon Composer: Tackling Challenges](https://fatbobman.com/en/posts/icon-composer-tackling-challenges/)
+
+<details>
+<summary>2025</summary>
+
  ### Episode 142
 - [Swift Concurrency & Swift 6 Course (Launch offer)](https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/)
 - [Vibe coding in Xcode 26: is it good?](https://www.swiftwithvincent.com/blog/vibe-coding-in-xcode-26-is-it-good)
@@ -10,9 +21,6 @@
 - [Finding my Way](https://david-smith.org/blog/2025/07/02/new-maps/)
 - [Designing custom UI with Liquid Glass on iOS 26](https://www.donnywals.com/designing-custom-ui-with-liquid-glass-on-ios-26/)
 
-
-<details>
-<summary>2025</summary>
 
  ### Episode 141
 - [Running Code Snippets in Xcode’s canvas](https://www.avanderlee.com/swift/playground-macro-running-code-snippets-in-xcodes-canvas/)
