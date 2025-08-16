@@ -2,7 +2,18 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 143
+ ### Episode 144
+- [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
+- [Streaming changes with Observations](https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations/)
+- [@isolated(any)](https://nshipster.com/isolated-any/)
+- [Define the scroll edge effect style of a scroll view for Liquid Glass](https://www.createwithswift.com/define-the-scroll-edge-effect-style-of-a-scroll-view-for-liquid-glass/)
+- [SwiftUI for Mac 2025](https://troz.net/post/2025/swiftui-mac-2025/)
+- [Working with partially generated content in Xcode previews](https://www.artemnovichkov.com/blog/working-with-partially-generated-content-in-xcode-previews)
+  
+<details>
+<summary>2025</summary>
+
+### Episode 143
 - [Threads vs. Tasks in Swift Concurrency](https://www.avanderlee.com/concurrency/threads-vs-tasks-in-swift-concurrency/)
 - [Approachable Concurrency in Swift Packages](https://useyourloaf.com/blog/approachable-concurrency-in-swift-packages/)
 - [ChatGPT in Xcode 26: there’s a hidden prompt!](https://www.swiftwithvincent.com/blog/chatgpt-in-xcode-26-theres-a-hidden-prompt)
@@ -10,8 +21,6 @@
 - [Giving Claude Code Eyes to See Your SwiftUI Views](https://twocentstudios.com/2025/07/13/giving-claude-code-eyes-to-see-your-swiftui-views/)
 - [Icon Composer: Tackling Challenges](https://fatbobman.com/en/posts/icon-composer-tackling-challenges/)
 
-<details>
-<summary>2025</summary>
 
  ### Episode 142
 - [Swift Concurrency & Swift 6 Course (Launch offer)](https://www.avanderlee.com/swift/swift-concurrency-course-tutorial-book/)
