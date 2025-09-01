@@ -2,16 +2,26 @@
  
  > Last Episode :octocat: :fire:
  
- ### Episode 144
+ ### Episode 145
+- [Swift Computed Property: Code Examples](https://www.avanderlee.com/swift/computed-property/)
+- [Swift Raw Identifiers](https://useyourloaf.com/blog/swift-raw-identifiers/)
+- [Open Intent in iOS 26](https://www.swiftjectivec.com/open-intent-additions-ios26-in-appintents/)
+- [SwiftUI WebView](https://troz.net/post/2025/swiftui-webview/)
+- [Managing code deprecations on iOS](https://www.scottberrevoets.com/2025/08/20/managing-code-deprecations-on-ios/)
+- [Corner concentricity in SwiftUI on iOS 26](https://nilcoalescing.com/blog/ConcentricRectangleInSwiftUI/)
+
+  
+<details>
+<summary>2025</summary>
+
+### Episode 144
 - [Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
 - [Streaming changes with Observations](https://swiftwithmajid.com/2025/07/30/streaming-changes-with-observations/)
 - [@isolated(any)](https://nshipster.com/isolated-any/)
 - [Define the scroll edge effect style of a scroll view for Liquid Glass](https://www.createwithswift.com/define-the-scroll-edge-effect-style-of-a-scroll-view-for-liquid-glass/)
 - [SwiftUI for Mac 2025](https://troz.net/post/2025/swiftui-mac-2025/)
 - [Working with partially generated content in Xcode previews](https://www.artemnovichkov.com/blog/working-with-partially-generated-content-in-xcode-previews)
-  
-<details>
-<summary>2025</summary>
+
 
 ### Episode 143
 - [Threads vs. Tasks in Swift Concurrency](https://www.avanderlee.com/concurrency/threads-vs-tasks-in-swift-concurrency/)
